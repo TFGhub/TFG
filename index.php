@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 
-<!-- Mirrored from thememascot.net/demo/personal/j/consulting-pro/v3.0/demo/index-mp-layout3.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 17 Oct 2018 09:39:48 GMT -->
 <head>
 
 <!-- Meta Tags -->
@@ -162,76 +161,7 @@
             <ul class="menuzord-menu">
               <li class="home"><a href="#"><i class="fa fa-home font-28"></i></a></li>
               <li class="active"><a href="#home">Home</a>
-                <ul class="dropdown">
-                  <li><a href="#">Multipage Layouts</a>
-                    <ul class="dropdown">
-                      <li><a href="index-mp-layout1.html">Layout1</a></li>
-                      <li><a href="index-mp-layout2.html">Layout2</a></li>
-                      <li><a href="index-mp-layout3.html">Layout3</a></li>
-                      <li><a href="index-mp-layout4.html">Layout4</a></li>
-                      <li><a href="index-mp-layout5.html">Layout5</a></li>
-                      <li><a href="index-mp-layout6.html">Layout6</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="#">Singlepage Layouts</a>
-                    <ul class="dropdown">
-                      <li><a href="index-sp-layout1.html">Layout1</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="#">Boxed Layouts</a>
-                    <ul class="dropdown">
-                      <li><a href="index-boxed-mp-layout1.html">Layout1</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="#">Dark Layouts</a>
-                    <ul class="dropdown">
-                      <li><a href="index-dark-mp-layout1.html">Layout1</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="#">Magazine Home Layouts</a>
-                    <ul class="dropdown">
-                      <li><a href="index-magazine-home-layout1.html">Magazine Home layout1</a></li>
-                      <li><a href="index-magazine-home-layout2.html">Magazine Home layout2</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="#">Hot Layouts <span class="label label-success">New</span></a>
-                    <ul class="dropdown">
-                      <li><a href="index-hot-personal-home.html">Personal Home Layout</a></li>
-                      <li><a href="index-vertical-nav-layout1.html">Vertical-Nav layout1</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="index-hot-shop-home.html">Shop Home</a></li>
-                  <li><a href="#">Home Variations</a>
-                    <ul class="dropdown">
-                      <li><a href="#">Rev Slider</a>
-                        <ul class="dropdown">
-                          <li><a href="index-home-variation-revslider-style1.html">Layout1</a></li>
-                          <li><a href="index-home-variation-revslider-style2.html">Layout2</a></li>
-                        </ul>
-                      </li>
-                      <li><a href="#">Maximage Slider</a>
-                        <ul class="dropdown">
-                          <li><a href="index-home-variation-maximageslider-style1.html">Layout1</a></li>
-                          <li><a href="index-home-variation-maximageslider-style2.html">Layout2</a></li>
-                          <li><a href="index-home-variation-maximageslider-style3.html">Layout3</a></li>
-                        </ul>
-                      </li>
-                      <li><a href="index-home-variation-owl-carousel.html">Owl Carousel</a></li>
-                      <li><a href="index-home-variation-owl-image-slider.html">Owl Image Slider</a></li>
-                      <li><a href="index-home-variation-typed-text.html">Typed Text Layout</a></li>
-                      <li><a href="index-home-variation-video-background.html">Youtube Background Video</a></li>
-                      <li><a href="index-home-variation-html5-video.html">Html5 Background Video</a></li>
-                      <li><a href="index-home-variation-bg-image-parallax.html">Bg Image Parallax Layout</a></li>
-                      <li><a href="index-home-variation-bg-static.html">Bg Static Layout</a></li>
-                      <li><a href="#">Home Appointment Form</a>
-                        <ul class="dropdown">
-                          <li><a href="index-home-variation-appointment-form-style1.html">Layout1</a></li>
-                          <li><a href="index-home-variation-appointment-form-style2.html">Layout2</a></li>
-                        </ul>
-                      </li>
-                    </ul>
-                  </li>
-                </ul>
+               
               </li>
               <li><a href="#">Features <span class="label label-success">New</span></a>
                 <ul class="dropdown">
