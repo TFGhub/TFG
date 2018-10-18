@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
-
-<!-- Mirrored from thememascot.net/demo/personal/j/consulting-pro/v3.0/demo/index-mp-layout3.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 17 Oct 2018 09:39:48 GMT -->
 <head>
 
 <!-- Meta Tags -->
