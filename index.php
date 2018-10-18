@@ -8,7 +8,6 @@
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 <meta name="description" content="Consulting Finance Corporate Business - ConsultingPro HTML Template" />
-<meta name="keywords" content="consulting,finance,advisor,consultant,business,service,insurance,agency" />
 <meta name="author" content="ThemeMascot" />
 
 <!-- Page Title -->
