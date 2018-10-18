@@ -12,7 +12,7 @@
 <meta name="author" content="ThemeMascot" />
 
 <!-- Page Title -->
-<title>Consulting Finance Corporate Business - ConsultingPro</title>
+<title>The Future Generation </title>
 
 <!-- Favicon and Touch Icons -->
 <link href="images/favicon.png" rel="shortcut icon" type="image/png">
