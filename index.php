@@ -1440,8 +1440,7 @@
                 <div class="col-sm-6 col-md-3">
                     <div class="widget dark">
                         <img class="mt-5 mb-20" alt="" src="images/logo-footer.png">
-                        <p class="font-12 mt-20 mb-20">ThemeMascot is a library of corporate and business templates with
-                            predefined web elements which helps you to build your own site.</p>
+                        <p class="font-12 mt-20 mb-20">The Future Generation.</p>
                         <a class="btn btn-default btn-sm btn-transparent mt-0" href="#">Read More</a>
                         <ul class="list-inline mt-15">
                             <li class="m-0 pl-10 pr-10"><i class="fa fa-phone text-theme-colored2 mr-5"></i> <a
