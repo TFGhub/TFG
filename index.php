@@ -64,147 +64,20 @@
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+
 </head>
 <body class="">
 <div id="wrapper" class="clearfix">
     <!-- preloader -->
-    <div id="preloader">
-        <div id="spinner">
-            <img alt="" src="images/preloaders/5.gif">
-        </div>
-        <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>
-    </div>
+    <!-- <div id="preloader">
+         <div id="spinner">
+             <img alt="" src="images/preloaders/5.gif">
+         </div>
+         <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>
+     </div>-->
 
     <!-- Header -->
-    <header id="header" class="header modern-header modern-header-theme-colored">
-        <div class="header-top bg-theme-colored2 sm-text-center">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="widget text-white">
-                            <ul class="list-inline xs-text-center text-white">
-                                <li class="m-0 pl-10 pr-10"><a href="#" class="text-white">
-                                        <i class="fa fa-phone text-white"></i> 020 000 000
-                                    </a>
-                                </li>
-                                <li class="m-0 pl-10 pr-10">
-                                    <a href="#" class="text-white">
-                                        <i class="fa fa-envelope-o text-white mr-5"></i>info@the-futuregeneration.org
-                                    </a>
-                                </li>
-                                <li class="m-0 pl-10 pr-10">
-                                    <a href="#" class="text-white">
-                                        <i class="fa fa-building-o text-white mr-5"></i>Nairobi
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-4 pr-0">
-                        <div class="widget">
-                            <ul class="styled-icons icon-sm pull-right flip sm-pull-none sm-text-center mt-5">
-                                <li><a href="#"><i class="fa fa-facebook text-white"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter text-white"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus text-white"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram text-white"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin text-white"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-2">
-                        <ul class="list-inline sm-pull-none sm-text-center text-right text-white mb-sm-20 mt-10">
-                            <li class="m-0 pl-10"><a href="ajax-load/login-form.php" class="text-white ajaxload-popup"><i
-                                            class="fa fa-user-o mr-5 text-white"></i> Login /</a></li>
-                            <li class="m-0 pl-0 pr-10">
-                                <a href="ajax-load/register-form.php" class="text-white ajaxload-popup"><i
-                                            class="fa fa-edit mr-5"></i>Register</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="header-middle p-0 bg-lightest xs-text-center pb-30">
-            <div class="container pt-20 pb-20">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-12 col-md-3">
-                        <a class="menuzord-brand pull-left flip sm-pull-center mb-15" href="index.php"><img
-                                    src="images/logo-wide2.png" alt=""></a>
-                    </div>
-                    <div class="col-xs-12 col-sm-12 col-md-9">
-                        <div class="header-widget-contact-info-box sm-text-center">
-                            <div class="media element contact-info">
-                                <div class="media-body">
-                                    <div class="search-form">
-                                        <form>
-                                            <div class="input-group">
-                                                <input type="text" placeholder="Click to Search" class="form-control search-input">
-                                                <span class="input-group-btn">
-                                                    <button type="submit" class="btn search-button btn-theme-colored">
-                                                        <i class="fa fa-search"></i>
-                                                    </button>
-                                                </span>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="media element contact-info">
-                                <div class="media-body">
-                                    <a href="#" class="btn btn-theme-colored" role="button">Explore TFG</a>
-                                </div>
-                            </div>
-                            <div class="media element contact-info">
-                                <div class="media-body">
-                                    <a href="#" class="btn btn-theme-colored" role="button">Press Center</a>
-                                </div>
-                            </div>
-                            <div class="media element contact-info">
-                                <div class="media-body">
-                                    <a href="#" class="btn btn-success" role="button">DONATE</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="header-nav">
-            <div class="header-nav-wrapper navbar-scrolltofixed">
-                <div class="container">
-                    <nav id="menuzord" class="menuzord red">
-                        <ul class="menuzord-menu">
-                            <li class="active"><a href="#home">HOME</a>
-                                <ul class="dropdown">
-                                    <li><a href="#">Multipage Layouts</a>
-                                        <ul class="dropdown">
-                                            <li><a href="index-mp-layout1.html">Layout1</a></li>
-                                            <li><a href="index-mp-layout2.html">Layout2</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Singlepage Layouts</a>
-                                        <ul class="dropdown">
-                                            <li><a href="index-sp-layout1.html">Layout1</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="#">WHO WE ARE</a></li>
-                            <li><a href="#">WHAT WE DO</a></li>
-                            <li><a href="#">WHEN WE WORK</a></li>
-                            <li><a href="#">REPORTS</a></li>
-                        </ul>
-                        <ul class="menuzord-menu pull-right sm-pull-none mb-sm-15">
-                            <li><a href="#">TAKE ACTION</a></li>
-                            <li><a href="#">HOW?</a></li>
-                            <li><a href="#">BLOG</a></li>
-                            <li><a href="#">CONTACT</a></li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </header>
+    <?php include "includes/header.php" ?>
 
     <!-- Start main-content -->
     <div class="main-content">
@@ -214,7 +87,7 @@
 
                 <!-- START REVOLUTION SLIDER 5.0.7 -->
                 <div id="rev_slider_home_wrapper" class="rev_slider_wrapper" data-alias="news-gallery34"
-                     style="margin:0px auto; background-color:#ffffff; padding:0px; margin-top:0px; margin-bottom:0px;">
+                     style="margin:0 auto; background-color:#ffffff; padding:0; margin-top:0; margin-bottom:0;">
                     <!-- START REVOLUTION SLIDER 5.0.7 fullwidth mode -->
                     <div id="rev_slider_home" class="rev_slider fullwidthabanner" style="display:none;"
                          data-version="5.0.7">
@@ -572,8 +445,7 @@
                                     <img src="images/flaticon/1.png" alt="">
                                 </a>
                                 <h4 class="text-uppercase font-weight-600 mt-0">Why choose TFG?</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias non nulla
-                                    placeat, odio, qui dicta alias.</p>
+                                <p>why choose TFG.</p>
                                 <span class="features-box-number">01</span>
                             </div>
                         </div>
@@ -583,8 +455,7 @@
                                     <img src="images/flaticon/2.png" alt="">
                                 </a>
                                 <h4 class="text-uppercase font-weight-600 mt-0">Consumer Insights</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias non nulla
-                                    placeat, odio, qui dicta alias.</p>
+                                <p>Consumer Insights.</p>
                                 <span class="features-box-number">02</span>
                             </div>
                         </div>
@@ -594,8 +465,7 @@
                                     <img src="images/flaticon/3.png" alt="">
                                 </a>
                                 <h4 class="text-uppercase font-weight-600 mt-0">Business Growth</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias non nulla
-                                    placeat, odio, qui dicta alias.</p>
+                                <p>Business growth.</p>
                                 <span class="features-box-number">03</span>
                             </div>
                         </div>
@@ -610,12 +480,10 @@
                 <div class="section-title text-center">
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
-                            <h2 class="text-uppercase title">Welcome To<span
-                                        class="text-theme-colored2"> The Future Generation</span></h2>
+                            <h2 class="text-uppercase title">About Us<span
+                                        class="text-theme-colored2"> (The Future Generation)</span></h2>
                             <div class="diamond-line-centered-theme-colored2"></div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum consectetur sit ullam
-                                perspiciatis, deserunt adipisicing elit. Cum consectetur sit ullam perspiciatis,
-                                deserunt.</p>
+                            <p>The Future Generation Organization is a...</p>
                         </div>
                     </div>
                 </div>
@@ -624,91 +492,22 @@
                         <div class="col-md-6 col-md-4">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/cr1.jpg" alt="">
-                                <h4 class="font-weight-600 mt-20">About Our Company</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, magnam dolore
-                                    tempore orem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor
-                                    sit amet, consectetur adipisicing elit. Pariatur, magnames dolore tempore orem ipsum
-                                    dolor sit amet, </p>
-                                <a href="#" class="text-theme-colored2 font-weight-600 font-14">read more →</a>
+                                <h4 class="font-weight-600 mt-20">About Our Organization</h4>
+                                <p>This information is about TFG Organization. </p>
                             </div>
                         </div>
                         <div class="col-md-6 col-md-4 mt-sm-30">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/cr2.jpg" alt="">
-                                <h4 class="font-weight-600 mt-20">ConsultingPro Mission</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, magnam dolore
-                                    tempore orem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor
-                                    sit amet, consectetur adipisicing elit. Pariatur, magnames dolore tempore orem ipsum
-                                    dolor sit amet, </p>
-                                <a href="#" class="text-theme-colored2 font-weight-600 font-14">read more →</a>
+                                <h4 class="font-weight-600 mt-20">TFG Mission</h4>
+                                <p>This is our mission </p>
                             </div>
                         </div>
-                        <div class="col-md-4">
-                            <div class="bg-theme-colored2 border-1px p-25 pt-15 pb-15">
-                                <h3 class="text-white m-0 mb-20">Request a Call Back</h3>
-                                <!-- Appointment Form -->
-                                <form id="home_appointment_form" name="home_appointment_form" method="post"
-                                      action="http://thememascot.net/demo/personal/j/consulting-pro/v3.0/demo/includes/appointment.php">
-                                    <div class="row">
-                                        <div class="col-sm-12">
-                                            <div class="form-group mb-10">
-                                                <input name="form_name" class="form-control" type="text" required=""
-                                                       placeholder="Enter Name" aria-required="true">
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-12">
-                                            <div class="form-group mb-10">
-                                                <input name="form_email" class="form-control required email"
-                                                       type="email" placeholder="Enter Email" aria-required="true">
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-12">
-                                            <div class="form-group mb-10">
-                                                <input name="form_appontment_date"
-                                                       class="form-control required datetime-picker" type="text"
-                                                       placeholder="Appoinment Date & Time" aria-required="true">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="form-group mb-10">
-                                        <textarea id="form_message" name="form_message" class="form-control required"
-                                                  placeholder="Enter Message" rows="3" aria-required="true"></textarea>
-                                    </div>
-                                    <div class="form-group mb-0 mt-10">
-                                        <input id="form_botcheck" name="form_botcheck" class="form-control"
-                                               type="hidden" value="">
-                                        <button type="submit" class="btn btn-default btn-flat mt-10"
-                                                data-loading-text="Please wait...">Send Message
-                                        </button>
-                                    </div>
-                                </form>
-
-                                <!-- Appointment Form Validation-->
-                                <script type="text/javascript">
-                                    $("#home_appointment_form").validate({
-                                        submitHandler: function (form) {
-                                            var form_btn = $(form).find('button[type="submit"]');
-                                            var form_result_div = '#form-result';
-                                            $(form_result_div).remove();
-                                            form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
-                                            var form_btn_old_msg = form_btn.html();
-                                            form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
-                                            $(form).ajaxSubmit({
-                                                dataType: 'json',
-                                                success: function (data) {
-                                                    if (data.status == 'true') {
-                                                        $(form).find('.form-control').val('');
-                                                    }
-                                                    form_btn.prop('disabled', false).html(form_btn_old_msg);
-                                                    $(form_result_div).html(data.message).fadeIn('slow');
-                                                    setTimeout(function () {
-                                                        $(form_result_div).fadeOut('slow')
-                                                    }, 6000);
-                                                }
-                                            });
-                                        }
-                                    });
-                                </script>
+                        <div class="col-md-6 col-md-4 mt-sm-30">
+                            <div class="mb-sm-30">
+                                <img class="img-fullwidth" src="images/about/cr1.jpg" alt="">
+                                <h4 class="font-weight-600 mt-20">TFG Vision</h4>
+                                <p>This is our vision. </p>
                             </div>
                         </div>
                     </div>
@@ -722,7 +521,88 @@
                 <div class="section-title">
                     <div class="row">
                         <div class="col-md-12">
-                            <h2 class="text-uppercase title text-white">Popular <span class="text-theme-colored2">Services</span>
+                            <h2 class="text-uppercase title text-white">Popular <span
+                                        class="text-theme-colored2">Services</span>
+                            </h2>
+                            <div class="diamond-line-left-theme-colored2"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="section-content">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
+                                            class="fa fa-bar-chart-o text-theme-colored2"></i></a>
+                                <div class="media-body">
+                                    <h4 class="media-heading heading text-white">Financial Analysis</h4>
+                                    <p class="text-gray-darkgray">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
+                                            class="fa fa-area-chart text-theme-colored2"></i></a>
+                                <div class="media-body">
+                                    <h4 class="media-heading heading text-white">Business Growth</h4>
+                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
+                                            class="fa fa-pie-chart text-theme-colored2"></i></a>
+                                <div class="media-body">
+                                    <h4 class="media-heading heading text-white">Success Report</h4>
+                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
+                                            class="fa fa-cubes text-theme-colored2"></i></a>
+                                <div class="media-body">
+                                    <h4 class="media-heading heading text-white">Marketing Plan</h4>
+                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
+                                            class="fa fa-globe text-theme-colored2"></i></a>
+                                <div class="media-body">
+                                    <h4 class="media-heading heading text-white">Global Business</h4>
+                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
+                                            class="fa fa-bug text-theme-colored2"></i></a>
+                                <div class="media-body">
+                                    <h4 class="media-heading heading text-white">Risk Management</h4>
+                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section: Reports -->
+        <section id="reports" class="services layer-overlay overlay-theme-colored-9">
+            <div class="container pb-30">
+                <div class="section-title">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h2 class="text-uppercase title text-white">Our <span
+                                        class="text-theme-colored2">Reports</span>
                             </h2>
                             <div class="diamond-line-left-theme-colored2"></div>
                         </div>
@@ -1023,76 +903,6 @@
             </div>
         </section>
 
-        <!-- Section: Pricing -->
-        <!--<section id="pricing">
-            <div class="container pb-40">
-                <div class="section-title text-center">
-                    <div class="row">
-                        <div class="col-md-8 col-md-offset-2">
-                            <h2 class="text-uppercase title">Pricing<span class="text-theme-colored2"> Tables</span>
-                            </h2>
-                            <div class="diamond-line-centered-theme-colored2"></div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum consectetur sit ullam
-                                perspiciatis, deserunt adipisicing elit. Cum consectetur sit ullam perspiciatis,
-                                deserunt.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="section-content">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-6 col-md-4 hvr-float-shadow mb-sm-30">
-                            <div class="pricing-table bg-silver-deep text-center maxwidth400 pt-10">
-                                <h2 class="package-type text-uppercase line-bottom-centered mb-50">Premium</h2>
-                                <h2 class="price text-theme-colored2 font-opensans font-weight-400 font-64 bg-white pt-10 pb-20 mb-0">
-                                    <span class="font-36 currency">$</span>220 <span
-                                            class="font-16 text-black">/ Month</span></h2>
-                                <ul class="list price-list theme-colored text-left flip check-circle mt-0 mb-20">
-                                    <li>Garden Care &amp; Lawn Moving</li>
-                                    <li>Forest Planting</li>
-                                    <li>Free Rubbish Removal</li>
-                                    <li>24 Hours Service</li>
-                                </ul>
-                                <a class="btn btn-lg btn-theme-colored text-uppercase btn-block pt-20 pb-20 btn-flat"
-                                   href="#">Signup</a>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 hvr-float-shadow mb-sm-30">
-                            <div class="pricing-table bg-silver-deep text-center maxwidth400 pt-10">
-                                <h2 class="package-type text-uppercase line-bottom-centered mb-50">Gold</h2>
-                                <h2 class="price text-theme-colored2 font-opensans font-weight-400 font-64 bg-white pt-10 pb-20 mb-0">
-                                    <span class="font-36 currency">$</span>280 <span
-                                            class="font-16 text-black">/ Month</span></h2>
-                                <ul class="list price-list theme-colored text-left flip check-circle mt-0 mb-20">
-                                    <li>Garden Care &amp; Lawn Moving</li>
-                                    <li>Forest Planting</li>
-                                    <li>Free Rubbish Removal</li>
-                                    <li>24 Hours Service</li>
-                                </ul>
-                                <a class="btn btn-lg btn-theme-colored text-uppercase btn-block pt-20 pb-20 btn-flat"
-                                   href="#">Signup</a>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 hvr-float-shadow mb-sm-30">
-                            <div class="pricing-table bg-silver-deep text-center maxwidth400 pt-10">
-                                <h2 class="package-type text-uppercase line-bottom-centered mb-50">Silver</h2>
-                                <h2 class="price text-theme-colored2 font-opensans font-weight-400 font-64 bg-white pt-10 pb-20 mb-0">
-                                    <span class="font-36 currency">$</span>340 <span
-                                            class="font-16 text-black">/ Month</span></h2>
-                                <ul class="list price-list theme-colored text-left flip check-circle mt-0 mb-20">
-                                    <li>Garden Care &amp; Lawn Moving</li>
-                                    <li>Forest Planting</li>
-                                    <li>Free Rubbish Removal</li>
-                                    <li>24 Hours Service</li>
-                                </ul>
-                                <a class="btn btn-lg btn-theme-colored text-uppercase btn-block pt-20 pb-20 btn-flat"
-                                   href="#">Signup</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>-->
-
         <!-- Section: Team -->
         <section id="team" class="bg-silver-light">
             <div class="container pb-40">
@@ -1387,6 +1197,126 @@
             </div>
         </section>
 
+        <!-- Divider: Contact Us-->
+        <section class="divider" id="contact">
+            <div class="container pt-50 pb-70">
+                <div class="section-title text-center">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2">
+                            <h2 class="text-uppercase title">Contact<span class="text-theme-colored2"> Us</span></h2>
+                            <div class="diamond-line-centered-theme-colored2"></div>
+                            <p>Talk to us by filling the form below. Thanks!</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row pt-10">
+                    <div class="col-md-5">
+                        <div class="col-sm-12 col-md-12 mb-10">
+                            <div class="contact-info text-center bg-silver-light border-1px">
+                                <h4><span class="fa fa-phone font-18 mb-10 text-theme-colored2"></span> Call Us</h4>
+                                <h6 class="text-gray">Phone: 020 000 000</h6>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-12 mb-10">
+                            <div class="contact-info text-center bg-silver-light border-1px">
+                                <h4><span class="fa fa-map-marker font-18 mb-10 text-theme-colored2"></span> Address
+                                </h4>
+                                <h6 class="text-gray">Nairobi</h6>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-12 mb-10">
+                            <div class="contact-info text-center bg-silver-light border-1px">
+                                <h4><span class="fa fa-envelope font-18 mb-10 text-theme-colored2"></span> Email</h4>
+                                <h6 class="text-gray">info@the-futuregeneration.org</h6>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-12 mb-10">
+                            <div class="contact-info text-center bg-silver-light border-1px">
+                                <h4><span class="fa fa-fax font-18 mb-10 text-theme-colored2"></span> Fax</h4>
+                                <h6 class="text-gray">(020) 123 4567</h6>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-7">
+                        <h4 class="mt-0 mb-30 line-bottom-theme-colored-2">Interested in discussing?</h4>
+                        <!-- Contact Form -->
+                        <form id="contact_form" name="contact_form" class=""
+                              action="http://thememascot.net/demo/personal/j/consulting-pro/v3.0/demo/includes/sendmail.php"
+                              method="post">
+
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group mb-30">
+                                        <input id="form_name" name="form_name" class="form-control" type="text"
+                                               placeholder="Enter Name" required="">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group mb-30">
+                                        <input id="form_email" name="form_email" class="form-control required email"
+                                               type="email" placeholder="Enter Email">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group mb-30">
+                                        <input id="form_subject" name="form_subject" class="form-control required"
+                                               type="text" placeholder="Enter Subject">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group mb-30">
+                                        <input id="form_phone" name="form_phone" class="form-control" type="text"
+                                               placeholder="Enter Phone">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-group mb-30">
+                                <textarea id="form_message" name="form_message" class="form-control required" rows="7"
+                                          placeholder="Enter Message"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden"
+                                       value=""/>
+                                <button type="submit" class="btn btn-flat btn-default bg-hover-theme-colored mr-5"
+                                        data-loading-text="Please wait...">Send your message
+                                </button>
+                                <button type="reset" class="btn btn-flat btn-theme-colored2 bg-hover-theme-colored">
+                                    Reset
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Divider: Clients -->
+        <!--<section class="clients bg-theme-colored2">
+            <div class="container pt-0 pb-0">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- Section: Clients -->
+                        <!--<div class="owl-carousel-6col clients-logo transparent text-center">
+                            <div class="item"><a href="#"><img src="images/clients/w1.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w2.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w3.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w4.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w5.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w6.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w3.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w4.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w5.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w6.png" alt=""></a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>-->
+
         <!-- Divider: Google Map -->
         <section>
             <div class="container-fluid pt-0 pb-0">
@@ -1409,178 +1339,12 @@
             </div>
         </section>
 
-        <!-- Divider: Clients -->
-        <section class="clients bg-theme-colored2">
-            <div class="container pt-0 pb-0">
-                <div class="row">
-                    <div class="col-md-12">
-                        <!-- Section: Clients -->
-                        <div class="owl-carousel-6col clients-logo transparent text-center">
-                            <div class="item"><a href="#"><img src="images/clients/w1.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w2.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w3.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w4.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w5.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w6.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w3.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w4.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w5.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w6.png" alt=""></a></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
     </div>
     <!-- end main-content -->
     <!-- Footer -->
-    <footer id="footer" class="footer" data-bg-img="images/footer-bg.png" data-bg-color="#152029">
-        <div class="container pt-70 pb-40">
-            <div class="row">
-                <div class="col-sm-6 col-md-3">
-                    <div class="widget dark">
-                        <img class="mt-5 mb-20" alt="" src="images/logo-footer.png">
-                        <p class="font-12 mt-20 mb-20">The Future Generation.</p>
-                        <a class="btn btn-default btn-sm btn-transparent mt-0" href="#">Read More</a>
-                        <ul class="list-inline mt-15">
-                            <li class="m-0 pl-10 pr-10"><i class="fa fa-phone text-theme-colored2 mr-5"></i> <a
-                                        class="text-gray" href="#">123-456-789</a></li>
-                            <li class="m-0 pl-10 pr-10"><i class="fa fa-envelope-o text-theme-colored2 mr-5"></i> <a
-                                        class="text-gray" href="#">contact@yourdomain.com</a></li>
-                            <li class="m-0 pl-10 pr-10"><i class="fa fa-globe text-theme-colored2 mr-5"></i> <a
-                                        class="text-gray" href="#">www.yourdomain.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="widget dark">
-                        <h4 class="widget-title">Useful Links</h4>
-                        <ul class="list angle-double-right list-border">
-                            <li><a href="page-about-style1.html">About Us</a></li>
-                            <li><a href="page-services-style1.html">Our Service</a></li>
-                            <li><a href="page-pricing-style1.html">Pricing Table</a></li>
-                            <li><a href="page-project-style1.html">Project</a></li>
-                            <li><a href="shop-category.html">Shop</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="widget dark">
-                        <h4 class="widget-title">Twitter Feed</h4>
-                        <div class="twitter-feed list-border clearfix" data-username="Envato" data-count="2"></div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="widget dark">
-                        <h4 class="widget-title line-bottom-theme-colored-2">Opening Hours</h4>
-                        <div class="opening-hours">
-                            <ul class="list-border">
-                                <li class="clearfix"><span> Mon - Tues :  </span>
-                                    <div class="value pull-right"> 6.00 am - 10.00 pm</div>
-                                </li>
-                                <li class="clearfix"><span> Wednes - Thurs :</span>
-                                    <div class="value pull-right"> 8.00 am - 6.00 pm</div>
-                                </li>
-                                <li class="clearfix"><span> Fri : </span>
-                                    <div class="value pull-right"> 3.00 pm - 8.00 pm</div>
-                                </li>
-                                <li class="clearfix"><span> Sun : </span>
-                                    <div class="value pull-right"> Closed</div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-10">
-                <div class="col-md-2">
-                    <div class="widget dark">
-                        <h5 class="widget-title mb-10">Call Us Now</h5>
-                        <div class="text-gray">
-                            +61 3 1234 5678 <br>
-                            +12 3 1234 5678
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="widget dark">
-                        <h5 class="widget-title mb-10">Connect With Us</h5>
-                        <ul class="styled-icons icon-bordered icon-sm">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                            <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-5 col-md-offset-2">
-                    <div class="widget dark">
-                        <h5 class="widget-title mb-10">Subscribe Us</h5>
-                        <!-- Mailchimp Subscription Form Starts Here -->
-                        <form id="mailchimp-subscription-form-footer" class="newsletter-form">
-                            <div class="input-group">
-                                <input type="email" value="" name="EMAIL" placeholder="Your Email"
-                                       class="form-control input-lg font-16" data-height="45px" id="mce-EMAIL-footer">
-                                <span class="input-group-btn">
-                  <button data-height="45px" class="btn bg-theme-colored2 text-white btn-xs m-0 font-14" type="submit">Subscribe</button>
-                </span>
-                            </div>
-                        </form>
-                        <!-- Mailchimp Subscription Form Validation-->
-                        <script type="text/javascript">
-                            $('#mailchimp-subscription-form-footer').ajaxChimp({
-                                callback: mailChimpCallBack,
-                                url: '//thememascot.us9.list-manage.com/subscribe/post?u=a01f440178e35febc8cf4e51f&amp;id=49d6d30e1e'
-                            });
 
-                            function mailChimpCallBack(resp) {
-                                // Hide any previous response text
-                                var $mailchimpform = $('#mailchimp-subscription-form-footer'),
-                                    $response = '';
-                                $mailchimpform.children(".alert").remove();
-                                if (resp.result === 'success') {
-                                    $response = '<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' + resp.msg + '</div>';
-                                } else if (resp.result === 'error') {
-                                    $response = '<div class="alert alert-danger"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' + resp.msg + '</div>';
-                                }
-                                $mailchimpform.prepend($response);
-                            }
-                        </script>
-                        <!-- Mailchimp Subscription Form Ends Here -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-bottom bg-theme-colored-transparent-5">
-            <div class="container pt-20 pb-20">
-                <div class="row">
-                    <div class="col-md-6">
-                        <p class="font-11 text-black-777 m-0">Copyright &copy;2018 TheFutureGeneration. All Rights
-                            Reserved</p>
-                    </div>
-                    <div class="col-md-6 text-right">
-                        <div class="widget no-border m-0">
-                            <ul class="list-inline sm-text-center mt-5 font-12">
-                                <li>
-                                    <a href="#">FAQ</a>
-                                </li>
-                                <li>|</li>
-                                <li>
-                                    <a href="#">Help Desk</a>
-                                </li>
-                                <li>|</li>
-                                <li>
-                                    <a href="#">Support</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+    <?php include "includes/footer.php" ?>
+
     <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
 </div>
 <!-- end wrapper -->
