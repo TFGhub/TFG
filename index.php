@@ -710,7 +710,7 @@
                                 <div class="gallery-item marketing finance">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/1.jpg">
+                                            <img class="img-fullwidth" alt="" src="images/works/w1.png">
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
@@ -729,7 +729,7 @@
                                 <div class="gallery-item business finance consulting">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/2.jpg">
+                                            <img class="img-fullwidth" alt="" src="images/works/w1.png">
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
@@ -748,7 +748,7 @@
                                 <div class="gallery-item consulting business">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/3.jpg">
+                                            <img class="img-fullwidth" alt="" src="images/works/w3.png">
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
@@ -767,7 +767,7 @@
                                 <div class="gallery-item finance marketing">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/4.jpg">
+                                            <img class="img-fullwidth" alt="" src="images/works/w4.png">
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
@@ -786,7 +786,7 @@
                                 <div class="gallery-item business finance consulting">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/5.jpg">
+                                            <img class="img-fullwidth" alt="" src="images/works/w5.png">
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
@@ -805,7 +805,7 @@
                                 <div class="gallery-item finance marketing">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/4.jpg">
+                                            <img class="img-fullwidth" alt="" src="images/works/w4.png">
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
@@ -824,7 +824,7 @@
                                 <div class="gallery-item business finance consulting">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/5.jpg">
+                                            <img class="img-fullwidth" alt="" src="images/works/w5.png">
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
@@ -843,7 +843,7 @@
                                 <div class="gallery-item finance consulting">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/6.jpg">
+                                            <img class="img-fullwidth" alt="" src="images/works/w6.png">
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
@@ -862,7 +862,7 @@
                                 <div class="gallery-item marketing">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/7.jpg">
+                                            <img class="img-fullwidth" alt="" src="images/works/w7.png">
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
@@ -881,7 +881,7 @@
                                 <div class="gallery-item consulting">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/8.jpg">
+                                            <img class="img-fullwidth" alt="" src="images/works/w8.png">
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
@@ -923,7 +923,7 @@
                         <div class="col-sm-6 col-md-3">
                             <div class="single-member maxwidth400 mb-30">
                                 <div class="team-thumb">
-                                    <img src="images/team/1.jpg" alt="" class="img-fullwidth">
+                                    <img src="images/team/t1.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
                                         Oliver Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
                                 </div>
@@ -942,7 +942,7 @@
                         <div class="col-sm-6 col-md-3">
                             <div class="single-member maxwidth400 mb-30">
                                 <div class="team-thumb">
-                                    <img src="images/team/2.jpg" alt="" class="img-fullwidth">
+                                    <img src="images/team/t2.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
                                         Oliver Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
                                 </div>
@@ -961,7 +961,7 @@
                         <div class="col-sm-6 col-md-3">
                             <div class="single-member maxwidth400 mb-30">
                                 <div class="team-thumb">
-                                    <img src="images/team/3.jpg" alt="" class="img-fullwidth">
+                                    <img src="images/team/t3.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
                                         Oliver Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
                                 </div>
@@ -980,7 +980,7 @@
                         <div class="col-sm-6 col-md-3">
                             <div class="single-member maxwidth400 mb-30">
                                 <div class="team-thumb">
-                                    <img src="images/team/4.jpg" alt="" class="img-fullwidth">
+                                    <img src="images/team/t4.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
                                         Oliver Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
                                 </div>
