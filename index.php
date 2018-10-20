@@ -922,7 +922,7 @@
                         <div class="col-sm-6 col-md-3">
                             <div class="single-member maxwidth400 mb-30">
                                 <div class="team-thumb">
-                                    <img src="images/team/1.jpg" alt="" class="img-fullwidth">
+                                    <img src="images/team/t1.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
                                         Oliver Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
                                 </div>
@@ -941,7 +941,7 @@
                         <div class="col-sm-6 col-md-3">
                             <div class="single-member maxwidth400 mb-30">
                                 <div class="team-thumb">
-                                    <img src="images/team/2.jpg" alt="" class="img-fullwidth">
+                                    <img src="images/team/t2.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
                                         Oliver Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
                                 </div>
@@ -960,7 +960,7 @@
                         <div class="col-sm-6 col-md-3">
                             <div class="single-member maxwidth400 mb-30">
                                 <div class="team-thumb">
-                                    <img src="images/team/3.jpg" alt="" class="img-fullwidth">
+                                    <img src="images/team/t3.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
                                         Oliver Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
                                 </div>
@@ -979,7 +979,7 @@
                         <div class="col-sm-6 col-md-3">
                             <div class="single-member maxwidth400 mb-30">
                                 <div class="team-thumb">
-                                    <img src="images/team/4.jpg" alt="" class="img-fullwidth">
+                                    <img src="images/team/t4.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
                                         Oliver Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
                                 </div>

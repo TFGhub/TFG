@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df9e20d5-0f9b-4798-9062-4ea103e5ccc3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images/works/w1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/works/w2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/works/w3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/works/w4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/works/w5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/works/w6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/works/w7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/works/w8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/team/t1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/team/t2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/team/t3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/team/t4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
@@ -25,8 +21,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="897" column="34" lean-forward="true" selection-start-line="897" selection-start-column="34" selection-end-line="897" selection-end-column="34" />
+            <state relative-caret-position="-112">
+              <caret line="981" column="64" selection-start-line="981" selection-start-column="64" selection-end-line="981" selection-end-column="64" />
               <folding>
                 <element signature="n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -36,6 +32,7 @@
                 <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -48,7 +45,6 @@
                 <element signature="n#div#7;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#8;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#9;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#7;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#8;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#9;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -98,7 +94,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -125,6 +121,12 @@
             <path>
               <item name="TFG" type="b2602c69:ProjectViewProjectNode" />
               <item name="TFG" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="team" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="TFG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TFG" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -145,6 +147,7 @@
       <recent name="C:\wamp64\www\TFG" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\TFG\images\team" />
       <recent name="C:\wamp64\www\TFG\images\works" />
       <recent name="C:\wamp64\www\TFG\images\bg" />
       <recent name="C:\wamp64\www\TFG" />
@@ -177,16 +180,15 @@
       <workItem from="1539954171387" duration="91000" />
       <workItem from="1539958721143" duration="2371000" />
       <workItem from="1540026090846" duration="469000" />
-      <workItem from="1540028095170" duration="2677000" />
+      <workItem from="1540028095170" duration="3099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18129000" />
+    <option name="totallyTimeSpent" value="18551000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18133536" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -229,6 +231,7 @@
             <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -241,7 +244,6 @@
             <element signature="n#div#7;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#8;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#9;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#7;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#8;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#9;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -263,6 +265,7 @@
             <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -275,7 +278,6 @@
             <element signature="n#div#7;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#8;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#9;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#7;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#8;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#9;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -297,6 +299,7 @@
             <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -309,7 +312,6 @@
             <element signature="n#div#7;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#8;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#9;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#7;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#8;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#9;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -412,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="897" column="34" lean-forward="true" selection-start-line="897" selection-start-column="34" selection-end-line="897" selection-end-column="34" />
+        <state relative-caret-position="-112">
+          <caret line="981" column="64" selection-start-line="981" selection-start-column="64" selection-end-line="981" selection-end-column="64" />
           <folding>
             <element signature="n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -423,6 +425,7 @@
             <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -435,7 +438,6 @@
             <element signature="n#div#7;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#8;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#9;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#7;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#8;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#9;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
