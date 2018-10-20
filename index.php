@@ -94,11 +94,11 @@
                         <ul>
                             <!-- SLIDE 1 -->
                             <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-easein="default"
-                                data-easeout="default" data-masterspeed="default" data-thumb="images/bg/tfg.png"
+                                data-easeout="default" data-masterspeed="default" data-thumb="images/bg/tfg1.png"
                                 data-rotate="0" data-fstransition="fade" data-saveperformance="off"
                                 data-title="Web Show" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="images/bg/tfg.png" alt="" data-bgposition="center 30%" data-bgfit="cover"
+                                <img src="images/bg/tfg1.png" alt="" data-bgposition="center 30%" data-bgfit="cover"
                                      data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                                 <!-- LAYERS -->
                                 <!-- LAYER NR. 1 -->
@@ -246,11 +246,11 @@
                             </li>
                             <!-- SLIDE 1 -->
                             <li data-index="rs-3" data-transition="fade" data-slotamount="default" data-easein="default"
-                                data-easeout="default" data-masterspeed="default" data-thumb="images/bg/bg3.jpg"
+                                data-easeout="default" data-masterspeed="default" data-thumb="images/bg/tfg3.png"
                                 data-rotate="0" data-fstransition="fade" data-saveperformance="off"
                                 data-title="Web Show" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="images/bg/bg3.jpg" alt="" data-bgposition="center 30%" data-bgfit="cover"
+                                <img src="images/bg/tfg3.png" alt="" data-bgposition="center 30%" data-bgfit="cover"
                                      data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                                 <!-- LAYERS -->
                                 <!-- LAYER NR. 1 -->
@@ -1300,22 +1300,22 @@
                 <div class="row">
                     <div class="col-md-12">
                         <!-- Section: Clients -->
-                        <!--<div class="owl-carousel-6col clients-logo transparent text-center">
-                            <div class="item"><a href="#"><img src="images/clients/w1.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w2.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w3.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w4.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w5.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w6.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w3.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w4.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w5.png" alt=""></a></div>
-                            <div class="item"><a href="#"><img src="images/clients/w6.png" alt=""></a></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>-->
+        <!--<div class="owl-carousel-6col clients-logo transparent text-center">
+            <div class="item"><a href="#"><img src="images/clients/w1.png" alt=""></a></div>
+            <div class="item"><a href="#"><img src="images/clients/w2.png" alt=""></a></div>
+            <div class="item"><a href="#"><img src="images/clients/w3.png" alt=""></a></div>
+            <div class="item"><a href="#"><img src="images/clients/w4.png" alt=""></a></div>
+            <div class="item"><a href="#"><img src="images/clients/w5.png" alt=""></a></div>
+            <div class="item"><a href="#"><img src="images/clients/w6.png" alt=""></a></div>
+            <div class="item"><a href="#"><img src="images/clients/w3.png" alt=""></a></div>
+            <div class="item"><a href="#"><img src="images/clients/w4.png" alt=""></a></div>
+            <div class="item"><a href="#"><img src="images/clients/w5.png" alt=""></a></div>
+            <div class="item"><a href="#"><img src="images/clients/w6.png" alt=""></a></div>
+        </div>
+    </div>
+</div>
+</div>
+</section>-->
 
         <!-- Divider: Google Map -->
         <section>
