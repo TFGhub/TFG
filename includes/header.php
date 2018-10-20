@@ -51,7 +51,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-3">
                     <a class="menuzord-brand pull-left flip sm-pull-center mb-15" href="index.php"><img
-                            src="images/logo-wide2.png" alt=""></a>
+                            src="images/tfg-logo.png" alt=""></a>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-9">
                     <div class="header-widget-contact-info-box sm-text-center">
