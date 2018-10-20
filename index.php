@@ -94,11 +94,11 @@
                         <ul>
                             <!-- SLIDE 1 -->
                             <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-easein="default"
-                                data-easeout="default" data-masterspeed="default" data-thumb="images/bg/bg1.jpg"
+                                data-easeout="default" data-masterspeed="default" data-thumb="images/bg/tfg.png"
                                 data-rotate="0" data-fstransition="fade" data-saveperformance="off"
                                 data-title="Web Show" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="images/bg/bg1.jpg" alt="" data-bgposition="center 30%" data-bgfit="cover"
+                                <img src="images/bg/tfg.png" alt="" data-bgposition="center 30%" data-bgfit="cover"
                                      data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                                 <!-- LAYERS -->
                                 <!-- LAYER NR. 1 -->
@@ -131,7 +131,7 @@
                                      data-whitespace="normal"
                                      data-frames='[{"from":"y:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1000,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
                                      data-responsive_offset="on"
-                                     style="z-index: 5; white-space: nowrap;">Grow your business with us
+                                     style="z-index: 5; white-space: nowrap;">TFG Charity Work
                                 </div>
                                 <!-- LAYER NR. 3 -->
                                 <div class="tp-caption tp-resizeme text-center text-white rs-parallaxlevel-0"
@@ -170,11 +170,11 @@
                             </li>
                             <!-- SLIDE 2 -->
                             <li data-index="rs-2" data-transition="fade" data-slotamount="default" data-easein="default"
-                                data-easeout="default" data-masterspeed="default" data-thumb="images/bg/bg2.jpg"
+                                data-easeout="default" data-masterspeed="default" data-thumb="images/bg/tfg2.png"
                                 data-rotate="0" data-fstransition="fade" data-saveperformance="off"
                                 data-title="Web Show" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="images/bg/bg2.jpg" alt="" data-bgposition="center 30%" data-bgfit="cover"
+                                <img src="images/bg/tfg2.png" alt="" data-bgposition="center 30%" data-bgfit="cover"
                                      data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                                 <!-- LAYERS -->
                                 <!-- LAYER NR. 1 -->
