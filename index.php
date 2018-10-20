@@ -1002,7 +1002,7 @@
         </section>
 
         <!-- Divider: Funfact -->
-        <section class="layer-overlay overlay-theme-colored-9" data-bg-img="images/bg/bg1.jpg">
+        <section class="layer-overlay overlay-theme-colored-9" data-bg-img="images/bg/1.png">
             <div class="container pt-40 pb-sm-30">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center">
