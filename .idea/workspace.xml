@@ -98,7 +98,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -141,13 +141,14 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\TFG" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\TFG\images\works" />
       <recent name="C:\wamp64\www\TFG\images\bg" />
       <recent name="C:\wamp64\www\TFG" />
       <recent name="C:\wamp64\www\TFG\ajax-load" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\TFG" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -176,15 +177,15 @@
       <workItem from="1539954171387" duration="91000" />
       <workItem from="1539958721143" duration="2371000" />
       <workItem from="1540026090846" duration="469000" />
-      <workItem from="1540028095170" duration="2425000" />
+      <workItem from="1540028095170" duration="2677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17877000" />
+    <option name="totallyTimeSpent" value="18129000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18133536" />
