@@ -491,21 +491,21 @@
                     <div class="row">
                         <div class="col-md-6 col-md-4">
                             <div class="mb-sm-30">
-                                <img class="img-fullwidth" src="images/about/cr1.jpg" alt="">
+                                <img class="img-fullwidth" src="images/about/5.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">About Our Organization</h4>
                                 <p>This information is about TFG Organization. </p>
                             </div>
                         </div>
                         <div class="col-md-6 col-md-4 mt-sm-30">
                             <div class="mb-sm-30">
-                                <img class="img-fullwidth" src="images/about/cr2.jpg" alt="">
+                                <img class="img-fullwidth" src="images/about/7.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">TFG Mission</h4>
                                 <p>This is our mission </p>
                             </div>
                         </div>
                         <div class="col-md-6 col-md-4 mt-sm-30">
                             <div class="mb-sm-30">
-                                <img class="img-fullwidth" src="images/about/cr1.jpg" alt="">
+                                <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">TFG Vision</h4>
                                 <p>This is our vision. </p>
                             </div>
@@ -516,7 +516,7 @@
         </section>
 
         <!-- Section: Services -->
-        <section id="services" class="services layer-overlay overlay-theme-colored-9" data-bg-img="images/bg/bg2.jpg">
+        <section id="services" class="services layer-overlay overlay-theme-colored-9" data-bg-img="images/services/1.jpg">
             <div class="container pb-30">
                 <div class="section-title">
                     <div class="row">
@@ -596,7 +596,8 @@
         </section>
 
         <!-- Section: Reports -->
-        <section id="reports" class="services layer-overlay overlay-theme-colored-9">
+
+        <section id="reports" class="services layer-overlay overlay-theme-colored-4">
             <div class="container pb-30">
                 <div class="section-title">
                     <div class="row">
@@ -615,7 +616,7 @@
                                             class="fa fa-bar-chart-o text-theme-colored2"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading text-white">Financial Analysis</h4>
-                                    <p class="text-gray-darkgray">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
                                         elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
                                 </div>
                             </div>
