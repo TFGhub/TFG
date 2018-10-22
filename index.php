@@ -535,8 +535,7 @@
                                             class="fa fa-bar-chart-o text-theme-colored2"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading text-white">Financial Analysis</h4>
-                                    <p class="text-gray-darkgray">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                    <p class="text-gray-darkgray">Our finacial anlysis</p>
                                 </div>
                             </div>
                         </div>
@@ -545,8 +544,7 @@
                                             class="fa fa-area-chart text-theme-colored2"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading text-white">Business Growth</h4>
-                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                    <p class="text-gray-lightgray">TFG  bussiness  </p>
                                 </div>
                             </div>
                         </div>
@@ -555,8 +553,7 @@
                                             class="fa fa-pie-chart text-theme-colored2"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading text-white">Success Report</h4>
-                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                    <p class="text-gray-lightgray">TFG Success Report</p>
                                 </div>
                             </div>
                         </div>
@@ -565,8 +562,7 @@
                                             class="fa fa-cubes text-theme-colored2"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading text-white">Marketing Plan</h4>
-                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                    <p class="text-gray-lightgray">TFG Marketing Plan </p>
                                 </div>
                             </div>
                         </div>
@@ -575,8 +571,7 @@
                                             class="fa fa-globe text-theme-colored2"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading text-white">Global Business</h4>
-                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                    <p class="text-gray-lightgray">TFG Global Business</p>
                                 </div>
                             </div>
                         </div>
@@ -585,8 +580,7 @@
                                             class="fa fa-bug text-theme-colored2"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading text-white">Risk Management</h4>
-                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                    <p class="text-gray-lightgray">TFG Risk Management</p>
                                 </div>
                             </div>
                         </div>
@@ -615,9 +609,8 @@
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-bar-chart-o text-theme-colored2"></i></a>
                                 <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Financial Analysis</h4>
-                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                    <h4 class="media-heading heading text-white">Financial reports</h4>
+                                    <p class="text-gray-lightgray">TFG Financial Report</p>
                                 </div>
                             </div>
                         </div>
@@ -625,9 +618,8 @@
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-area-chart text-theme-colored2"></i></a>
                                 <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Business Growth</h4>
-                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                    <h4 class="media-heading heading text-white">Business Report</h4>
+                                    <p class="text-gray-lightgray">Business Report</p>
                                 </div>
                             </div>
                         </div>
@@ -636,8 +628,7 @@
                                             class="fa fa-pie-chart text-theme-colored2"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading text-white">Success Report</h4>
-                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                    <p class="text-gray-lightgray">TFG Success Report</p>
                                 </div>
                             </div>
                         </div>
@@ -645,9 +636,8 @@
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-cubes text-theme-colored2"></i></a>
                                 <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Marketing Plan</h4>
-                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                    <h4 class="media-heading heading text-white">Marketing Report</h4>
+                                    <p class="text-gray-lightgray">TFG Marketing Report</p>
                                 </div>
                             </div>
                         </div>
@@ -655,9 +645,8 @@
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-globe text-theme-colored2"></i></a>
                                 <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Global Business</h4>
-                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                    <h4 class="media-heading heading text-white">Global Reports</h4>
+                                    <p class="text-gray-lightgray">TFG Global Reports .</p>
                                 </div>
                             </div>
                         </div>
@@ -665,9 +654,8 @@
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-bug text-theme-colored2"></i></a>
                                 <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Risk Management</h4>
-                                    <p class="text-gray-lightgray">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                                    <h4 class="media-heading heading text-white">Risk Management Reports</h4>
+                                    <p class="text-gray-lightgray">TFG Risk Management Reports </p>
                                 </div>
                             </div>
                         </div>
@@ -685,9 +673,7 @@
                             <h2 class="text-uppercase title">Working<span class="text-theme-colored2"> Gallery</span>
                             </h2>
                             <div class="diamond-line-centered-theme-colored2"></div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum consectetur sit ullam
-                                perspiciatis, deserunt adipisicing elit. Cum consectetur sit ullam perspiciatis,
-                                deserunt.</p>
+                            <p>TFG Workin Gallary</p>
                         </div>
                     </div>
                 </div>
@@ -714,9 +700,7 @@
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
-                                                <p class="text-white description">Lorem ipsum dolor sit ametonsect etur
-                                                    adipisicing elitorem ipsumdo lor sit ametconse ctetur adipisicing
-                                                    etur adipisicing elitorem ipsumdo lor sit ametconse</p>
+                                                <p class="text-white description">TFG  Business Consulting</p>
                                                 <a href="#" class="text-white font-13">Read More <span
                                                             class="fa fa-angle-right"></span></a>
                                             </div>
@@ -733,9 +717,7 @@
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
-                                                <p class="text-white description">Lorem ipsum dolor sit ametonsect etur
-                                                    adipisicing elitorem ipsumdo lor sit ametconse ctetur adipisicing
-                                                    etur adipisicing elitorem ipsumdo lor sit ametconse</p>
+                                                <p class="text-white description">TFG Business Consulting </p>
                                                 <a href="#" class="text-white font-13">Read More <span
                                                             class="fa fa-angle-right"></span></a>
                                             </div>
@@ -752,9 +734,7 @@
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
-                                                <p class="text-white description">Lorem ipsum dolor sit ametonsect etur
-                                                    adipisicing elitorem ipsumdo lor sit ametconse ctetur adipisicing
-                                                    etur adipisicing elitorem ipsumdo lor sit ametconse</p>
+                                                <p class="text-white description">TFG Business Consulting</p>
                                                 <a href="#" class="text-white font-13">Read More <span
                                                             class="fa fa-angle-right"></span></a>
                                             </div>
@@ -771,9 +751,7 @@
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
-                                                <p class="text-white description">Lorem ipsum dolor sit ametonsect etur
-                                                    adipisicing elitorem ipsumdo lor sit ametconse ctetur adipisicing
-                                                    etur adipisicing elitorem ipsumdo lor sit ametconse</p>
+                                                <p class="text-white description">TFG Business Consulting</p>
                                                 <a href="#" class="text-white font-13">Read More <span
                                                             class="fa fa-angle-right"></span></a>
                                             </div>
@@ -790,9 +768,7 @@
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
-                                                <p class="text-white description">Lorem ipsum dolor sit ametonsect etur
-                                                    adipisicing elitorem ipsumdo lor sit ametconse ctetur adipisicing
-                                                    etur adipisicing elitorem ipsumdo lor sit ametconse</p>
+                                                <p class="text-white description">TFG Business Consulting</p>
                                                 <a href="#" class="text-white font-13">Read More <span
                                                             class="fa fa-angle-right"></span></a>
                                             </div>
@@ -809,9 +785,7 @@
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
-                                                <p class="text-white description">Lorem ipsum dolor sit ametonsect etur
-                                                    adipisicing elitorem ipsumdo lor sit ametconse ctetur adipisicing
-                                                    etur adipisicing elitorem ipsumdo lor sit ametconse</p>
+                                                <p class="text-white description">TFG Business Consulting</p>
                                                 <a href="#" class="text-white font-13">Read More <span
                                                             class="fa fa-angle-right"></span></a>
                                             </div>
@@ -828,9 +802,7 @@
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
-                                                <p class="text-white description">Lorem ipsum dolor sit ametonsect etur
-                                                    adipisicing elitorem ipsumdo lor sit ametconse ctetur adipisicing
-                                                    etur adipisicing elitorem ipsumdo lor sit ametconse</p>
+                                                <p class="text-white description">TFG Business Consulting</p>
                                                 <a href="#" class="text-white font-13">Read More <span
                                                             class="fa fa-angle-right"></span></a>
                                             </div>
@@ -847,9 +819,7 @@
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
-                                                <p class="text-white description">Lorem ipsum dolor sit ametonsect etur
-                                                    adipisicing elitorem ipsumdo lor sit ametconse ctetur adipisicing
-                                                    etur adipisicing elitorem ipsumdo lor sit ametconse</p>
+                                                <p class="text-white description">TFG Business Consulting</p>
                                                 <a href="#" class="text-white font-13">Read More <span
                                                             class="fa fa-angle-right"></span></a>
                                             </div>
@@ -866,9 +836,7 @@
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
-                                                <p class="text-white description">Lorem ipsum dolor sit ametonsect etur
-                                                    adipisicing elitorem ipsumdo lor sit ametconse ctetur adipisicing
-                                                    etur adipisicing elitorem ipsumdo lor sit ametconse</p>
+                                                <p class="text-white description">TFG Business Consulting</p>
                                                 <a href="#" class="text-white font-13">Read More <span
                                                             class="fa fa-angle-right"></span></a>
                                             </div>
@@ -885,9 +853,7 @@
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
-                                                <p class="text-white description">Lorem ipsum dolor sit ametonsect etur
-                                                    adipisicing elitorem ipsumdo lor sit ametconse ctetur adipisicing
-                                                    etur adipisicing elitorem ipsumdo lor sit ametconse</p>
+                                                <p class="text-white description">TFG Business Consulting</p>
                                                 <a href="#" class="text-white font-13">Read More <span
                                                             class="fa fa-angle-right"></span></a>
                                             </div>
@@ -912,9 +878,7 @@
                         <div class="col-md-8 col-md-offset-2">
                             <h2 class="text-uppercase title">Meet Our<span class="text-theme-colored2"> Team</span></h2>
                             <div class="diamond-line-centered-theme-colored2"></div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum consectetur sit ullam
-                                perspiciatis, deserunt adipisicing elit. Cum consectetur sit ullam perspiciatis,
-                                deserunt.</p>
+                            <p>TFG Able Team </p>
                         </div>
                     </div>
                 </div>
@@ -925,11 +889,10 @@
                                 <div class="team-thumb">
                                     <img src="images/team/t1.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
-                                        Oliver Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
+                                        Mr Jack <span class="text-white font-12 ml-5">- Founder</span></h4>
                                 </div>
                                 <div class="team-bottom-part bg-white p-15">
-                                    <p class="mb-10">Lorem ipsum dolorsit amet consecte turadip isior ipsum dolor sit
-                                        ametor ipsum dolor sit amet conse</p>
+                                    <p class="mb-10">Director</p>
                                     <ul class="styled-icons icon-sm icon-dark icon-theme-colored2 icon-circled mt-15">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -944,11 +907,10 @@
                                 <div class="team-thumb">
                                     <img src="images/team/t2.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
-                                        Oliver Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
+                                        Mr Cris <span class="text-white font-12 ml-5">- Founder</span></h4>
                                 </div>
                                 <div class="team-bottom-part bg-white p-15">
-                                    <p class="mb-10">Lorem ipsum dolorsit amet consecte turadip isior ipsum dolor sit
-                                        ametor ipsum dolor sit amet conse</p>
+                                    <p class="mb-10"></p>
                                     <ul class="styled-icons icon-sm icon-dark icon-theme-colored2 icon-circled mt-15">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -963,11 +925,10 @@
                                 <div class="team-thumb">
                                     <img src="images/team/t3.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
-                                        Oliver Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
+                                        Mr Felix <span class="text-white font-12 ml-5">- Founder</span></h4>
                                 </div>
                                 <div class="team-bottom-part bg-white p-15">
-                                    <p class="mb-10">Lorem ipsum dolorsit amet consecte turadip isior ipsum dolor sit
-                                        ametor ipsum dolor sit amet conse</p>
+                                    <p class="mb-10"></p>
                                     <ul class="styled-icons icon-sm icon-dark icon-theme-colored2 icon-circled mt-15">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -982,11 +943,10 @@
                                 <div class="team-thumb">
                                     <img src="images/team/t4.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
-                                        Oliver Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
+                                         Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
                                 </div>
                                 <div class="team-bottom-part bg-white p-15">
-                                    <p class="mb-10">Lorem ipsum dolorsit amet consecte turadip isior ipsum dolor sit
-                                        ametor ipsum dolor sit amet conse</p>
+                                    <p class="mb-10"></p>
                                     <ul class="styled-icons icon-sm icon-dark icon-theme-colored2 icon-circled mt-15">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -1008,9 +968,7 @@
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <h2 class="text-white">See Our Awesome Funfacts</h2>
                         <div class="diamond-line-centered-theme-colored2"></div>
-                        <p class="font-16 text-white mt-0 mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit. Cum consectetur sit ullam perspiciatis, deserunt adipisicing elit. Cum consectetur sit
-                            ullam perspiciatis, deserunt.</p>
+                        <p class="font-16 text-white mt-0 mb-30">TFG Awesome Funfacts</p>
                     </div>
                 </div>
                 <div class="row mt-30 text-center">
@@ -1069,7 +1027,7 @@
                                     <article class="post maxwidth400 border-1px mb-30">
                                         <div class="entry-header">
                                             <div class="post-thumb thumb">
-                                                <img src="images/blog/1.jpg" alt=""
+                                                <img src="images/blog/w1.png" alt=""
                                                      class="img-responsive img-fullwidth">
                                             </div>
                                         </div>
@@ -1081,10 +1039,9 @@
                                                 </ul>
                                             </div>
                                             <h4 class="entry-title font-weight-600 text-uppercase line-bottom letter-space-1 mb-20">
-                                                <a href="#" class="text-theme-colored">Monthly Business Meeting </a>
+                                                <a href="#" class="text-theme-colored">January bussiness meeting </a>
                                             </h4>
-                                            <p class="mb-0">Lorem ipsum dolor sit amet, consect eturadi piscing elit.
-                                                Nulla auctor, erat nec effician turpharetra, metus ligula finibus</p>
+                                            <p class="mb-0"></p>
                                         </div>
                                         <div class="entry-meta p-15 pt-10 pb-5 bg-theme-colored border-left-theme-colored2">
                                             <ul class="list-inline text-white font-13 mb-10">
@@ -1101,7 +1058,7 @@
                                     <article class="post maxwidth400 border-1px mb-30">
                                         <div class="entry-header">
                                             <div class="post-thumb thumb">
-                                                <img src="images/blog/2.jpg" alt=""
+                                                <img src="images/blog/w4.png" alt=""
                                                      class="img-responsive img-fullwidth">
                                             </div>
                                         </div>
@@ -1113,10 +1070,9 @@
                                                 </ul>
                                             </div>
                                             <h4 class="entry-title font-weight-600 text-uppercase line-bottom letter-space-1 mb-20">
-                                                <a href="#" class="text-theme-colored">Business Strategies 2017 </a>
+                                                <a href="#" class="text-theme-colored">April Bussiness meeting </a>
                                             </h4>
-                                            <p class="mb-0">Lorem ipsum dolor sit amet, consect eturadi piscing elit.
-                                                Nulla auctor, erat nec effician turpharetra, metus ligula finibus</p>
+                                            <p class="mb-0"></p>
                                         </div>
                                         <div class="entry-meta p-15 pt-10 pb-5 bg-theme-colored border-left-theme-colored2">
                                             <ul class="list-inline text-white font-13 mb-10">
@@ -1133,7 +1089,7 @@
                                     <article class="post maxwidth400 border-1px mb-30">
                                         <div class="entry-header">
                                             <div class="post-thumb thumb">
-                                                <img src="images/blog/3.jpg" alt=""
+                                                <img src="images/blog/w3.png" alt=""
                                                      class="img-responsive img-fullwidth">
                                             </div>
                                         </div>
@@ -1145,9 +1101,7 @@
                                                 </ul>
                                             </div>
                                             <h4 class="entry-title font-weight-600 text-uppercase line-bottom letter-space-1 mb-20">
-                                                <a href="#" class="text-theme-colored">Online Marketing System </a></h4>
-                                            <p class="mb-0">Lorem ipsum dolor sit amet, consect eturadi piscing elit.
-                                                Nulla auctor, erat nec effician turpharetra, metus ligula finibus</p>
+                                                <a href="#" class="text-theme-colored">August bussiness meeting</p>
                                         </div>
                                         <div class="entry-meta p-15 pt-10 pb-5 bg-theme-colored border-left-theme-colored2">
                                             <ul class="list-inline text-white font-13 mb-10">
@@ -1164,7 +1118,7 @@
                                     <article class="post maxwidth400 border-1px mb-30">
                                         <div class="entry-header">
                                             <div class="post-thumb thumb">
-                                                <img src="images/blog/4.jpg" alt=""
+                                                <img src="images/blog/w2.png" alt=""
                                                      class="img-responsive img-fullwidth">
                                             </div>
                                         </div>
@@ -1176,9 +1130,7 @@
                                                 </ul>
                                             </div>
                                             <h4 class="entry-title font-weight-600 text-uppercase line-bottom letter-space-1 mb-20">
-                                                <a href="#" class="text-theme-colored">Risk Management Policy </a></h4>
-                                            <p class="mb-0">Lorem ipsum dolor sit amet, consect eturadi piscing elit.
-                                                Nulla auctor, erat nec effician turpharetra, metus ligula finibus</p>
+                                                <a href="#" class="text-theme-colored">December bussiness meeting</p>
                                         </div>
                                         <div class="entry-meta p-15 pt-10 pb-5 bg-theme-colored border-left-theme-colored2">
                                             <ul class="list-inline text-white font-13 mb-10">
