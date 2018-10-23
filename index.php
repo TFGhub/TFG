@@ -516,7 +516,8 @@
         </section>
 
         <!-- Section: Services -->
-        <section id="services" class="services layer-overlay overlay-theme-colored-9" data-bg-img="images/services/1.jpg">
+        <section id="services" class="services layer-overlay overlay-theme-colored-9"
+                 data-bg-img="images/services/1.jpg">
             <div class="container pb-30">
                 <div class="section-title">
                     <div class="row">
@@ -544,7 +545,7 @@
                                             class="fa fa-area-chart text-theme-colored2"></i></a>
                                 <div class="media-body">
                                     <h4 class="media-heading heading text-white">Business Growth</h4>
-                                    <p class="text-gray-lightgray">TFG  bussiness  </p>
+                                    <p class="text-gray-lightgray">TFG bussiness </p>
                                 </div>
                             </div>
                         </div>
@@ -700,7 +701,7 @@
                                             <div class="project-caption">
                                                 <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
                                                     Business Consulting</h3>
-                                                <p class="text-white description">TFG  Business Consulting</p>
+                                                <p class="text-white description">TFG Business Consulting</p>
                                                 <a href="#" class="text-white font-13">Read More <span
                                                             class="fa fa-angle-right"></span></a>
                                             </div>
@@ -943,7 +944,7 @@
                                 <div class="team-thumb">
                                     <img src="images/team/t4.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
-                                         Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
+                                        Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
                                 </div>
                                 <div class="team-bottom-part bg-white p-15">
                                     <p class="mb-10"></p>
@@ -1101,7 +1102,7 @@
                                                 </ul>
                                             </div>
                                             <h4 class="entry-title font-weight-600 text-uppercase line-bottom letter-space-1 mb-20">
-                                                <a href="#" class="text-theme-colored">August bussiness meeting</p>
+                                                <a href="#" class="text-theme-colored">August bussiness meeting</a>
                                         </div>
                                         <div class="entry-meta p-15 pt-10 pb-5 bg-theme-colored border-left-theme-colored2">
                                             <ul class="list-inline text-white font-13 mb-10">
@@ -1130,7 +1131,7 @@
                                                 </ul>
                                             </div>
                                             <h4 class="entry-title font-weight-600 text-uppercase line-bottom letter-space-1 mb-20">
-                                                <a href="#" class="text-theme-colored">December bussiness meeting</p>
+                                                <a href="#" class="text-theme-colored">December bussiness meeting</a>
                                         </div>
                                         <div class="entry-meta p-15 pt-10 pb-5 bg-theme-colored border-left-theme-colored2">
                                             <ul class="list-inline text-white font-13 mb-10">
