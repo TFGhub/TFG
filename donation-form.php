@@ -180,18 +180,10 @@
                                     <div class="form-group mb-20">
                                         <label><strong>Donation Type</strong></label>
                                         <div class="radio mt-5">
-                                            <label class="radio-inline">
-                                                <input type="radio" value="D" name="t3">
-                                                Daily</label>
-                                            <label class="radio-inline">
-                                                <input type="radio" value="W" name="t3">
-                                                Weekly</label>
-                                            <label class="radio-inline">
-                                                <input type="radio" value="M" name="t3">
-                                                Monthly</label>
-                                            <label class="radio-inline">
-                                                <input type="radio" value="Y" name="t3">
-                                                Yearly</label>
+                                            <label class="radio-inline"><input type="radio" value="D" name="t3">Daily</label>
+                                            <label class="radio-inline"><input type="radio" value="W" name="t3">Weekly</label>
+                                            <label class="radio-inline"><input type="radio" value="M" name="t3">Monthly</label>
+                                            <label class="radio-inline"><input type="radio" value="Y" name="t3">Yearly</label>
                                         </div>
                                     </div>
                                 </div>
@@ -205,14 +197,10 @@
                                         <input type="hidden" name="no_note" value="1">
                                         <input type="hidden" name="lc" value="US">
                                         <input type="hidden" name="bn" value="PP-DonationsBF">
-                                        <input type="hidden" name="return"
-                                               value="http://www.yoursite.com/thankyou.html">
-                                        <input type="hidden" name="cancel_return"
-                                               value="http://www.yoursite.com/paymentcancel.html">
-                                        <input type="hidden" name="notify_url"
-                                               value="http://www.yoursite.com/notifypayment.php">
-                                        <input type="image"
-                                               src="www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif"
+                                        <input type="hidden" name="return" value="http://www.the-futuregeneration.org/thankyou.html">
+                                        <input type="hidden" name="cancel_return" value="www.the-futuregeneration.org/paymentcancel.html">
+                                        <input type="hidden" name="notify_url" value="http://www.the-futuregeneration.org/notifypayment.php">
+                                        <input type="image" src="www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif"
                                                name="submit" alt="PayPal - The safer, easier way to pay online!">
                                         <img alt="" src="www.paypal.com/en_US/i/scr/pixel.gif"
                                              width="1" height="1">

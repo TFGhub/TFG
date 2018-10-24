@@ -491,14 +491,14 @@
                     <div class="row">
                         <div class="col-md-6 col-md-4" id="health">
                             <div class="mb-sm-30">
-                                <img class="img-fullwidth" src="images/about/5.jpg" alt="">
+                                <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Health</h4>
                                 <p>Health. </p>
                             </div>
                         </div>
                         <div class="col-md-6 col-md-4 mt-sm-30" id="environment">
                             <div class="mb-sm-30">
-                                <img class="img-fullwidth" src="images/about/7.jpg" alt="">
+                                <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Environment and Livelihood</h4>
                                 <p>Env </p>
                             </div>
@@ -709,7 +709,7 @@
                             <!-- Portfolio Gallery Grid -->
                             <div id="grid" class="gallery-isotope default-animation-effect grid-5 gutter clearfix">
                                 <!-- Portfolio Item Start -->
-                                <div class="gallery-item marketing finance">
+                                <div class="gallery-item marketing finance" id="finance">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
                                             <img class="img-fullwidth" alt="" src="images/works/w1.png">
@@ -726,7 +726,7 @@
                                 <!-- Portfolio Item End -->
 
                                 <!-- Portfolio Item Start -->
-                                <div class="gallery-item business finance consulting">
+                                <div class="gallery-item business finance consulting" id="consulting">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
                                             <img class="img-fullwidth" alt="" src="images/works/w1.png">
@@ -743,7 +743,7 @@
                                 <!-- Portfolio Item End -->
 
                                 <!-- Portfolio Item Start -->
-                                <div class="gallery-item consulting business">
+                                <div class="gallery-item consulting business" id="business">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
                                             <img class="img-fullwidth" alt="" src="images/works/w3.png">
@@ -760,7 +760,7 @@
                                 <!-- Portfolio Item End -->
 
                                 <!-- Portfolio Item Start -->
-                                <div class="gallery-item finance marketing">
+                                <div class="gallery-item finance marketing" id="marketing">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
                                             <img class="img-fullwidth" alt="" src="images/works/w4.png">
@@ -1050,23 +1050,14 @@
                                         <div class="entry-content bg-white p-20">
                                             <div class="entry-meta">
                                                 <ul class="list-inline font-12 letter-space-1 mb-10">
-                                                    <li>POSTER BY ADMIN |</li>
-                                                    <li>20 OCTOBER 2016</li>
+                                                    <li>Posted by: Carol |</li>
+                                                    <li>20 October 2018</li>
                                                 </ul>
                                             </div>
                                             <h4 class="entry-title font-weight-600 text-uppercase line-bottom letter-space-1 mb-20">
-                                                <a href="#" class="text-theme-colored">January bussiness meeting </a>
+                                                <a href="#" class="text-theme-colored">January business meeting </a>
                                             </h4>
-                                            <p class="mb-0"></p>
-                                        </div>
-                                        <div class="entry-meta p-15 pt-10 pb-5 bg-theme-colored border-left-theme-colored2">
-                                            <ul class="list-inline text-white font-13 mb-10">
-                                                <li><i class="fa fa-heart-o text-white font-12 mr-10"></i>480 Like</li>
-                                                <li><i class="fa fa-share-alt text-white font-12 mr-10"></i>42 Share
-                                                </li>
-                                                <li><i class="fa fa-comment-o text-white font-12 mr-10"></i>48 Comments
-                                                </li>
-                                            </ul>
+                                            <p class="mb-0">January meeting</p>
                                         </div>
                                     </article>
                                 </div>
@@ -1081,23 +1072,14 @@
                                         <div class="entry-content bg-white p-20">
                                             <div class="entry-meta">
                                                 <ul class="list-inline font-12 letter-space-1 mb-10">
-                                                    <li>POSTER BY ADMIN |</li>
-                                                    <li>20 OCTOBER 2016</li>
+                                                    <li>Posted by: Maina |</li>
+                                                    <li>20 October 2018</li>
                                                 </ul>
                                             </div>
                                             <h4 class="entry-title font-weight-600 text-uppercase line-bottom letter-space-1 mb-20">
-                                                <a href="#" class="text-theme-colored">April Bussiness meeting </a>
+                                                <a href="#" class="text-theme-colored">April Business meeting </a>
                                             </h4>
-                                            <p class="mb-0"></p>
-                                        </div>
-                                        <div class="entry-meta p-15 pt-10 pb-5 bg-theme-colored border-left-theme-colored2">
-                                            <ul class="list-inline text-white font-13 mb-10">
-                                                <li><i class="fa fa-heart-o text-white font-12 mr-10"></i>480 Like</li>
-                                                <li><i class="fa fa-share-alt text-white font-12 mr-10"></i>42 Share
-                                                </li>
-                                                <li><i class="fa fa-comment-o text-white font-12 mr-10"></i>48 Comments
-                                                </li>
-                                            </ul>
+                                            <p class="mb-0">April meeting</p>
                                         </div>
                                     </article>
                                 </div>
@@ -1112,22 +1094,14 @@
                                         <div class="entry-content bg-white p-20">
                                             <div class="entry-meta">
                                                 <ul class="list-inline font-12 letter-space-1 mb-10">
-                                                    <li>POSTER BY ADMIN |</li>
-                                                    <li>20 OCTOBER 2016</li>
+                                                    <li>Posted by: Kinyua |</li>
+                                                    <li>20 October 2018</li>
                                                 </ul>
                                             </div>
                                             <h4 class="entry-title font-weight-600 text-uppercase line-bottom letter-space-1 mb-20">
-                                                <a href="#" class="text-theme-colored">August bussiness meeting</a>
+                                                <a href="#" class="text-theme-colored">August business meeting</a>
                                             </h4>
-                                        </div>
-                                        <div class="entry-meta p-15 pt-10 pb-5 bg-theme-colored border-left-theme-colored2">
-                                            <ul class="list-inline text-white font-13 mb-10">
-                                                <li><i class="fa fa-heart-o text-white font-12 mr-10"></i>480 Like</li>
-                                                <li><i class="fa fa-share-alt text-white font-12 mr-10"></i>42 Share
-                                                </li>
-                                                <li><i class="fa fa-comment-o text-white font-12 mr-10"></i>48 Comments
-                                                </li>
-                                            </ul>
+                                            <p class="mb-0">August Meeting</p>
                                         </div>
                                     </article>
                                 </div>
@@ -1142,22 +1116,14 @@
                                         <div class="entry-content bg-white p-20">
                                             <div class="entry-meta">
                                                 <ul class="list-inline font-12 letter-space-1 mb-10">
-                                                    <li>POSTER BY ADMIN |</li>
-                                                    <li>20 OCTOBER 2016</li>
+                                                    <li>Posted by: Jack |</li>
+                                                    <li>20 October 2018</li>
                                                 </ul>
                                             </div>
                                             <h4 class="entry-title font-weight-600 text-uppercase line-bottom letter-space-1 mb-20">
-                                                <a href="#" class="text-theme-colored">December bussiness meeting</a>
+                                                <a href="#" class="text-theme-colored">December business meeting</a>
                                             </h4>
-                                        </div>
-                                        <div class="entry-meta p-15 pt-10 pb-5 bg-theme-colored border-left-theme-colored2">
-                                            <ul class="list-inline text-white font-13 mb-10">
-                                                <li><i class="fa fa-heart-o text-white font-12 mr-10"></i>480 Like</li>
-                                                <li><i class="fa fa-share-alt text-white font-12 mr-10"></i>42 Share
-                                                </li>
-                                                <li><i class="fa fa-comment-o text-white font-12 mr-10"></i>48 Comments
-                                                </li>
-                                            </ul>
+                                            <p class="mb-0">December meeting</p>
                                         </div>
                                     </article>
                                 </div>
