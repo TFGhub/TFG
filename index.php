@@ -1103,6 +1103,7 @@
                                             </div>
                                             <h4 class="entry-title font-weight-600 text-uppercase line-bottom letter-space-1 mb-20">
                                                 <a href="#" class="text-theme-colored">August bussiness meeting</a>
+                                            </h4>
                                         </div>
                                         <div class="entry-meta p-15 pt-10 pb-5 bg-theme-colored border-left-theme-colored2">
                                             <ul class="list-inline text-white font-13 mb-10">
@@ -1132,6 +1133,7 @@
                                             </div>
                                             <h4 class="entry-title font-weight-600 text-uppercase line-bottom letter-space-1 mb-20">
                                                 <a href="#" class="text-theme-colored">December bussiness meeting</a>
+                                            </h4>
                                         </div>
                                         <div class="entry-meta p-15 pt-10 pb-5 bg-theme-colored border-left-theme-colored2">
                                             <ul class="list-inline text-white font-13 mb-10">
@@ -1145,6 +1147,29 @@
                                     </article>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Divider: Clients -->
+        <section class="clients bg-theme-colored2">
+            <div class="container pt-0 pb-0">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- Section: Clients -->
+                        <div class="owl-carousel-6col clients-logo transparent text-center">
+                            <div class="item"><a href="#"><img src="images/clients/w1.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w2.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w3.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w4.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w5.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w6.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w3.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w4.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w5.png" alt=""></a></div>
+                            <div class="item"><a href="#"><img src="images/clients/w6.png" alt=""></a></div>
                         </div>
                     </div>
                 </div>
@@ -1248,29 +1273,6 @@
             </div>
         </section>
 
-        <!-- Divider: Clients -->
-        <!--<section class="clients bg-theme-colored2">
-            <div class="container pt-0 pb-0">
-                <div class="row">
-                    <div class="col-md-12">
-                        <!-- Section: Clients -->
-        <!--<div class="owl-carousel-6col clients-logo transparent text-center">
-            <div class="item"><a href="#"><img src="images/clients/w1.png" alt=""></a></div>
-            <div class="item"><a href="#"><img src="images/clients/w2.png" alt=""></a></div>
-            <div class="item"><a href="#"><img src="images/clients/w3.png" alt=""></a></div>
-            <div class="item"><a href="#"><img src="images/clients/w4.png" alt=""></a></div>
-            <div class="item"><a href="#"><img src="images/clients/w5.png" alt=""></a></div>
-            <div class="item"><a href="#"><img src="images/clients/w6.png" alt=""></a></div>
-            <div class="item"><a href="#"><img src="images/clients/w3.png" alt=""></a></div>
-            <div class="item"><a href="#"><img src="images/clients/w4.png" alt=""></a></div>
-            <div class="item"><a href="#"><img src="images/clients/w5.png" alt=""></a></div>
-            <div class="item"><a href="#"><img src="images/clients/w6.png" alt=""></a></div>
-        </div>
-    </div>
-</div>
-</div>
-</section>-->
-
         <!-- Divider: Google Map -->
         <section>
             <div class="container-fluid pt-0 pb-0">
@@ -1309,9 +1311,7 @@
 <!-- JS | Custom script for all pages -->
 <script src="js/custom.js"></script>
 
-<!-- SLIDER REVOLUTION 5.0 EXTENSIONS
-      (Load Extensions only on Local File Systems !
-       The following part can be removed on Server for On Demand Loading) -->
+<!-- SLIDER REVOLUTION 5.0 EXTENSIONS (Load Extensions only on Local File Systems ! The following part can be removed on Server for On Demand Loading) -->
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.actions.min.js"></script>
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.carousel.min.js"></script>
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.kenburn.min.js"></script>
