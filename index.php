@@ -489,41 +489,41 @@
                 </div>
                 <div class="section-content">
                     <div class="row">
-                        <div class="col-md-6 col-md-4">
+                        <div class="col-md-6 col-md-4" id="health">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/5.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Health</h4>
-                                <p>This information is about TFG Organization. </p>
+                                <p>Health. </p>
                             </div>
                         </div>
-                        <div class="col-md-6 col-md-4 mt-sm-30">
+                        <div class="col-md-6 col-md-4 mt-sm-30" id="environment">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/7.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Environment and Livelihood</h4>
-                                <p>This is our mission </p>
+                                <p>Env </p>
                             </div>
                         </div>
-                        <div class="col-md-6 col-md-4 mt-sm-30">
+                        <div class="col-md-6 col-md-4 mt-sm-30" id="leadership">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Leadership and Governance</h4>
-                                <p>This is our vision. </p>
+                                <p>Lead </p>
                             </div>
                         </div>
                     </div>
                     <div class="section-content">
-                        <div class="col-md-6 col-md-6 mt-sm-30">
+                        <div class="col-md-6 col-md-6 mt-sm-30" id="economic">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Economic Empowerment</h4>
-                                <p>This is our vision. </p>
+                                <p>Econ </p>
                             </div>
                         </div>
-                        <div class="col-md-6 col-md-6 mt-sm-30">
+                        <div class="col-md-6 col-md-6 mt-sm-30" id="child">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Child Protection and Inclusion</h4>
-                                <p>This is our vision. </p>
+                                <p>Child </p>
                             </div>
                         </div>
                     </div>
@@ -607,7 +607,6 @@
         </section>
 
         <!-- Section: Reports -->
-
         <section id="reports" class="services">
             <div class="container pb-30">
                 <div class="section-title">

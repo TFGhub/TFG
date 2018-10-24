@@ -107,11 +107,11 @@
                         </li>
                         <li><a href="#features">Our Pillars</a>
                             <ul class="dropdown">
-                                <li><a href="#">Health</a>
-                                <li><a href="#">Environment and Livelihood</a></li>
-                                <li><a href="#">Leadership and Governance</a></li>
-                                <li><a href="#">Economic Empowerment</a></li>
-                                <li><a href="#">Child Protection and Inclusion</a></li>
+                                <li><a href="#features">Health</a>
+                                <li><a href="#features">Environment and Livelihood</a></li>
+                                <li><a href="#features">Leadership and Governance</a></li>
+                                <li><a href="#features">Economic Empowerment</a></li>
+                                <li><a href="#features">Child Protection and Inclusion</a></li>
                             </ul>
                         </li>
                         <li><a href="#services">Services</a></li>

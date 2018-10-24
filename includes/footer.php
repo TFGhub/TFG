@@ -23,9 +23,8 @@
                     <ul class="list angle-double-right list-border text-black">
                         <li><a href="page-about-style1.html" class="text-white">About Us</a></li>
                         <li><a href="page-services-style1.html" class="text-white">Our Service</a></li>
-                        <li><a href="page-pricing-style1.html" class="text-white">Pricing Table</a></li>
-                        <li><a href="page-project-style1.html" class="text-white">Project</a></li>
-                        <li><a href="shop-category.html" class="text-white">Shop</a></li>
+                        <li><a href="page-project-style1.html" class="text-white">Reports</a></li>
+                        <li><a href="shop-category.html" class="text-white">Our Pillars</a></li>
                     </ul>
                 </div>
             </div>
