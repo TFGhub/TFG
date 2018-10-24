@@ -37,7 +37,7 @@
     <!-- CSS | Responsive media queries -->
     <link href="css/responsive.css" rel="stylesheet" type="text/css">
     <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
-    <!--<link href="css/style.css" rel="stylesheet" type="text/css">-->
+    <link href="css/style.css" rel="stylesheet" type="text/css">
 
     <!-- Revolution Slider 5.x CSS settings -->
     <link href="js/revolution-slider/css/settings.css" rel="stylesheet" type="text/css"/>
@@ -779,7 +779,7 @@
                                 <!-- Portfolio Item End -->
 
                                 <!-- Portfolio Item Start -->
-                                <div class="gallery-item finance marketing">
+                                <!--<div class="gallery-item finance marketing">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
                                             <img class="img-fullwidth" alt="" src="images/works/w4.png">
@@ -792,11 +792,11 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div>-->
                                 <!-- Portfolio Item End -->
 
                                 <!-- Portfolio Item Start -->
-                                <div class="gallery-item business finance consulting">
+                                <!--<div class="gallery-item business finance consulting">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
                                             <img class="img-fullwidth" alt="" src="images/works/w5.png">
@@ -809,11 +809,11 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div>-->
                                 <!-- Portfolio Item End -->
 
                                 <!-- Portfolio Item Start -->
-                                <div class="gallery-item finance consulting">
+                                <!--<div class="gallery-item finance consulting">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
                                             <img class="img-fullwidth" alt="" src="images/works/w6.png">
@@ -826,11 +826,11 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div>-->
                                 <!-- Portfolio Item End -->
 
                                 <!-- Portfolio Item Start -->
-                                <div class="gallery-item marketing">
+                                <!--<div class="gallery-item marketing">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
                                             <img class="img-fullwidth" alt="" src="images/works/w7.png">
@@ -843,11 +843,11 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div>-->
                                 <!-- Portfolio Item End -->
 
                                 <!-- Portfolio Item Start -->
-                                <div class="gallery-item consulting">
+                                <!--<div class="gallery-item consulting">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
                                             <img class="img-fullwidth" alt="" src="images/works/w8.png">
@@ -860,7 +860,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div>-->
                                 <!-- Portfolio Item End -->
 
                             </div>
@@ -890,7 +890,25 @@
                                 <div class="team-thumb">
                                     <img src="images/team/t1.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
-                                        Mr Jack <span class="text-white font-12 ml-5">- Founder</span></h4>
+                                        Jadiel Mugo Wa Maina <span class="text-white font-12 ml-5">- Founder</span></h4>
+                                </div>
+                                <div class="team-bottom-part bg-white p-15">
+                                    <p class="mb-10">Founder</p>
+                                    <ul class="styled-icons icon-sm icon-dark icon-theme-colored2 icon-circled mt-15">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3">
+                            <div class="single-member maxwidth400 mb-30">
+                                <div class="team-thumb">
+                                    <img src="images/team/t2.png" alt="" class="img-fullwidth">
+                                    <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
+                                        Jack Machaki <span class="text-white font-12 ml-5">- Director</span></h4>
                                 </div>
                                 <div class="team-bottom-part bg-white p-15">
                                     <p class="mb-10">Director</p>
@@ -906,30 +924,12 @@
                         <div class="col-sm-6 col-md-3">
                             <div class="single-member maxwidth400 mb-30">
                                 <div class="team-thumb">
-                                    <img src="images/team/t2.png" alt="" class="img-fullwidth">
-                                    <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
-                                        Jadiel Mugo Wa Maina <span class="text-white font-12 ml-5">- Founder</span></h4>
-                                </div>
-                                <div class="team-bottom-part bg-white p-15">
-                                    <p class="mb-10"></p>
-                                    <ul class="styled-icons icon-sm icon-dark icon-theme-colored2 icon-circled mt-15">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-md-3">
-                            <div class="single-member maxwidth400 mb-30">
-                                <div class="team-thumb">
                                     <img src="images/team/t3.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
-                                        Mr Felix <span class="text-white font-12 ml-5">- Founder</span></h4>
+                                        Vincent <span class="text-white font-12 ml-5">- Operations Manager</span></h4>
                                 </div>
                                 <div class="team-bottom-part bg-white p-15">
-                                    <p class="mb-10"></p>
+                                    <p class="mb-10">Operations Manager</p>
                                     <ul class="styled-icons icon-sm icon-dark icon-theme-colored2 icon-circled mt-15">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -944,10 +944,10 @@
                                 <div class="team-thumb">
                                     <img src="images/team/t4.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
-                                        Queen <span class="text-white font-12 ml-5">- Founder</span></h4>
+                                        James Kinyua <span class="text-white font-12 ml-5">- Secretary</span></h4>
                                 </div>
                                 <div class="team-bottom-part bg-white p-15">
-                                    <p class="mb-10"></p>
+                                    <p class="mb-10">Secretary</p>
                                     <ul class="styled-icons icon-sm icon-dark icon-theme-colored2 icon-circled mt-15">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
