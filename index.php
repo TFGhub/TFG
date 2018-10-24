@@ -908,7 +908,7 @@
                                 <div class="team-thumb">
                                     <img src="images/team/t2.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
-                                        Mr Cris <span class="text-white font-12 ml-5">- Founder</span></h4>
+                                        Jadiel Mugo Wa Maina <span class="text-white font-12 ml-5">- Founder</span></h4>
                                 </div>
                                 <div class="team-bottom-part bg-white p-15">
                                     <p class="mb-10"></p>
