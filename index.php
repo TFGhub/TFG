@@ -435,66 +435,53 @@
         </section>
 
         <!-- Section: home-boxes -->
-        <section class="bg-silver-light">
-            <div class="container pt-0 pb-0">
+         <section id="about" class="bg-silver-light">
+            <div class="container-fluid pt-70 pb-0">
                 <div class="section-content">
                     <div class="row mt-sm-30" data-margin-top="-90px">
-                        <div class="col-sm-12 col-md-3">
+                        <div class="col-sm-12 col-md-4">
                             <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
                                 <a class="icon icon-sm mb-20" href="#">
                                     <img src="images/flaticon/1.png" alt="">
                                 </a>
-                                <h4 class="text-uppercase font-weight-600 mt-0"> TFG</h4>
-                                <p>Health</p>
+                                <h4 class="text-uppercase font-weight-600 mt-0">Mission</h4>
+                                <p>This is our mission</p>
                                 <span class="features-box-number">01</span>
                             </div>
                         </div>
-                       <div class="col-sm-12 col-md-3">
+                        <div class="col-sm-12 col-md-4">
                             <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-                                <a class="icon icon-sm mb-20" href="childprotection.php">
-                                    <img src="images/flaticon/3.png" alt="">
+                                <a class="icon icon-sm mb-20" href="#">
+                                    <img src="images/flaticon/2.png" alt="">
                                 </a>
-                                <h4 class="text-uppercase font-weight-600 mt-0"> TFG</h4>
-                                <p><b><a href="childprotection.php">Child protection</a></b></p>
+                                <h4 class="text-uppercase font-weight-600 mt-0">Vision</h4>
+                                <p>This is our vision.</p>
                                 <span class="features-box-number">02</span>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-3">
-                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-                                <a class="icon icon-sm mb-20" href="#">
-                                    <img src="images/flaticon/1.png" alt="">
-                                </a>
-                                <h4 class="text-uppercase font-weight-600 mt-0">TFG</h4>
-                                <p>Environment and Lively hood</p>
-                                <span class="features-box-number">03</span>
-                            </div>
-                        </div>
-
-                        
-                        <div class="col-sm-12 col-md-3">
+                        <div class="col-sm-12 col-md-4">
                             <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
                                 <a class="icon icon-sm mb-20" href="#">
                                     <img src="images/flaticon/3.png" alt="">
                                 </a>
-                                <h4 class="text-uppercase font-weight-600 mt-0">TFG</h4>
-                                <p>Leadership and governance </p>
-                                <span class="features-box-number">04</span>
+                                <h4 class="text-uppercase font-weight-600 mt-0">Objectives</h4>
+                                <p>Developing An Empowered Generation</p>
+                                <span class="features-box-number">03</span>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
         </section>
 
-        <!-- Section: Features -->
+        <!-- Section: Pillars -->
         <section id="features">
             <div class="container">
                 <div class="section-title text-center">
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
-                            <h2 class="text-uppercase title">About Us<span
-                                        class="text-theme-colored2"> (The Future Generation)</span></h2>
+                            <h2 class="text-uppercase title">Our<span
+                                        class="text-theme-colored2"> Pillars</span></h2>
                             <div class="diamond-line-centered-theme-colored2"></div>
                             <p>The Future Generation Organization is a...</p>
                         </div>
@@ -502,27 +489,45 @@
                 </div>
                 <div class="section-content">
                     <div class="row">
-                        <div class="col-md-6 col-md-4">
+                        <div class="col-md-6 col-md-4" id="health">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/5.jpg" alt="">
-                                <h4 class="font-weight-600 mt-20">About Our Organization</h4>
-                                <p>This information is about TFG Organization. </p>
+                                <h4 class="font-weight-600 mt-20">Health</h4>
+                                
                             </div>
                         </div>
-                        <div class="col-md-6 col-md-4 mt-sm-30">
+                        <div class="col-md-6 col-md-4 mt-sm-30" id="environment">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/7.jpg" alt="">
-                                <h4 class="font-weight-600 mt-20">TFG Mission</h4>
-                                <p>This is our mission </p>
+                                <h4 class="font-weight-600 mt-20">Environment and Livelihood</h4>
+                                
                             </div>
                         </div>
-                        <div class="col-md-6 col-md-4 mt-sm-30">
+                        <div class="col-md-6 col-md-4 mt-sm-30" id="leadership">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
-                                <h4 class="font-weight-600 mt-20">TFG Vision</h4>
-                                <p>This is our vision. </p>
+                                <h4 class="font-weight-600 mt-20">Leadership and Governance</h4>
+                                
                             </div>
                         </div>
+                    </div>
+                    <div class="section-content">
+                        <div class="col-md-6 col-md-6 mt-sm-30" id="economic">
+                            <div class="mb-sm-30">
+                                <img class="img-fullwidth" src="images/about/1.jpg" alt="">
+                                <h4 class="font-weight-600 mt-20">Economic Empowerment</h4>
+                                
+                            </div>
+                        </div>
+                        <a href="childprotection.php">
+                        <div class="col-md-6 col-md-6 mt-sm-30" id="child">
+                            <div class="mb-sm-30">
+                                <img class="img-fullwidth" src="images/about/1.jpg" alt="">
+                                <h4 class="font-weight-600 mt-20">Child Protection and Inclusion</h4>
+                                
+                            </div>
+                        </div>
+                    </a>
                     </div>
                 </div>
             </div>
@@ -604,8 +609,7 @@
         </section>
 
         <!-- Section: Reports -->
-
-        <section id="reports" class="services layer-overlay overlay-theme-colored-4">
+        <section id="reports" class="services">
             <div class="container pb-30">
                 <div class="section-title">
                     <div class="row">
@@ -623,7 +627,7 @@
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-bar-chart-o text-theme-colored2"></i></a>
                                 <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Financial reports</h4>
+                                    <h4 class="media-heading heading text-black">Financial reports</h4>
                                     <p class="text-gray-lightgray">TFG Financial Report</p>
                                 </div>
                             </div>
@@ -632,7 +636,7 @@
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-area-chart text-theme-colored2"></i></a>
                                 <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Business Report</h4>
+                                    <h4 class="media-heading heading text-black">Business Report</h4>
                                     <p class="text-gray-lightgray">Business Report</p>
                                 </div>
                             </div>
@@ -641,7 +645,7 @@
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-pie-chart text-theme-colored2"></i></a>
                                 <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Success Report</h4>
+                                    <h4 class="media-heading heading text-black">Success Report</h4>
                                     <p class="text-gray-lightgray">TFG Success Report</p>
                                 </div>
                             </div>
@@ -650,7 +654,7 @@
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-cubes text-theme-colored2"></i></a>
                                 <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Marketing Report</h4>
+                                    <h4 class="media-heading heading text-black">Marketing Report</h4>
                                     <p class="text-gray-lightgray">TFG Marketing Report</p>
                                 </div>
                             </div>
@@ -659,7 +663,7 @@
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-globe text-theme-colored2"></i></a>
                                 <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Global Reports</h4>
+                                    <h4 class="media-heading heading text-black">Global Reports</h4>
                                     <p class="text-gray-lightgray">TFG Global Reports .</p>
                                 </div>
                             </div>
@@ -668,7 +672,7 @@
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-bug text-theme-colored2"></i></a>
                                 <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Risk Management Reports</h4>
+                                    <h4 class="media-heading heading text-black">Risk Management Reports</h4>
                                     <p class="text-gray-lightgray">TFG Risk Management Reports </p>
                                 </div>
                             </div>
@@ -687,7 +691,7 @@
                             <h2 class="text-uppercase title">Working<span class="text-theme-colored2"> Gallery</span>
                             </h2>
                             <div class="diamond-line-centered-theme-colored2"></div>
-                            <p>TFG Workin Gallary</p>
+                            <p>TFG Working Gallery</p>
                         </div>
                     </div>
                 </div>
@@ -1287,8 +1291,22 @@
         </section>
 
         <!-- Divider: Google Map -->
-        <section>
-            <div class="container-fluid pt-0 pb-0">
+        <section id="map">
+            <div class="container-fluid pt-50 pb-0">
+                <div class="section-title text-center">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2">
+                            <h2 class="text-uppercase title">Where<span class="text-theme-colored2"> We Work</span></h2>
+                            <div class="diamond-line-centered-theme-colored2"></div>
+                            <p>We operate in the following counties.</p>
+                            <ul>
+                                <li><a href="#">Nairobi City County</a>
+                                <li><a href="#">Nakuru County</a></li>
+                                <li><a href="#">Mombasa County</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
                 <div class="row">
                     <!-- Google Map HTML Codes -->
                     <!--<div
