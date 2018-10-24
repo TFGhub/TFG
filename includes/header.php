@@ -98,15 +98,24 @@
                 <nav id="menuzord" class="menuzord red">
                     <ul class="menuzord-menu">
                         <li class="active"><a href="index.php">Home</a></li>
-                        <li><a href="#features">About Us</a>
+                        <li><a href="#about">About Us</a>
                             <ul class="dropdown">
-                                <li><a href="#">Mission</a>
-                                <li><a href="#">Vision</a></li>
-                                <li><a href="#">Objectives</a></li>
+                                <li><a href="#about">Mission</a>
+                                <li><a href="#about">Vision</a></li>
+                                <li><a href="#about">Objectives</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#features">Our Pillars</a>
+                            <ul class="dropdown">
+                                <li><a href="#">Health</a>
+                                <li><a href="#">Environment and Livelihood</a></li>
+                                <li><a href="#">Leadership and Governance</a></li>
+                                <li><a href="#">Economic Empowerment</a></li>
+                                <li><a href="#">Child Protection and Inclusion</a></li>
                             </ul>
                         </li>
                         <li><a href="#services">Services</a></li>
-                        <li><a href="#footer">When we work</a></li>
+                        <li><a href="#map">Where we work</a></li>
                         <li><a href="#reports">Reports</a></li>
                     </ul>
                     <ul class="menuzord-menu pull-right sm-pull-none mb-sm-15">

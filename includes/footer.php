@@ -1,41 +1,43 @@
-<footer id="footer" class="footer" data-bg-img="images/footer-bg.png" data-bg-color="#152029">
+<footer id="footer" class="footer" data-bg-img="images/footer-bg.png" data-bg-color="#FF0000">
     <div class="container pt-70 pb-40">
         <div class="row">
             <div class="col-sm-6 col-md-3">
                 <div class="widget dark">
                     <img class="mt-5 mb-20" alt="" src="images/tfg-logo.png">
-                    <p class="font-12 mt-20 mb-20">The Future Generation.</p>
-                    <ul class="list-inline mt-15">
-                        <li class="m-0 pl-10 pr-10"><i class="fa fa-phone text-theme-colored2 mr-5"></i> <a
-                                    class="text-gray" href="#">020 000 000</a></li>
-                        <li class="m-0 pl-10 pr-10"><i class="fa fa-envelope-o text-theme-colored2 mr-5"></i> <a
-                                    class="text-gray" href="#">info@the-futuregeneration.org</a></li>
-                        <li class="m-0 pl-10 pr-10"><i class="fa fa-globe text-theme-colored2 mr-5"></i> <a
-                                    class="text-gray" href="#">www.the-futuregeneration.org</a></li>
+                    <ul class="list-inline mt-15 text-white">
+                        <li class="m-0 pl-10 pr-10"><i class="fa fa-phone text-theme-colored2 mr-5"></i>
+                            <a class="text-white" href="#">+254 797 530300</a>
+                        </li>
+                        <li class="m-0 pl-10 pr-10"><i class="fa fa-envelope-o text-theme-colored2 mr-5"></i>
+                            <a class="text-white" href="#">info@the-futuregeneration.org</a>
+                        </li>
+                        <li class="m-0 pl-10 pr-10"><i class="fa fa-globe text-theme-colored2 mr-5"></i>
+                            <a class="text-white" href="#">thefuturegeneration2@gmail.com</a>
+                        </li>
                     </ul>
                 </div>
             </div>
             <div class="col-sm-6 col-md-3">
                 <div class="widget dark">
-                    <h4 class="widget-title">Useful Links</h4>
-                    <ul class="list angle-double-right list-border">
-                        <li><a href="page-about-style1.html">About Us</a></li>
-                        <li><a href="page-services-style1.html">Our Service</a></li>
-                        <li><a href="page-pricing-style1.html">Pricing Table</a></li>
-                        <li><a href="page-project-style1.html">Project</a></li>
-                        <li><a href="shop-category.html">Shop</a></li>
+                    <h4 class="widget-title text-black">Useful Links</h4>
+                    <ul class="list angle-double-right list-border text-black">
+                        <li><a href="page-about-style1.html" class="text-white">About Us</a></li>
+                        <li><a href="page-services-style1.html" class="text-white">Our Service</a></li>
+                        <li><a href="page-pricing-style1.html" class="text-white">Pricing Table</a></li>
+                        <li><a href="page-project-style1.html" class="text-white">Project</a></li>
+                        <li><a href="shop-category.html" class="text-white">Shop</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-sm-6 col-md-3">
                 <div class="widget dark">
-                    <h4 class="widget-title">Twitter Feed</h4>
+                    <h4 class="widget-title text-black">Twitter Feed</h4>
                     <div class="twitter-feed list-border clearfix" data-username="Envato" data-count="2"></div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-3">
-                <div class="widget dark">
-                    <h4 class="widget-title line-bottom-theme-colored-2">Opening Hours</h4>
+                <div class="widget dark text-white">
+                    <h4 class="widget-title line-bottom-theme-colored-2 text-black">Opening Hours</h4>
                     <div class="opening-hours">
                         <ul class="list-border">
                             <li class="clearfix"><span> Mon - Tues :  </span>
@@ -58,23 +60,23 @@
         <div class="row mt-10">
             <div class="col-md-2">
                 <div class="widget dark">
-                    <h5 class="widget-title mb-10">Call Us Now</h5>
-                    <div class="text-gray">020 000 000 <br>020 000 000</div>
+                    <h5 class="widget-title mb-10 text-black">Call Us Now</h5>
+                    <div class="text-white">+254 700 816885 <br>+254 797 530300</div>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <div class="widget dark">
                     <h5 class="widget-title mb-10">Connect With Us</h5>
-                    <ul class="styled-icons icon-bordered icon-sm">
-                        <li><a href="#"><i class="fa fa-2x fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-2x fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-2x fa-skype"></i></a></li>
-                        <li><a href="#"><i class="fa fa-2x fa-youtube"></i></a></li>
-                        <li><a href="#"><i class="fa fa-2x fa-instagram"></i></a></li>
+                    <ul class="styled-icons icon-md m-4">
+                        <li><a href="https://www.facebook.com/The-Future-Generation-2202185196721754/" target="_blank"><img src="images/social_media/facebook.png" alt=""></a></li>
+                        <li><a href="#"><img src="images/social_media/twitter.png" alt=""></a></li>
+                        <li><a href="#"><img src="images/social_media/instagram.png" alt=""></a></li>
+                        <li><a href="#"><img src="images/social_media/youtube.png" alt=""></i></a></li>
+                        <li><a href="#"><img src="images/social_media/linkedin.png" alt=""></a></li>
                     </ul>
                 </div>
             </div>
-            <div class="col-md-5 col-md-offset-2">
+            <div class="col-md-4 col-md-offset-2">
                 <div class="widget dark">
                     <h5 class="widget-title mb-10">Subscribe Us</h5>
                     <!-- Mailchimp Subscription Form Starts Here -->
@@ -83,7 +85,8 @@
                             <input type="email" value="" name="EMAIL" placeholder="Your Email"
                                    class="form-control input-lg font-16" data-height="45px" id="mce-EMAIL-footer">
                             <span class="input-group-btn">
-                  <button data-height="45px" class="btn bg-theme-colored2 text-white btn-xs m-0 font-14" type="submit">Subscribe</button>
+                  <button data-height="45px" class="btn btn-info text-white btn-xs m-0 font-14"
+                          type="submit">Subscribe</button>
                 </span>
                         </div>
                     </form>
@@ -112,26 +115,26 @@
             </div>
         </div>
     </div>
-    <div class="footer-bottom bg-theme-colored-transparent-5">
+    <div class="footer-bottom bg-theme-colored-transparent-9">
         <div class="container pt-20 pb-20">
             <div class="row">
                 <div class="col-md-6">
-                    <p class="font-11 text-black-777 m-0">Copyright &copy;2018 The Future Generation. All Rights
+                    <p class="font-11 text-black m-0">Copyright &copy;2018 The Future Generation. All Rights
                         Reserved</p>
                 </div>
                 <div class="col-md-6 text-right">
                     <div class="widget no-border m-0">
                         <ul class="list-inline sm-text-center mt-5 font-12">
                             <li>
-                                <a href="#">FAQ</a>
+                                <a href="#" class="text-black">FAQ</a>
                             </li>
                             <li>|</li>
                             <li>
-                                <a href="#">Help Desk</a>
+                                <a href="#" class="text-black">Help Desk</a>
                             </li>
                             <li>|</li>
                             <li>
-                                <a href="#">Support</a>
+                                <a href="#" class="text-black">Support</a>
                             </li>
                         </ul>
                     </div>
