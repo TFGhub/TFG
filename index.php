@@ -439,36 +439,49 @@
             <div class="container pt-0 pb-0">
                 <div class="section-content">
                     <div class="row mt-sm-30" data-margin-top="-90px">
-                        <div class="col-sm-12 col-md-4">
+                        <div class="col-sm-12 col-md-3">
                             <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
                                 <a class="icon icon-sm mb-20" href="#">
                                     <img src="images/flaticon/1.png" alt="">
                                 </a>
-                                <h4 class="text-uppercase font-weight-600 mt-0">Why choose TFG?</h4>
-                                <p>why choose TFG.</p>
+                                <h4 class="text-uppercase font-weight-600 mt-0"> TFG</h4>
+                                <p>Health</p>
                                 <span class="features-box-number">01</span>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-4">
+                       <div class="col-sm-12 col-md-3">
                             <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-                                <a class="icon icon-sm mb-20" href="#">
-                                    <img src="images/flaticon/2.png" alt="">
+                                <a class="icon icon-sm mb-20" href="childprotection.php">
+                                    <img src="images/flaticon/3.png" alt="">
                                 </a>
-                                <h4 class="text-uppercase font-weight-600 mt-0">Consumer Insights</h4>
-                                <p>Consumer Insights.</p>
+                                <h4 class="text-uppercase font-weight-600 mt-0"> TFG</h4>
+                                <p><b><a href="childprotection.php">Child protection</a></b></p>
                                 <span class="features-box-number">02</span>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-4">
+                        <div class="col-sm-12 col-md-3">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                <a class="icon icon-sm mb-20" href="#">
+                                    <img src="images/flaticon/1.png" alt="">
+                                </a>
+                                <h4 class="text-uppercase font-weight-600 mt-0">TFG</h4>
+                                <p>Environment and Lively hood</p>
+                                <span class="features-box-number">03</span>
+                            </div>
+                        </div>
+
+                        
+                        <div class="col-sm-12 col-md-3">
                             <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
                                 <a class="icon icon-sm mb-20" href="#">
                                     <img src="images/flaticon/3.png" alt="">
                                 </a>
-                                <h4 class="text-uppercase font-weight-600 mt-0">Business Growth</h4>
-                                <p>Business growth.</p>
-                                <span class="features-box-number">03</span>
+                                <h4 class="text-uppercase font-weight-600 mt-0">TFG</h4>
+                                <p>Leadership and governance </p>
+                                <span class="features-box-number">04</span>
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>

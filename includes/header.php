@@ -117,7 +117,14 @@
                                 <li><a href="#">Educate a child</a></li>
                             </ul>
                         </li>
-                        <li><a href="#">How?</a></li>
+                        <li><a href="#">Career</a>
+                                <ul class="dropdown">
+                                <li><a href="#">Job Opportunities</a>
+                                <li><a href="#">Internships</a></li>
+                                <li><a href="#">Training</a></li>
+                                <li><a href="#">Voluntership</a></li>
+                            </ul>
+                        </li>
                         <li><a href="#">Blog</a></li>
                         <li><a href="#contact">Contact</a></li>
                     </ul>
