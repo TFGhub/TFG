@@ -1,4 +1,4 @@
-<footer id="footer" class="footer" data-bg-img="images/footer-bg.png" data-bg-color="#FF0000">
+<footer id="footer" class="footer" data-bg-img="images/footer-bg.png" data-bg-color="#8B0000">
     <div class="container pt-70 pb-40">
         <div class="row">
             <div class="col-sm-6 col-md-3">

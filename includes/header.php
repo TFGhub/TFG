@@ -74,7 +74,7 @@
                         </div>
                         <div class="media element contact-info">
                             <div class="media-body">
-                                <a href="#" class="btn btn-theme-colored" role="button">Explore TFG</a>
+                                <a href="explore.php" class="btn btn-theme-colored" role="button">Explore TFG</a>
                             </div>
                         </div>
                         <div class="media element contact-info">
@@ -121,9 +121,9 @@
                     <ul class="menuzord-menu pull-right sm-pull-none mb-sm-15">
                         <li><a href="#">Take Action</a>
                             <ul class="dropdown">
-                                <li><a href="#">Wheelchair</a>
-                                <li><a href="#">Repaint a Class</a></li>
-                                <li><a href="#">Educate a child</a></li>
+                                <li><a href="#">Become A Donor</a>
+                                <li><a href="#">Get Involved</a></li>
+                                <li><a href="#">Speakout</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Career</a>

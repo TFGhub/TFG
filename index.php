@@ -163,9 +163,9 @@
                                      data-responsive="off"
                                      style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a
                                             class="btn btn-theme-colored2 btn-lg btn-flat text-white font-weight-600 pl-30 pr-30 mr-15"
-                                            href="#">Our Service</a><a
+                                           href="#features">Our Pillars</a><a
                                             class="btn btn-default btn-transparent btn-bordered btn-lg btn-flat font-weight-600 pl-30 pr-30"
-                                            href="#">Get a Quote</a>
+                                            href="#services">Services</a>
                                 </div>
                             </li>
                             <!-- SLIDE 2 -->
@@ -222,9 +222,7 @@
                                      data-height="none"
                                      data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
                                      data-responsive_offset="on"
-                                     style="z-index: 5; white-space: nowrap;">We provides you our best business solution
-                                    and professional services for our clients <br> and always try to achieve our clients
-                                    trust and satisfaction
+                                     style="z-index: 5; white-space: nowrap;">To be self-reliance capable of building resilience of coping with the current situation within their locality <br> 
                                 </div>
                                 <!-- LAYER NR. 4 -->
                                 <div class="tp-caption rs-parallaxlevel-0"
@@ -239,9 +237,9 @@
                                      data-responsive="off"
                                      style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a
                                             class="btn btn-theme-colored2 btn-lg btn-flat text-white font-weight-600 pl-30 pr-30 mr-15"
-                                            href="#">Our Service</a><a
+                                            href="#features">Our Pillars</a><a
                                             class="btn btn-default btn-transparent btn-bordered btn-lg btn-flat font-weight-600 pl-30 pr-30"
-                                            href="#">Get a Quote</a>
+                                            href="#services">Services</a>
                                 </div>
                             </li>
                             <!-- SLIDE 1 -->
@@ -298,9 +296,10 @@
                                      data-height="none"
                                      data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
                                      data-responsive_offset="on"
-                                     style="z-index: 5; white-space: nowrap;">We provides you our best business solution
-                                    and professional services for our clients <br> and always try to achieve our clients
-                                    trust and satisfaction
+                                     style="z-index: 5; white-space: nowrap;">
+                                     <p>The Future Generation is a non-governmental organization founded in 2018 committed</p>
+                                     <p> To eradicate poverty through empowering the youth women and children </p>
+                                     <p></p> 
                                 </div>
                                 <!-- LAYER NR. 4 -->
                                 <div class="tp-caption rs-parallaxlevel-0"
@@ -315,9 +314,9 @@
                                      data-responsive="off"
                                      style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a
                                             class="btn btn-theme-colored2 btn-lg btn-flat text-white font-weight-600 pl-30 pr-30 mr-15"
-                                            href="#">Our Service</a><a
+                                            href="#features">Our Pillars</a><a
                                             class="btn btn-default btn-transparent btn-bordered btn-lg btn-flat font-weight-600 pl-30 pr-30"
-                                            href="#">Get a Quote</a>
+                                            href="#services">Services</a>
                                 </div>
                             </li>
                         </ul>
@@ -1266,9 +1265,10 @@
                             <div class="diamond-line-centered-theme-colored2"></div>
                             <p>We operate in the following counties.</p>
                             <ul>
-                                <li><a href="#">Nairobi City County</a>
-                                <li><a href="#">Nakuru County</a></li>
-                                <li><a href="#">Mombasa County</a></li>
+
+          <li><i class="fa fa-clock-o"></i> Nairobi City County</li>
+          <li><i class="fa fa-clock-o"></i> Nakuru County</li>
+          <li><i class="fa fa-clock-o"></i> Mombasa County</li>
                             </ul>
                         </div>
                     </div>
