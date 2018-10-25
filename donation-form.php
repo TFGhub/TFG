@@ -82,18 +82,39 @@
     <div class="main-content">
 
         <!-- Section: inner-header -->
-        <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg1.jpg">
-            <div class="container pt-60 pb-60">
+        <section class="inner-header divider parallax layer-overlay overlay-white-8">
+            <div class="container pt-20">
                 <!-- Section Content -->
                 <div class="section-content">
                     <div class="row">
                         <div class="col-md-12 text-center">
-                            <h3 class="title">Paypal Recurring Donation</h3>
-                            <ol class="breadcrumb text-center text-black mt-10">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">Pages</a></li>
-                                <li class="active text-theme-colored">Page Title</li>
-                            </ol>
+                            <h3 class="title">Donate</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg1.jpg">
+            <div class="container pt-10 pb-10">
+                <!-- Section Content -->
+                <div class="section-content">
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <h5 class="title">MPESA & Bank</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg1.jpg">
+            <div class="container pt-10 pb-10">
+                <!-- Section Content -->
+                <div class="section-content">
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <h5 class="title">Paypal</h5>
                         </div>
                     </div>
                 </div>

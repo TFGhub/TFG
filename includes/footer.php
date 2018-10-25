@@ -12,10 +12,8 @@
                             <a class="text-white" href="#">0797530300</a>
                         </li>
 
-                            <li class="m-0 pl-10 pr-10"><i class="fa fa-envelope-o text-theme-colored2 mr-5"></i>
-                            <a class="text-white" href="#">
-                                Po box 1218-00600
-                                Nairobi ,Kenya 
+                            <li class="m-0 pl-10 pr-10"><i class="fa fa-map-marker text-theme-colored2 mr-5"></i>
+                            <a class="text-white" href="#"> P.O Box 1218-00600 Nairobi, Kenya.
 
                             </a>
                         </li>
