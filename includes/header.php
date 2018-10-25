@@ -132,12 +132,6 @@
                                 <li><a href="#">Internships</a></li>
                                 <li><a href="#">Training</a></li>
                                 <li><a href="#">Voluntership</a></li>
-=======
-                                <li><a href="#">Sanitary Towels</a>
-                                <li><a href="#">Wheelchairs</a></li>
-                                <li><a href="#">Renovation of Schools</a></li>
-                                <li><a href="#">Education</a></li>
->>>>>>> cbc25975a1f9c2cdbb6bef80fb39c8c3e329669d
                             </ul>
                         </li>
                         <li><a href="#">Blog</a></li>
