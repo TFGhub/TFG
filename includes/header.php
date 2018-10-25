@@ -121,9 +121,10 @@
                     <ul class="menuzord-menu pull-right sm-pull-none mb-sm-15">
                         <li><a href="#">Take Action</a>
                             <ul class="dropdown">
-                                <li><a href="#">Wheelchair</a>
-                                <li><a href="#">Repaint a Class</a></li>
-                                <li><a href="#">Educate a child</a></li>
+                                <li><a href="#">Sanitary Towels</a>
+                                <li><a href="#">Wheelchairs</a></li>
+                                <li><a href="#">Renovation of Schools</a></li>
+                                <li><a href="#">Education</a></li>
                             </ul>
                         </li>
                         <li><a href="#">How?</a></li>

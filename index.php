@@ -47,7 +47,7 @@
     <!-- CSS | Theme Color -->
     <link href="css/colors/theme-skin-color-set4.css" rel="stylesheet" type="text/css">
 
-    <!-- external javascripts -->
+    <!-- external javascript -->
     <script src="js/jquery-2.2.4.min.js"></script>
     <script src="js/jquery-ui.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
@@ -81,13 +81,14 @@
 
     <!-- Start main-content -->
     <div class="main-content">
+
         <!-- Section: home -->
         <section id="home">
             <div class="container-fluid p-0">
 
                 <!-- START REVOLUTION SLIDER 5.0.7 -->
                 <div id="rev_slider_home_wrapper" class="rev_slider_wrapper" data-alias="news-gallery34"
-                     style="margin:0 auto; background-color:#ffffff; padding:0; margin-top:0; margin-bottom:0;">
+                     style="margin:0 auto; background-color:#ffffff; padding:0;">
                     <!-- START REVOLUTION SLIDER 5.0.7 fullwidth mode -->
                     <div id="rev_slider_home" class="rev_slider fullwidthabanner" style="display:none;"
                          data-version="5.0.7">
@@ -445,7 +446,10 @@
                                     <img src="images/flaticon/1.png" alt="">
                                 </a>
                                 <h4 class="text-uppercase font-weight-600 mt-0">Mission</h4>
-                                <p>This is our mission</p>
+                                <p>Empowering the society by impacting to them social, economic skill and commitment in
+                                    holistic and sustainable development among the poor and marginalized communities
+                                    through advocacy, capacity building and promoting physical, social, economic, and
+                                    spiritual well-being.</p>
                                 <span class="features-box-number">01</span>
                             </div>
                         </div>
@@ -455,7 +459,8 @@
                                     <img src="images/flaticon/2.png" alt="">
                                 </a>
                                 <h4 class="text-uppercase font-weight-600 mt-0">Vision</h4>
-                                <p>This is our vision.</p>
+                                <p>Empowered communities capable of uplifting their living standards holistically
+                                    through transforming.</p>
                                 <span class="features-box-number">02</span>
                             </div>
                         </div>
@@ -465,8 +470,35 @@
                                     <img src="images/flaticon/3.png" alt="">
                                 </a>
                                 <h4 class="text-uppercase font-weight-600 mt-0">Objectives</h4>
-                                <p>These are our objectives.</p>
+                                <p>To ensure disadvantaged youth and women acquire life skills, relevant market skills,
+                                    savings, education, and small business development.</p>
+                                <p>To ensure that women are empowered to achieve their life goals and have stable
+                                    sustainable life through skilled training.</p>
                                 <span class="features-box-number">03</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container pt-50 pb-70">
+                        <div class="section-title text-center">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h2 class="text-uppercase title text-black">About <span
+                                                class="text-theme-colored2">Us</span>
+                                    </h2>
+                                    <div class="diamond-line-centered-theme-colored2"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="section-content text-center">
+                            <div class="row mt-sm-30" data-margin-top="-90px">
+                                <div class="row mt-sm-30" data-margin-top="-90px">
+                                    <div class="col-sm-12 col-md-12">
+                                        <p>The Future Generation is a Non-Governmental Organization founded in 2018
+                                            committed, to eradicate poverty through empowering the youth, women and
+                                            children to be self-reliance capable of building resilience of coping with
+                                            the current situation with their locality.</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -612,7 +644,7 @@
                 <div class="section-title">
                     <div class="row">
                         <div class="col-md-12">
-                            <h2 class="text-uppercase title text-white">Our <span
+                            <h2 class="text-uppercase title text-black">Our <span
                                         class="text-theme-colored2">Reports</span>
                             </h2>
                             <div class="diamond-line-left-theme-colored2"></div>
@@ -1174,29 +1206,23 @@
                         <div class="col-sm-12 col-md-12 mb-10">
                             <div class="contact-info text-center bg-silver-light border-1px">
                                 <h4><span class="fa fa-phone font-18 mb-10 text-theme-colored2"></span> Call Us</h4>
-                                <h6 class="text-gray">Phone: 020 000 000</h6>
+                                <h6 class="text-gray">Phone: +254 700 816885 <br/> +254 797 530 300</h6>
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-12 mb-10">
                             <div class="contact-info text-center bg-silver-light border-1px">
                                 <h4><span class="fa fa-map-marker font-18 mb-10 text-theme-colored2"></span> Address
                                 </h4>
-                                <h6 class="text-gray">Nairobi</h6>
+                                <h6 class="text-gray">P.O Box 1218 - 00600 <br/> Nairobi, Kenya</h6>
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-12 mb-10">
                             <div class="contact-info text-center bg-silver-light border-1px">
                                 <h4><span class="fa fa-envelope font-18 mb-10 text-theme-colored2"></span> Email</h4>
-                                <h6 class="text-gray">info@the-futuregeneration.org</h6>
+                                <h6 class="text-gray">info@the-futuregeneration.org <br/> thefuturegeneration2@gmail.com
+                                </h6>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-12 mb-10">
-                            <div class="contact-info text-center bg-silver-light border-1px">
-                                <h4><span class="fa fa-fax font-18 mb-10 text-theme-colored2"></span> Fax</h4>
-                                <h6 class="text-gray">(020) 123 4567</h6>
-                            </div>
-                        </div>
-
                     </div>
                     <div class="col-md-7">
                         <h4 class="mt-0 mb-30 line-bottom-theme-colored-2">Interested in discussing?</h4>
