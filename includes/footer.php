@@ -6,8 +6,20 @@
                     <img class="mt-5 mb-20" alt="" src="images/tfg-logo.png">
                     <ul class="list-inline mt-15 text-white">
                         <li class="m-0 pl-10 pr-10"><i class="fa fa-phone text-theme-colored2 mr-5"></i>
-                            <a class="text-white" href="#">+254 797 530300</a>
+                            <a class="text-white" href="#">0700816885</a>
                         </li>
+                         <li class="m-0 pl-10 pr-10"><i class="fa fa-phone text-theme-colored2 mr-5"></i>
+                            <a class="text-white" href="#">0797530300</a>
+                        </li>
+
+                            <li class="m-0 pl-10 pr-10"><i class="fa fa-envelope-o text-theme-colored2 mr-5"></i>
+                            <a class="text-white" href="#">
+                                Po box 1218-00600
+                                Nairobi ,Kenya 
+
+                            </a>
+                        </li>
+
                         <li class="m-0 pl-10 pr-10"><i class="fa fa-envelope-o text-theme-colored2 mr-5"></i>
                             <a class="text-white" href="#">info@the-futuregeneration.org</a>
                         </li>
@@ -29,11 +41,30 @@
                 </div>
             </div>
             <div class="col-sm-6 col-md-3">
+                 <div class="widget dark text-white">
                 <div class="widget dark">
-                    <h4 class="widget-title text-black">Twitter Feed</h4>
-                    <div class="twitter-feed list-border clearfix" data-username="Envato" data-count="2"></div>
+                    <h4 class="widget-title text-black">Account Numbers</h4>
+                    <div class="opening-hours">
+                        <ul class="list-border">
+                            <li class="clearfix"><span> LIPA NA MPESA  :  </span>
+                                <div class="value pull-right"> PAY BILL 
+                                                                    128437 </div>
+                            </li>
+                            <li class="clearfix"><span>SIDIAN BANK 
+                                 :</span>
+                                <div class="value pull-right"> Branch TWO RIVERS </div>
+                            </li>
+                            <li class="clearfix"><span> A/C Name:  </span>
+                                <div class="value pull-right">The future Generation</div>
+                            </li>
+                            <li class="clearfix"><span> A/c Number: </span>
+                                <div class="value pull-right">  01053040000016</div>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
+        </div>
             <div class="col-sm-6 col-md-3">
                 <div class="widget dark text-white">
                     <h4 class="widget-title line-bottom-theme-colored-2 text-black">Opening Hours</h4>
