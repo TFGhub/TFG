@@ -98,11 +98,12 @@
                 <nav id="menuzord" class="menuzord red">
                     <ul class="menuzord-menu">
                         <li class="active"><a href="index.php">Home</a></li>
-                        <li><a href="#about">About Us</a>
+                        <li><a href="#mission">About Us</a>
                             <ul class="dropdown">
-                                <li><a href="#about">Mission</a>
-                                <li><a href="#about">Vision</a></li>
+                                <li><a href="#mission">Mission</a>
+                                <li><a href="#mission">Vision</a></li>
                                 <li><a href="#about">Objectives</a></li>
+                                <li><a href="#aboutus">Who we Are</a></li>
                             </ul>
                         </li>
                         <li><a href="#features">Our Pillars</a>

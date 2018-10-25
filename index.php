@@ -80,7 +80,7 @@
     <?php include "includes/header.php" ?>
 
     <!-- Start main-content -->
-    <div class="main-content">
+    <secti class="main-content">
 
         <!-- Section: home -->
         <section id="home">
@@ -164,7 +164,7 @@
                                      data-responsive="off"
                                      style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a
                                             class="btn btn-theme-colored2 btn-lg btn-flat text-white font-weight-600 pl-30 pr-30 mr-15"
-                                           href="#features">Our Pillars</a><a
+                                            href="#features">Our Pillars</a><a
                                             class="btn btn-default btn-transparent btn-bordered btn-lg btn-flat font-weight-600 pl-30 pr-30"
                                             href="#services">Services</a>
                                 </div>
@@ -223,7 +223,8 @@
                                      data-height="none"
                                      data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
                                      data-responsive_offset="on"
-                                     style="z-index: 5; white-space: nowrap;">To be self-reliance capable of building resilience of coping with the current situation within their locality <br> 
+                                     style="z-index: 5; white-space: nowrap;">To be self-reliance capable of building
+                                    resilience of coping with the current situation within their locality <br>
                                 </div>
                                 <!-- LAYER NR. 4 -->
                                 <div class="tp-caption rs-parallaxlevel-0"
@@ -298,9 +299,10 @@
                                      data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
                                      data-responsive_offset="on"
                                      style="z-index: 5; white-space: nowrap;">
-                                     <p>The Future Generation is a non-governmental organization founded in 2018 committed</p>
-                                     <p> To eradicate poverty through empowering the youth women and children </p>
-                                     <p></p> 
+                                    <p>The Future Generation is a non-governmental organization founded in 2018
+                                        committed</p>
+                                    <p> To eradicate poverty through empowering the youth women and children </p>
+                                    <p></p>
                                 </div>
                                 <!-- LAYER NR. 4 -->
                                 <div class="tp-caption rs-parallaxlevel-0"
@@ -435,8 +437,8 @@
         </section>
 
         <!-- Section: home-boxes -->
-         <section id="about" class="bg-silver-light">
-            <div class="container-fluid pt-70 pb-0">
+        <section id="mission" class="bg-silver-light">
+            <div class="container-fluid pt-90 pb-0">
                 <div class="section-content">
                     <div class="row mt-sm-30" data-margin-top="-90px">
                         <div class="col-sm-12 col-md-4">
@@ -478,26 +480,50 @@
                             </div>
                         </div>
                     </div>
-                    <div class="container pt-50 pb-70">
-                        <div class="section-title text-center">
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <h2 class="text-uppercase title text-black">About <span
-                                                class="text-theme-colored2">Us</span>
-                                    </h2>
-                                    <div class="diamond-line-centered-theme-colored2"></div>
-                                </div>
+                </div>
+        </section>
+
+        <section id="aboutus" class="bg-theme-colored">
+            <div class="container">
+                <div class="container pt-50 pb-70">
+                    <div class="section-title text-center">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h2 class="text-uppercase title text-black">About <span
+                                            class="text-theme-colored2">Us</span>
+                                </h2>
+                                <div class="diamond-line-centered-theme-colored2"></div>
                             </div>
                         </div>
-                        <div class="section-content text-center">
+                    </div>
+                    <div class="section-content text-center text-white">
+                        <div class="row mt-sm-30" data-margin-top="-90px">
                             <div class="row mt-sm-30" data-margin-top="-90px">
-                                <div class="row mt-sm-30" data-margin-top="-90px">
-                                    <div class="col-sm-12 col-md-12">
-                                        <p>The Future Generation is a Non-Governmental Organization founded in 2018
-                                            committed, to eradicate poverty through empowering the youth, women and
-                                            children to be self-reliance capable of building resilience of coping with
-                                            the current situation with their locality.</p>
-                                    </div>
+                                <div class="col-sm-12 col-md-12">
+                                    <p>The Future Generation is a Non-Governmental Organization founded in 2018
+                                        committed, to eradicate poverty through empowering the youth, women and
+                                        children to be self-reliance capable of building resilience of coping with
+                                        the current situation with their locality.</p>
+                                    <p>The future generation is a national Christian humanitarian organization,
+                                        dedicated to working with men, women children and youths to reach their full
+                                        potential by addressing their root causes of poverty and injustice.
+                                        We partner with communities, the Government, sponsors, donors and corporates
+                                        to realize our strategy, our goal, of building and Developing An Empowered
+                                        Generation.</p>
+                                    <p>Through our strategy, we envision children living and enjoying life in all
+                                        its fullness. Youth and women accessing opportunities stable and living just
+                                        life. To this end we work with partners to improve livelihoods and
+                                        resilience, education & child protection, health, nutrition and HIV/Aids,
+                                        humanitarian emergency affairs leadership and governance and access to
+                                        water, sanitation and hygiene (WASH) for children and their families.
+                                        Through our advocacy work, we enable the voices of youth, women and children
+                                        and their communities to reach decision-makers, who have power to change
+                                        unjust policies and practices.</p>
+                                    <p>The Future Generation has program reach in Kenya, with Area Programs – long –
+                                        term and short Term development strategic program with target group being
+                                        men, youth women and children.
+                                        The future generation serves all people regardless of religion, race,
+                                        ethnicity or gender.</p>
                                 </div>
                             </div>
                         </div>
@@ -525,21 +551,21 @@
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Health</h4>
-                                
+
                             </div>
                         </div>
                         <div class="col-md-6 col-md-4 mt-sm-30" id="environment">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Environment and Livelihood</h4>
-                                
+
                             </div>
                         </div>
                         <div class="col-md-6 col-md-4 mt-sm-30" id="leadership">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Leadership and Governance</h4>
-                                
+
                             </div>
                         </div>
                     </div>
@@ -548,18 +574,18 @@
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Economic Empowerment</h4>
-                                
+
                             </div>
                         </div>
                         <a href="childprotection.php">
-                        <div class="col-md-6 col-md-6 mt-sm-30" id="child">
-                            <div class="mb-sm-30">
-                                <img class="img-fullwidth" src="images/about/1.jpg" alt="">
-                                <h4 class="font-weight-600 mt-20">Child Protection and Inclusion</h4>
-                                
+                            <div class="col-md-6 col-md-6 mt-sm-30" id="child">
+                                <div class="mb-sm-30">
+                                    <img class="img-fullwidth" src="images/about/1.jpg" alt="">
+                                    <h4 class="font-weight-600 mt-20">Child Protection and Inclusion</h4>
+
+                                </div>
                             </div>
-                        </div>
-                    </a>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -1293,9 +1319,9 @@
                             <p>We operate in the following counties.</p>
                             <ul>
 
-          <li><i class="fa fa-clock-o"></i> Nairobi City County</li>
-          <li><i class="fa fa-clock-o"></i> Nakuru County</li>
-          <li><i class="fa fa-clock-o"></i> Mombasa County</li>
+                                <li><i class="fa fa-clock-o"></i> Nairobi City County</li>
+                                <li><i class="fa fa-clock-o"></i> Nakuru County</li>
+                                <li><i class="fa fa-clock-o"></i> Mombasa County</li>
                             </ul>
                         </div>
                     </div>
@@ -1319,13 +1345,13 @@
             </div>
         </section>
 
-    </div>
-    <!-- end main-content -->
-    <!-- Footer -->
+</div>
+<!-- end main-content -->
+<!-- Footer -->
 
-    <?php include "includes/footer.php" ?>
+<?php include "includes/footer.php" ?>
 
-    <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+<a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
 </div>
 <!-- end wrapper -->
 
