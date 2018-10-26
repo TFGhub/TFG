@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df9e20d5-0f9b-4798-9062-4ea103e5ccc3" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/sendmail.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/donation-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/donation-form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,30 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-              <folding>
-                <element signature="e#134#141#1" expanded="true" />
-                <element signature="e#133#140#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="donation-form.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/donation-form.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="84" column="83" selection-start-line="84" selection-start-column="83" selection-end-line="84" selection-end-column="83" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,10 +61,12 @@
         <option value="$PROJECT_DIR$/css/colors/theme-skin-color-set4.css" />
         <option value="$PROJECT_DIR$/css/style-main.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/includes/header.php" />
         <option value="$PROJECT_DIR$/includes/footer.php" />
         <option value="$PROJECT_DIR$/donation-form.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/js/custom.js" />
+        <option value="$PROJECT_DIR$/php/sendmail.php" />
       </list>
     </option>
   </component>
@@ -95,7 +76,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-6" />
     <option name="y" value="1" />
     <option name="width" value="1378" />
@@ -114,11 +95,6 @@
               <item name="TFG" type="b2602c69:ProjectViewProjectNode" />
               <item name="TFG" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="TFG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TFG" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -134,15 +110,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\TFG" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\TFG\js" />
       <recent name="C:\wamp64\www\TFG\images\social_media" />
       <recent name="C:\wamp64\www\TFG\images" />
       <recent name="C:\wamp64\www\TFG\images\team" />
       <recent name="C:\wamp64\www\TFG\images\works" />
-      <recent name="C:\wamp64\www\TFG\images\bg" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\TFG" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -180,16 +156,18 @@
       <workItem from="1540405208885" duration="4464000" />
       <workItem from="1540442940106" duration="302000" />
       <workItem from="1540450796111" duration="5374000" />
+      <workItem from="1545757798585" duration="3928000" />
+      <workItem from="1540535314645" duration="977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56422000" />
+    <option name="totallyTimeSpent" value="61327000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="1" width="1378" height="743" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20624049" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2124431" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -217,27 +195,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/includes/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1955">
-          <caret line="115" column="29" lean-forward="true" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17714">
-          <caret line="1042" column="87" selection-start-line="1042" selection-start-column="87" selection-end-line="1042" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20434">
-          <caret line="1202" column="54" selection-start-line="1202" selection-start-column="54" selection-end-line="1202" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22321">
@@ -529,38 +486,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="439" column="28" selection-start-line="439" selection-start-column="28" selection-end-line="439" selection-end-column="28" />
-          <folding>
-            <element signature="n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#2;n#secti#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
+        <state relative-caret-position="255">
           <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-          <folding>
-            <element signature="e#134#141#1" expanded="true" />
-            <element signature="e#133#140#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/donation-form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="84" column="83" selection-start-line="84" selection-start-column="83" selection-end-line="84" selection-end-column="83" />
+        <state relative-caret-position="-1379">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33372">
+          <caret line="413" column="59" selection-start-line="413" selection-start-column="59" selection-end-line="413" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/sendmail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="1213" column="41" lean-forward="true" selection-start-line="1213" selection-start-column="41" selection-end-line="1213" selection-end-column="41" />
+          <folding>
+            <element signature="n#section#0;n#secti#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#secti#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#secti#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#secti#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#secti#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#secti#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#secti#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#7;n#secti#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#8;n#secti#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#9;n#secti#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#10;n#secti#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#12;n#secti#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>

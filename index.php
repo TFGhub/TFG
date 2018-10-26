@@ -51,6 +51,7 @@
     <script src="js/jquery-2.2.4.min.js"></script>
     <script src="js/jquery-ui.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/wow.min.js"></script>
     <!-- JS | jquery plugin collection for this theme -->
     <script src="js/jquery-plugin-collection.js"></script>
 
@@ -441,7 +442,7 @@
             <div class="container-fluid pt-90 pb-0">
                 <div class="section-content">
                     <div class="row mt-sm-30" data-margin-top="-90px">
-                        <div class="col-sm-12 col-md-4">
+                        <div class="col-sm-12 col-md-4 wow slideInLeft animated">
                             <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
                                 <a class="icon icon-sm mb-20" href="#">
                                     <img src="images/flaticon/1.png" alt="">
@@ -454,7 +455,7 @@
                                 <span class="features-box-number">01</span>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-4">
+                        <div class="col-sm-12 col-md-4 wow slideInUp animated">
                             <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
                                 <a class="icon icon-sm mb-20" href="#">
                                     <img src="images/flaticon/2.png" alt="">
@@ -465,7 +466,7 @@
                                 <span class="features-box-number">02</span>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-4">
+                        <div class="col-sm-12 col-md-4 wow slideInRight animated">
                             <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
                                 <a class="icon icon-sm mb-20" href="#">
                                     <img src="images/flaticon/3.png" alt="">
@@ -547,21 +548,21 @@
                 </div>
                 <div class="section-content">
                     <div class="row">
-                        <div class="col-md-6 col-md-4" id="health">
+                        <div class="col-md-6 col-md-4 wow fadeInDown animated" id="health">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Health</h4>
 
                             </div>
                         </div>
-                        <div class="col-md-6 col-md-4 mt-sm-30" id="environment">
+                        <div class="col-md-6 col-md-4 mt-sm-30 wow fadeInDown animated" id="environment">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Environment and Livelihood</h4>
 
                             </div>
                         </div>
-                        <div class="col-md-6 col-md-4 mt-sm-30" id="leadership">
+                        <div class="col-md-6 col-md-4 mt-sm-30 wow fadeInDown animated" id="leadership">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Leadership and Governance</h4>
@@ -570,7 +571,7 @@
                         </div>
                     </div>
                     <div class="section-content">
-                        <div class="col-md-6 col-md-6 mt-sm-30" id="economic">
+                        <div class="col-md-6 col-md-6 mt-sm-30 wow fadeInUp animated" id="economic">
                             <div class="mb-sm-30">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Economic Empowerment</h4>
@@ -578,7 +579,7 @@
                             </div>
                         </div>
                         <a href="childprotection.php">
-                            <div class="col-md-6 col-md-6 mt-sm-30" id="child">
+                            <div class="col-md-6 col-md-6 mt-sm-30 wow fadeInUp animated" id="child">
                                 <div class="mb-sm-30">
                                     <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                     <h4 class="font-weight-600 mt-20">Child Protection and Inclusion</h4>
@@ -595,7 +596,7 @@
         <section id="services" class="services layer-overlay overlay-theme-colored-9"
                  data-bg-img="images/services/1.jpg">
             <div class="container pb-30">
-                <div class="section-title">
+                <div class="section-title wow fadeInLeft animated">
                     <div class="row">
                         <div class="col-md-12">
                             <h2 class="text-uppercase title text-white">Popular <span
@@ -607,7 +608,7 @@
                 </div>
                 <div class="section-content">
                     <div class="row">
-                        <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInDown animated">
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-bar-chart-o text-theme-colored2"></i></a>
                                 <div class="media-body">
@@ -616,7 +617,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInDown animated">
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-area-chart text-theme-colored2"></i></a>
                                 <div class="media-body">
@@ -625,7 +626,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInDown animated">
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-pie-chart text-theme-colored2"></i></a>
                                 <div class="media-body">
@@ -634,7 +635,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInDown animated">
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-cubes text-theme-colored2"></i></a>
                                 <div class="media-body">
@@ -643,7 +644,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInDown animated">
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-globe text-theme-colored2"></i></a>
                                 <div class="media-body">
@@ -652,7 +653,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInDown animated">
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-bug text-theme-colored2"></i></a>
                                 <div class="media-body">
@@ -669,7 +670,7 @@
         <!-- Section: Reports -->
         <section id="reports" class="services">
             <div class="container pb-30">
-                <div class="section-title">
+                <div class="section-title wow fadeInLeft animated">
                     <div class="row">
                         <div class="col-md-12">
                             <h2 class="text-uppercase title text-black">Our <span
@@ -681,7 +682,7 @@
                 </div>
                 <div class="section-content">
                     <div class="row">
-                        <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInUp animated">
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-bar-chart-o text-theme-colored2"></i></a>
                                 <div class="media-body">
@@ -690,7 +691,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInUp animated">
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-area-chart text-theme-colored2"></i></a>
                                 <div class="media-body">
@@ -699,7 +700,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInUp animated">
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-pie-chart text-theme-colored2"></i></a>
                                 <div class="media-body">
@@ -708,7 +709,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInUp animated">
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-cubes text-theme-colored2"></i></a>
                                 <div class="media-body">
@@ -717,7 +718,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInUp animated">
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-globe text-theme-colored2"></i></a>
                                 <div class="media-body">
@@ -726,7 +727,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInUp animated">
                             <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
                                             class="fa fa-bug text-theme-colored2"></i></a>
                                 <div class="media-body">
@@ -743,7 +744,7 @@
         <!-- Section: Gallery -->
         <section id="gallery">
             <div class="container-fluid pb-0">
-                <div class="section-title text-center">
+                <div class="section-title text-center wow fadeIn animated">
                     <div class="row">
                         <div class="col-md-6 col-md-offset-3">
                             <h2 class="text-uppercase title">Working<span class="text-theme-colored2"> Gallery</span>
@@ -757,7 +758,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <!-- Works Filter -->
-                            <div class="portfolio-filter text-center mb-40">
+                            <div class="portfolio-filter text-center mb-40 wow fadeInDown animated">
                                 <a href="#" class="active" data-filter="*">All</a>
                                 <a href="#consulting" class="" data-filter=".consulting">Consulting</a>
                                 <a href="#business" class="" data-filter=".business">Business</a>
@@ -767,7 +768,8 @@
                             <!-- End Works Filter -->
 
                             <!-- Portfolio Gallery Grid -->
-                            <div id="grid" class="gallery-isotope default-animation-effect grid-5 gutter clearfix">
+                            <div id="grid"
+                                 class="gallery-isotope default-animation-effect grid-5 gutter clearfix wow fadeInDown animated">
                                 <!-- Portfolio Item Start -->
                                 <div class="gallery-item marketing finance" id="finance">
                                     <div class="project-gallery">
@@ -786,7 +788,8 @@
                                 <!-- Portfolio Item End -->
 
                                 <!-- Portfolio Item Start -->
-                                <div class="gallery-item business finance consulting" id="consulting">
+                                <div class="gallery-item business finance consulting wow fadeInDown animated"
+                                     id="consulting">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
                                             <img class="img-fullwidth" alt="" src="images/works/w1.png">
@@ -803,7 +806,7 @@
                                 <!-- Portfolio Item End -->
 
                                 <!-- Portfolio Item Start -->
-                                <div class="gallery-item consulting business" id="business">
+                                <div class="gallery-item consulting business wow fadeInDown animated" id="business">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
                                             <img class="img-fullwidth" alt="" src="images/works/w3.png">
@@ -820,7 +823,7 @@
                                 <!-- Portfolio Item End -->
 
                                 <!-- Portfolio Item Start -->
-                                <div class="gallery-item finance marketing" id="marketing">
+                                <div class="gallery-item finance marketing wow fadeInDown animated" id="marketing">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
                                             <img class="img-fullwidth" alt="" src="images/works/w4.png">
@@ -837,7 +840,7 @@
                                 <!-- Portfolio Item End -->
 
                                 <!-- Portfolio Item Start -->
-                                <div class="gallery-item business finance consulting">
+                                <div class="gallery-item business finance consulting wow fadeInDown animated">
                                     <div class="project-gallery">
                                         <div class="project-thumb">
                                             <img class="img-fullwidth" alt="" src="images/works/w5.png">
@@ -851,95 +854,9 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!-- Portfolio Item End -->
-
-                                <!-- Portfolio Item Start -->
-                                <!--<div class="gallery-item finance marketing">
-                                    <div class="project-gallery">
-                                        <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/w4.png">
-                                            <div class="project-caption">
-                                                <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
-                                                    Business Consulting</h3>
-                                                <p class="text-white description">TFG Business Consulting</p>
-                                                <a href="#" class="text-white font-13">Read More <span
-                                                            class="fa fa-angle-right"></span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>-->
-                                <!-- Portfolio Item End -->
-
-                                <!-- Portfolio Item Start -->
-                                <!--<div class="gallery-item business finance consulting">
-                                    <div class="project-gallery">
-                                        <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/w5.png">
-                                            <div class="project-caption">
-                                                <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
-                                                    Business Consulting</h3>
-                                                <p class="text-white description">TFG Business Consulting</p>
-                                                <a href="#" class="text-white font-13">Read More <span
-                                                            class="fa fa-angle-right"></span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>-->
-                                <!-- Portfolio Item End -->
-
-                                <!-- Portfolio Item Start -->
-                                <!--<div class="gallery-item finance consulting">
-                                    <div class="project-gallery">
-                                        <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/w6.png">
-                                            <div class="project-caption">
-                                                <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
-                                                    Business Consulting</h3>
-                                                <p class="text-white description">TFG Business Consulting</p>
-                                                <a href="#" class="text-white font-13">Read More <span
-                                                            class="fa fa-angle-right"></span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>-->
-                                <!-- Portfolio Item End -->
-
-                                <!-- Portfolio Item Start -->
-                                <!--<div class="gallery-item marketing">
-                                    <div class="project-gallery">
-                                        <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/w7.png">
-                                            <div class="project-caption">
-                                                <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
-                                                    Business Consulting</h3>
-                                                <p class="text-white description">TFG Business Consulting</p>
-                                                <a href="#" class="text-white font-13">Read More <span
-                                                            class="fa fa-angle-right"></span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>-->
-                                <!-- Portfolio Item End -->
-
-                                <!-- Portfolio Item Start -->
-                                <!--<div class="gallery-item consulting">
-                                    <div class="project-gallery">
-                                        <div class="project-thumb">
-                                            <img class="img-fullwidth" alt="" src="images/works/w8.png">
-                                            <div class="project-caption">
-                                                <h3 class="text-white title line-bottom-theme-colored2 mt-0 mb-20">
-                                                    Business Consulting</h3>
-                                                <p class="text-white description">TFG Business Consulting</p>
-                                                <a href="#" class="text-white font-13">Read More <span
-                                                            class="fa fa-angle-right"></span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>-->
-                                <!-- Portfolio Item End -->
-
                             </div>
                             <!-- End Portfolio Gallery Grid -->
+
                         </div>
                     </div>
                 </div>
@@ -949,7 +866,7 @@
         <!-- Section: Team -->
         <section id="team" class="bg-silver-light">
             <div class="container pb-40">
-                <div class="section-title text-center">
+                <div class="section-title text-center wow fadeIn animated">
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
                             <h2 class="text-uppercase title">Meet Our<span class="text-theme-colored2"> Team</span></h2>
@@ -960,7 +877,7 @@
                 </div>
                 <div class="section-content">
                     <div class="row">
-                        <div class="col-sm-6 col-md-3">
+                        <div class="col-sm-6 col-md-3 wow slideInLeft animated">
                             <div class="single-member maxwidth400 mb-30">
                                 <div class="team-thumb">
                                     <img src="images/team/t1.png" alt="" class="img-fullwidth">
@@ -973,12 +890,11 @@
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-6 col-md-3">
+                        <div class="col-sm-6 col-md-3 wow slideInUp animated">
                             <div class="single-member maxwidth400 mb-30">
                                 <div class="team-thumb">
                                     <img src="images/team/t2.png" alt="" class="img-fullwidth">
@@ -991,12 +907,11 @@
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-6 col-md-3">
+                        <div class="col-sm-6 col-md-3 wow slideInDown animated">
                             <div class="single-member maxwidth400 mb-30">
                                 <div class="team-thumb">
                                     <img src="images/team/t3.png" alt="" class="img-fullwidth">
@@ -1009,12 +924,11 @@
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-6 col-md-3">
+                        <div class="col-sm-6 col-md-3 wow slideInRight animated">
                             <div class="single-member maxwidth400 mb-30">
                                 <div class="team-thumb">
                                     <img src="images/team/t4.png" alt="" class="img-fullwidth">
@@ -1027,7 +941,6 @@
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -1038,7 +951,7 @@
         </section>
 
         <!-- Divider: Funfact -->
-        <section class="layer-overlay overlay-theme-colored-9" data-bg-img="images/bg/1.png">
+        <section class="layer-overlay overlay-theme-colored-9 wow fadeIn animated" data-bg-img="images/bg/1.png">
             <div class="container pt-40 pb-sm-30">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center">
@@ -1255,9 +1168,7 @@
                     <div class="col-md-7">
                         <h4 class="mt-0 mb-30 line-bottom-theme-colored-2">Interested in discussing?</h4>
                         <!-- Contact Form -->
-                        <form id="contact_form" name="contact_form" class=""
-                              action="http://thememascot.net/demo/personal/j/consulting-pro/v3.0/demo/includes/sendmail.php"
-                              method="post">
+                        <form id="contact_form" name="contact_form" class="" action="php/sendmail.php" method="post">
 
                             <div class="row">
                                 <div class="col-sm-6">
@@ -1292,6 +1203,7 @@
                                 <textarea id="form_message" name="form_message" class="form-control required" rows="7"
                                           placeholder="Enter Message"></textarea>
                             </div>
+
                             <div class="form-group">
                                 <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden"
                                        value=""/>
@@ -1352,7 +1264,6 @@
 <?php include "includes/footer.php" ?>
 
 <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
-</div>
 <!-- end wrapper -->
 
 <!-- Footer Scripts -->
