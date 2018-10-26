@@ -484,54 +484,7 @@
                 </div>
         </section>
 
-        <section id="aboutus" class="bg-theme-colored">
-            <div class="container">
-                <div class="container pt-50 pb-70">
-                    <div class="section-title text-center">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <h2 class="text-uppercase title text-black">About <span
-                                            class="text-theme-colored2">Us</span>
-                                </h2>
-                                <div class="diamond-line-centered-theme-colored2"></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="section-content text-center text-white">
-                        <div class="row mt-sm-30" data-margin-top="-90px">
-                            <div class="row mt-sm-30" data-margin-top="-90px">
-                                <div class="col-sm-12 col-md-12">
-                                    <p>The Future Generation is a Non-Governmental Organization founded in 2018
-                                        committed, to eradicate poverty through empowering the youth, women and
-                                        children to be self-reliance capable of building resilience of coping with
-                                        the current situation with their locality.</p>
-                                    <p>The future generation is a national Christian humanitarian organization,
-                                        dedicated to working with men, women children and youths to reach their full
-                                        potential by addressing their root causes of poverty and injustice.
-                                        We partner with communities, the Government, sponsors, donors and corporates
-                                        to realize our strategy, our goal, of building and Developing An Empowered
-                                        Generation.</p>
-                                    <p>Through our strategy, we envision children living and enjoying life in all
-                                        its fullness. Youth and women accessing opportunities stable and living just
-                                        life. To this end we work with partners to improve livelihoods and
-                                        resilience, education & child protection, health, nutrition and HIV/Aids,
-                                        humanitarian emergency affairs leadership and governance and access to
-                                        water, sanitation and hygiene (WASH) for children and their families.
-                                        Through our advocacy work, we enable the voices of youth, women and children
-                                        and their communities to reach decision-makers, who have power to change
-                                        unjust policies and practices.</p>
-                                    <p>The Future Generation has program reach in Kenya, with Area Programs – long –
-                                        term and short Term development strategic program with target group being
-                                        men, youth women and children.
-                                        The future generation serves all people regardless of religion, race,
-                                        ethnicity or gender.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+       
 
         <!-- Section: Pillars -->
         <section id="features">
