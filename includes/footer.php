@@ -31,22 +31,28 @@
                 <div class="widget dark">
                     <h4 class="widget-title text-black">Useful Links</h4>
                     <ul class="list angle-double-right list-border text-black">
-                        <li><a href="page-about-style1.html" class="text-white">About Us</a></li>
-                        <li><a href="page-services-style1.html" class="text-white">Our Service</a></li>
-                        <li><a href="page-project-style1.html" class="text-white">Reports</a></li>
-                        <li><a href="shop-category.html" class="text-white">Our Pillars</a></li>
+                        <li><a href="about.php"class="text-white">About Us</a></li>
+                        <li><a href="index.php#services" class="text-white">Our Service</a></li>
+                        <li><a href="index.php#reports" class="text-white">Reports</a></li>
+                        <li><a href="index.php#features" class="text-white">Our Pillars</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-sm-6 col-md-3">
                  <div class="widget dark text-white">
                 <div class="widget dark">
-                    <h4 class="widget-title text-black">Tweeter Feeds</h4>
+
+                    <h4 class="widget-title text-black">Updates</h4>
                     <div class="opening-hours">
-                        <h6>Loading...</h6>
-                    </div>
+                        <ul class="list-border">
+                            
+                        </ul>
+
+                    
+                    
                 </div>
             </div>
+        </div>
         </div>
             <div class="col-sm-6 col-md-3">
                 <div class="widget dark text-white">

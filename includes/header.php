@@ -103,11 +103,13 @@
                         </li>
                         <li><a href="index.php#features">Our Pillars</a>
                             <ul class="dropdown">
-                                <li><a href="index.php#features">Health</a>
-                                <li><a href="index.php#features">Environment and Livelihood</a></li>
-                                <li><a href="index.php#features">Leadership and Governance</a></li>
-                                <li><a href="index.php#features">Economic Empowerment</a></li>
-                                <li><a href="childprotection.php">Child Protection and Inclusion</a></li>
+
+                                <li><a href="#features">Health</a>
+                                <li><a href="#features">Environment and Livelihood</a></li>
+                                <li><a href="#features">Leadership and Governance</a></li>
+                                <li><a href="#features">Economic Empowerment</a></li>
+                                <li><a href="childprotection.php    ">Child Protection and Inclusion</a></li>
+
                             </ul>
                         </li>
                         <li><a href="index.php#services">Services</a></li>
@@ -130,7 +132,8 @@
                                 <li><a href="#">Voluntership</a></li>
                             </ul>
                         </li>
-                        <!--<li><a href="#">Blog</a></li>-->
+
+                        <!-- <li><a href="#">Blog</a></li> -->
                         <li><a href="index.php#contact">Contact</a></li>
                     </ul>
                 </nav>

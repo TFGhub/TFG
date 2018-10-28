@@ -924,7 +924,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
                         <div class="funfact">
                             <i class="pe-7s-notebook mb-20 text-white"></i>
-                            <h2 data-animation-duration="2000" data-value="675"
+                            <h2 data-animation-duration="2000" data-value="4"
                                 class="animate-number text-white font-42 font-weight-600 mt-0 mb-15">0</h2>
                             <h5 class="text-white text-uppercase">Years of Experience</h5>
                         </div>
@@ -940,7 +940,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
                         <div class="funfact">
                             <i class="pe-7s-study mb-20 text-white"></i>
-                            <h2 data-animation-duration="2000" data-value="1248"
+                            <h2 data-animation-duration="2000" data-value="48"
                                 class="animate-number text-white font-42 font-weight-600 mt-0 mb-15">0</h2>
                             <h5 class="text-white text-uppercase">Awards winning</h5>
                         </div>
