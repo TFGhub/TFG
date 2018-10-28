@@ -79,7 +79,7 @@
                         </div>
                         <div class="media element contact-info">
                             <div class="media-body">
-                                <a href="#" class="btn btn-theme-colored" role="button">Press Center</a>
+                                <a href="#blog" class="btn btn-theme-colored" role="button">Press Center</a>
                             </div>
                         </div>
                         <div class="media element contact-info">

@@ -52,6 +52,8 @@
     <script src="js/jquery-ui.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/wow.min.js"></script>
+    <script src="js/sendmail.js"></script>
+
     <!-- JS | jquery plugin collection for this theme -->
     <script src="js/jquery-plugin-collection.js"></script>
 
@@ -81,7 +83,7 @@
     <?php include "includes/header.php" ?>
 
     <!-- Start main-content -->
-    <secti class="main-content">
+    <section class="main-content">
 
         <!-- Section: home -->
         <section id="home">
@@ -482,9 +484,8 @@
                         </div>
                     </div>
                 </div>
-        </section>
 
-       
+        </section>
 
         <!-- Section: Pillars -->
         <section id="features">
@@ -1120,20 +1121,26 @@
                     </div>
                     <div class="col-md-7">
                         <h4 class="mt-0 mb-30 line-bottom-theme-colored-2">Interested in discussing?</h4>
+                        <div class="alert alert-success" id="success" role="alert">
+
+                        </div>
+                        <div class="alert alert-danger" id="error" role="alert">
+
+                        </div>
                         <!-- Contact Form -->
-                        <form id="contact_form" name="contact_form" class="" action="php/sendmail.php" method="post">
+                        <form id="contact_form" name="contact_form" class=""><!--action="php/sendmail.php" method="post"-->
 
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="form-group mb-30">
                                         <input id="form_name" name="form_name" class="form-control" type="text"
-                                               placeholder="Enter Name" required="">
+                                               placeholder="Enter Name">
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group mb-30">
                                         <input id="form_email" name="form_email" class="form-control required email"
-                                               type="email" placeholder="Enter Email">
+                                               type="email" placeholder="Enter Email" required>
                                     </div>
                                 </div>
                             </div>
@@ -1141,26 +1148,26 @@
                                 <div class="col-sm-6">
                                     <div class="form-group mb-30">
                                         <input id="form_subject" name="form_subject" class="form-control required"
-                                               type="text" placeholder="Enter Subject">
+                                               type="text" placeholder="Enter Subject" required>
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group mb-30">
                                         <input id="form_phone" name="form_phone" class="form-control" type="text"
-                                               placeholder="Enter Phone">
+                                               placeholder="Enter Phone" required>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="form-group mb-30">
                                 <textarea id="form_message" name="form_message" class="form-control required" rows="7"
-                                          placeholder="Enter Message"></textarea>
+                                          placeholder="Enter Message" required></textarea>
                             </div>
 
                             <div class="form-group">
                                 <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden"
                                        value=""/>
-                                <button type="submit" class="btn btn-flat btn-default bg-hover-theme-colored mr-5"
+                                <button type="submit" id="submit" class="btn btn-flat btn-default bg-hover-theme-colored mr-5"
                                         data-loading-text="Please wait...">Send your message
                                 </button>
                                 <button type="reset" class="btn btn-flat btn-theme-colored2 bg-hover-theme-colored">
@@ -1210,6 +1217,7 @@
             </div>
         </section>
 
+    </section>
 </div>
 <!-- end main-content -->
 <!-- Footer -->
@@ -1229,8 +1237,7 @@
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.actions.min.js"></script>
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.carousel.min.js"></script>
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script type="text/javascript"
-        src="js/revolution-slider/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.layeranimation.min.js"></script>
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.migration.min.js"></script>
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.navigation.min.js"></script>
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.parallax.min.js"></script>
