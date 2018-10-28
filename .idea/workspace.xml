@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df9e20d5-0f9b-4798-9062-4ea103e5ccc3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images/lipa_na_mpesa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sidian.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/donation-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/donation-form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
-    </list>
+    <list default="true" id="df9e20d5-0f9b-4798-9062-4ea103e5ccc3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,8 +44,8 @@
       <file leaf-file-name="donation-form.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/donation-form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="247" column="72" selection-start-line="247" selection-start-column="72" selection-end-line="247" selection-end-column="72" />
+            <state relative-caret-position="168">
+              <caret line="341" column="101" selection-start-line="341" selection-start-column="101" selection-end-line="341" selection-end-column="101" />
             </state>
           </provider>
         </entry>
@@ -160,7 +153,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-6" />
     <option name="y" value="1" />
     <option name="width" value="1378" />
@@ -246,15 +239,15 @@
       <workItem from="1540632983872" duration="71000" />
       <workItem from="1540633095745" duration="12983000" />
       <workItem from="1545947985219" duration="435000" />
-      <workItem from="1540718121595" duration="2570000" />
+      <workItem from="1540718121595" duration="3287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77386000" />
+    <option name="totallyTimeSpent" value="78103000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2276176" />
@@ -616,8 +609,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/donation-form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="247" column="72" selection-start-line="247" selection-start-column="72" selection-end-line="247" selection-end-column="72" />
+        <state relative-caret-position="168">
+          <caret line="341" column="101" selection-start-line="341" selection-start-column="101" selection-end-line="341" selection-end-column="101" />
         </state>
       </provider>
     </entry>
