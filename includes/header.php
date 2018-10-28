@@ -98,13 +98,8 @@
                 <nav id="menuzord" class="menuzord red">
                     <ul class="menuzord-menu">
                         <li class="active"><a href="index.php">Home</a></li>
-                        <li><a href="#mission">About Us</a>
-                            <ul class="dropdown">
-                                <li><a href="#mission">Mission</a>
-                                <li><a href="#mission">Vision</a></li>
-                                <li><a href="#about">Objectives</a></li>
-                                <li><a href="#aboutus">Who we Are</a></li>
-                            </ul>
+                        <li><a href="about.php">About Us</a>
+                            
                         </li>
                         <li><a href="#features">Our Pillars</a>
                             <ul class="dropdown">
@@ -112,7 +107,7 @@
                                 <li><a href="#features">Environment and Livelihood</a></li>
                                 <li><a href="#features">Leadership and Governance</a></li>
                                 <li><a href="#features">Economic Empowerment</a></li>
-                                <li><a href="#features">Child Protection and Inclusion</a></li>
+                                <li><a href="childprotection.php">Child Protection and Inclusion</a></li>
                             </ul>
                         </li>
                         <li><a href="#services">Services</a></li>

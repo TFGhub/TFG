@@ -122,7 +122,7 @@
                                      style="z-index: 5;background-color:rgba(0, 0, 0, 0.35);border-color:rgba(0, 0, 0, 1.00);">
                                 </div>
                                 <!-- LAYER NR. 2 -->
-                                <div class="tp-caption tp-resizeme rs-parallaxlevel-0 text-white text-uppercase font-roboto-slab font-weight-700"
+                                <div class="tp-caption tp-resizeme rs-parallaxlevel-0 text-theme-colored text-uppercase font-roboto-slab font-weight-700"
                                      id="slide-1-layer-2"
                                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                                      data-y="['top','top','top','top']" data-voffset="['195','195','160','170']"
@@ -150,9 +150,7 @@
                                      data-height="none"
                                      data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
                                      data-responsive_offset="on"
-                                     style="z-index: 5; white-space: nowrap;">We provides you our best business solution
-                                    and professional services for our clients <br> and always try to achieve our clients
-                                    trust and satisfaction
+                                     style="z-index: 5; white-space: nowrap;">  To ensure disadvantaged youth and women acquire   <br> life skills, relevant market skills, savings education and small business development.
                                 </div>
                                 <!-- LAYER NR. 4 -->
                                 <div class="tp-caption rs-parallaxlevel-0"
@@ -198,7 +196,7 @@
                                      style="z-index: 5;background-color:rgba(0, 0, 0, 0.35);border-color:rgba(0, 0, 0, 1.00);">
                                 </div>
                                 <!-- LAYER NR. 2 -->
-                                <div class="tp-caption tp-resizeme rs-parallaxlevel-0 text-white text-uppercase font-roboto-slab font-weight-700"
+                                <div class="tp-caption tp-resizeme rs-parallaxlevel-0 text-theme-colored text-uppercase font-roboto-slab font-weight-700"
                                      id="slide-2-layer-2"
                                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                                      data-y="['top','top','top','top']" data-voffset="['195','195','160','170']"
@@ -273,7 +271,7 @@
                                      style="z-index: 5;background-color:rgba(0, 0, 0, 0.35);border-color:rgba(0, 0, 0, 1.00);">
                                 </div>
                                 <!-- LAYER NR. 2 -->
-                                <div class="tp-caption tp-resizeme rs-parallaxlevel-0 text-white text-uppercase font-roboto-slab font-weight-700"
+                                <div class="tp-caption tp-resizeme rs-parallaxlevel-0 text-theme-colored text-uppercase font-roboto-slab font-weight-700"
                                      id="slide-3-layer-2"
                                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                                      data-y="['top','top','top','top']" data-voffset="['195','195','160','170']"
@@ -286,7 +284,7 @@
                                      data-whitespace="normal"
                                      data-frames='[{"from":"y:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1000,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
                                      data-responsive_offset="on"
-                                     style="z-index: 5; white-space: nowrap;">Get Best Business Solution
+                                     style="z-index: 5; white-space: nowrap;">Community Empowerment
                                 </div>
                                 <!-- LAYER NR. 3 -->
                                 <div class="tp-caption tp-resizeme text-center text-white rs-parallaxlevel-0"
