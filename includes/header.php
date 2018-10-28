@@ -107,12 +107,12 @@
                                 <li><a href="#features">Environment and Livelihood</a></li>
                                 <li><a href="#features">Leadership and Governance</a></li>
                                 <li><a href="#features">Economic Empowerment</a></li>
-                                <li><a href="childprotection.php">Child Protection and Inclusion</a></li>
+                                <li><a href="childprotection.php    ">Child Protection and Inclusion</a></li>
                             </ul>
                         </li>
-                        <li><a href="#services">Services</a></li>
-                        <li><a href="#map">Where we work</a></li>
-                        <li><a href="#reports">Reports</a></li>
+                        <li><a href="index.php#services">Services</a></li>
+                        <li><a href="index.php#map">Where we work</a></li>
+                        <li><a href="index.php#reports">Reports</a></li>
                     </ul>
                     <ul class="menuzord-menu pull-right sm-pull-none mb-sm-15">
                         <li><a href="#">Take Action</a>
@@ -131,7 +131,7 @@
                             </ul>
                         </li>
                         <li><a href="#">Blog</a></li>
-                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="index.php#contact">Contact</a></li>
                     </ul>
                 </nav>
             </div>
