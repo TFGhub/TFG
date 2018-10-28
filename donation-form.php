@@ -82,10 +82,10 @@
     <div class="main-content">
 
         <!-- Section: inner-header -->
-        <section class="inner-header divider parallax layer-overlay overlay-white-8">
+        <!--<section class="inner-header divider parallax layer-overlay overlay-white-8">
             <div class="container pt-20">
                 <!-- Section Content -->
-                <div class="section-content">
+                <!--<div class="section-content">
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <h3 class="title">Donate</h3>
@@ -93,15 +93,33 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
 
-        <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg1.jpg">
+        <section class="mt-50 inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg1.jpg">
             <div class="container pt-10 pb-10">
                 <!-- Section Content -->
                 <div class="section-content">
+                    <h5 class="title text-center">MPESA & Bank</h5>
                     <div class="row">
-                        <div class="col-md-12 text-center">
-                            <h5 class="title">MPESA & Bank</h5>
+                        <div class="col-md-6 text-center">
+
+                            <ul class="list-border">
+                                <li class="clearfix"><span> <img src="images/lipa_na_mpesa.png" width="150" height="50"
+                                                                 alt="Lipa na MPESA"></span>
+                                </li>
+                                <li class="clearfix"><span> PAY BILL: <b>128437</b> </span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <ul class="list-border">
+                                <li class="clearfix"><span><img src="images/sidian.png" width="150" height="50"
+                                                                alt="SIDIAN BABK"></span>
+                                </li>
+                                <li class="clearfix"><span> Branch: <b>TWO RIVERS</b> </span></li>
+                                <li class="clearfix"><span> A/C Name: <b>The future Generation</b> </span></li>
+                                <li class="clearfix"><span> A/c Number: <b>01053040000016</b></span></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -201,10 +219,13 @@
                                     <div class="form-group mb-20">
                                         <label><strong>Donation Type</strong></label>
                                         <div class="radio mt-5">
-                                            <label class="radio-inline"><input type="radio" value="D" name="t3">Daily</label>
-                                            <label class="radio-inline"><input type="radio" value="W" name="t3">Weekly</label>
+                                            <label class="radio-inline"><input type="radio" value="D"
+                                                                               name="t3">Daily</label>
+                                            <label class="radio-inline"><input type="radio" value="W"
+                                                                               name="t3">Weekly</label>
                                             <label class="radio-inline"><input type="radio" value="M" name="t3">Monthly</label>
-                                            <label class="radio-inline"><input type="radio" value="Y" name="t3">Yearly</label>
+                                            <label class="radio-inline"><input type="radio" value="Y"
+                                                                               name="t3">Yearly</label>
                                         </div>
                                     </div>
                                 </div>
@@ -218,12 +239,15 @@
                                         <input type="hidden" name="no_note" value="1">
                                         <input type="hidden" name="lc" value="US">
                                         <input type="hidden" name="bn" value="PP-DonationsBF">
-                                        <input type="hidden" name="return" value="http://www.the-futuregeneration.org/thankyou.html">
-                                        <input type="hidden" name="cancel_return" value="www.the-futuregeneration.org/paymentcancel.html">
-                                        <input type="hidden" name="notify_url" value="http://www.the-futuregeneration.org/notifypayment.php">
-                                        <input type="image" src="www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif"
+                                        <input type="hidden" name="return"
+                                               value="http://www.the-futuregeneration.org/thankyou.html">
+                                        <input type="hidden" name="cancel_return"
+                                               value="www.the-futuregeneration.org/paymentcancel.html">
+                                        <input type="hidden" name="notify_url"
+                                               value="http://www.the-futuregeneration.org/notifypayment.php">
+                                        <input type="image" target="_blank" src="www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif"
                                                name="submit" alt="PayPal - The safer, easier way to pay online!">
-                                        <img alt="" src="www.paypal.com/en_US/i/scr/pixel.gif"
+                                        <img alt=""  src="www.paypal.com/en_US/i/scr/pixel.gif"
                                              width="1" height="1">
                                     </div>
                                 </div>
@@ -315,7 +339,7 @@
                                 </div>
                             </div>
                             <input type="hidden" name="cmd" value="_donations">
-                            <input type="hidden" name="business" value="accounts@thememascot.com">
+                            <input type="hidden" name="business" value="info@the-futuregeneration.org">
                             <input type="hidden" name="no_shipping" value="1">
                             <input type="hidden" name="cn" value="Comments...">
                             <input type="hidden" name="currency_code" value="USD">
