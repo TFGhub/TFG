@@ -41,24 +41,9 @@
             <div class="col-sm-6 col-md-3">
                  <div class="widget dark text-white">
                 <div class="widget dark">
-                    <h4 class="widget-title text-black">Account Numbers</h4>
+                    <h4 class="widget-title text-black">Tweeter Feeds</h4>
                     <div class="opening-hours">
-                        <ul class="list-border">
-                            <li class="clearfix"><span> LIPA NA MPESA  :  </span>
-                                <div class="value pull-right"> PAY BILL 
-                                                                    128437 </div>
-                            </li>
-                            <li class="clearfix"><span>SIDIAN BANK 
-                                 :</span>
-                                <div class="value pull-right"> Branch TWO RIVERS </div>
-                            </li>
-                            <li class="clearfix"><span> A/C Name:  </span>
-                                <div class="value pull-right">The future Generation</div>
-                            </li>
-                            <li class="clearfix"><span> A/c Number: </span>
-                                <div class="value pull-right">  01053040000016</div>
-                            </li>
-                        </ul>
+                        <h6>Loading...</h6>
                     </div>
                 </div>
             </div>

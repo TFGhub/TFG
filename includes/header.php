@@ -79,7 +79,7 @@
                         </div>
                         <div class="media element contact-info">
                             <div class="media-body">
-                                <a href="#blog" class="btn btn-theme-colored" role="button">Press Center</a>
+                                <a href="index.php#blog" class="btn btn-theme-colored" role="button">Press Center</a>
                             </div>
                         </div>
                         <div class="media element contact-info">
@@ -101,25 +101,25 @@
                         <li><a href="about.php">About Us</a>
                             
                         </li>
-                        <li><a href="#features">Our Pillars</a>
+                        <li><a href="index.php#features">Our Pillars</a>
                             <ul class="dropdown">
-                                <li><a href="#features">Health</a>
-                                <li><a href="#features">Environment and Livelihood</a></li>
-                                <li><a href="#features">Leadership and Governance</a></li>
-                                <li><a href="#features">Economic Empowerment</a></li>
+                                <li><a href="index.php#features">Health</a>
+                                <li><a href="index.php#features">Environment and Livelihood</a></li>
+                                <li><a href="index.php#features">Leadership and Governance</a></li>
+                                <li><a href="index.php#features">Economic Empowerment</a></li>
                                 <li><a href="childprotection.php">Child Protection and Inclusion</a></li>
                             </ul>
                         </li>
-                        <li><a href="#services">Services</a></li>
-                        <li><a href="#map">Where we work</a></li>
-                        <li><a href="#reports">Reports</a></li>
+                        <li><a href="index.php#services">Services</a></li>
+                        <li><a href="index.php#map">Where we work</a></li>
+                        <li><a href="index.php#reports">Reports</a></li>
                     </ul>
                     <ul class="menuzord-menu pull-right sm-pull-none mb-sm-15">
                         <li><a href="#">Take Action</a>
                             <ul class="dropdown">
                                 <li><a href="#">Become A Donor</a>
                                 <li><a href="#">Get Involved</a></li>
-                                <li><a href="#">Speakout</a></li>
+                                <li><a href="#">Speak out</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Career</a>
@@ -130,8 +130,8 @@
                                 <li><a href="#">Voluntership</a></li>
                             </ul>
                         </li>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#contact">Contact</a></li>
+                        <!--<li><a href="#">Blog</a></li>-->
+                        <li><a href="index.php#contact">Contact</a></li>
                     </ul>
                 </nav>
             </div>
