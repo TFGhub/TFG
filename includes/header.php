@@ -109,7 +109,7 @@
 
                                 <li><a href="#features">Health</a>
                                 <li><a href="#features">Environment and Livelihood</a></li>
-                                <li><a href="#features">Leadership and Governance</a></li>
+                                <li><a href="Leadership.php">Leadership and Governance</a></li>
                                 <li><a href="#features">Economic Empowerment</a></li>
                                 <li><a href="childprotection.php    ">Child Protection and Inclusion</a></li>
 

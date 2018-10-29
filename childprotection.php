@@ -82,21 +82,9 @@
     <div class="main-content">
 
         <!-- Section: inner-header -->
-        <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/tfg3.png">
-            <div class="container pt-60 pb-60">
-                <!-- Section Content -->
-                <div class="section-content">
-                    <div class="row">
-                        <div class="col-md-12 text-center">
-                            <h3 class="title">Child protection and Inclusion</h3>
-                            <ol class="breadcrumb text-center text-black mt-10">
-                                <li><a href="index.php">Home</a></li>
-                                
-                                <li class="active text-theme-colored">CHild protection</li>
-                            </ol>
-                        </div>
-                    </div>
-                </div>
+        <section class="inner-header divider parallax " data-bg-img="images/bg/child.jpg">
+            
+            <div style="height: 400px; background-color: rgba(255,0,0,0.1);">
             </div>
         </section>
  <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg4.jpg">
