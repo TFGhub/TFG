@@ -83,68 +83,40 @@
 
         <!-- Section: inner-header -->
         <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg4.jpg">
-                  
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-11 col-xs-offset-1 border-4px p-20">
-                        <h4>ABOUT US</h4>
-<p>The future generation is a national Christian humanitarian organization, dedicated to working with men, women children and youths to reach their full potential by addressing their root causes of poverty and injustice. 
-We partner with communities, the Government, sponsors, donors and corporates to realize our strategy, our goal, of building and Developing An Empowered Generation 
-Through our strategy, we envision children living and enjoying life in all its fullness. Youth and women accessing opportunities stable and living just life. To this end we work with partners to improve livelihoods and resilience, education & child protection, health, nutrition and HIV/Aids, humanitarian emergency affairs  leadership and governance and access to water, sanitation and hygiene (WASH) for children and their families. 
-Through our advocacy work, we enable the voices of youth, women and children and their communities to reach decision-makers, who have power to change unjust policies and practices. 
 
-The Future Generation has program reach in Kenya, with Area Programs – long – term and short Term development strategic program with target group being men, youth women and children.
-The future generation serves all people regardless of religion, race, ethnicity or gender.</p>
-<hr>
-                        <h4 class="mt-0 pt-9">WHO WE ARE  </h4>
-                        <p>he Future Generation is a non-governmental organization founded in 2018 committed, to eradicate poverty through empowering the youth, women and children to be self-reliance capable of building resilience of coping with the current situation within their locality. </p>
-                        <hr>
+            <section>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-11 col-xs-offset-1 border-4px p-20">
+                            <h4 class="pt-50 pb-10" id="take_action">TAKE ACTION</h4>
+                            <p>TFG has led the fight for children’s right. Join us to make a direct impact in the lives
+                                of the world’s most vulnerable children
+                                TFG has led the fight for children’s rights. Join us to make a direct impact in the
+                                lives of the world’s most vulnerable children.</p>
+                            <hr>
+                            <h5 class="pt-50 pb-10" id="become_donor">Become a donor </h5>
+                            <p>Every child deserves a fair chance in life .your donation helps TFG make a difference for
+                                children around the world </p>
+                            <hr>
 
-                       
-<hr>
-            <h4>VISION</h4>
-            <p>Empowered communities capable of uplifting their living standards holistically through the transforming. </p>
+                            <h5 class="pt-50 pb-10" id="get_involved">Get Involved</h5>
+                            <h6>Volunteer with us</h6>
+                            <p>People all over volunteer with TFG to help us reach the women, children and youth/young
+                                people in greatest need. Join us, and you can help change the world of children lets
+                                secure the future. </p>
+                            <hr>
+                            <h5 class="pt-50 pb-10" id="speak_out">Speak Out</h5>
+                            <p>Your voice, join with us can make a difference. Find a story on TFG website, Facebook,
+                                Instagram YouTube or twitter channels and share with your friends and networks.</p>
 
-           <hr>
-        <h4>MISSION</h4>
+                            <hr>
 
-<p>Empowering the society by impacting to them social, economic skill  and commitment in holistic and sustainable development among the poor and marginalized communities through advocacy, capacity building and promoting physical, social, economic, and Spiritual well-being.
-</p>
-<hr>
-<h4 class="mt-0 pt-9"> OBJECTIVE</h4>
-                       <ul class="list-icon theme-colored">
-  
-          <li><i class="fa fa-arrow-right"></i> To ensure disadvantaged youth and women acquire life skills, relevant market skills, savings education and small business development. </li>
-          <li><i class="fa fa-arrow-right"></i>To ensure that women are empowered to achieve their life goals and have stable sustainable life through skilled training.</li>
-          
-
-                   
-</ul>
-<hr>
-<h4 class="mt-0 pt-9"> CORE VALUE </h4>
-                       <ul class="list-icon theme-colored">
-  
-          <li><i class="fa fa-arrow-right"></i> Integrity </li>
-          <li><i class="fa fa-arrow-right"></i> Honesty  </li>
-          <li><i class="fa fa-arrow-right"></i> Accountability  </li>
-          <li><i class="fa fa-arrow-right"></i> Compassion </li>
-          <li><i class="fa fa-arrow-right"></i> Innovation </li>
-          <li><i class="fa fa-arrow-right"></i> Sustainability </li>
-          
-          
-
-                   
-</ul>
-<hr>
-
+                        </div>
 
                     </div>
-                   
                 </div>
-            </div>
+            </section>
         </section>
-    </section>
     </div>
     <!-- end main-content -->
 
@@ -161,4 +133,4 @@ The future generation serves all people regardless of religion, race, ethnicity 
 
 </body>
 
-</html> 
+</html>
