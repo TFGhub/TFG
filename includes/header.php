@@ -99,7 +99,7 @@
                     <ul class="menuzord-menu">
                         <li class="active"><a href="index.php">Home</a></li>
                         <li><a href="about.php">About Us</a>
-                            
+
                         </li>
                         <li><a href="index.php#features">Our Pillars</a>
                             <ul class="dropdown">
@@ -117,15 +117,15 @@
                         <li><a href="index.php#reports">Reports</a></li>
                     </ul>
                     <ul class="menuzord-menu pull-right sm-pull-none mb-sm-15">
-                        <li><a href="#">Take Action</a>
+                        <li><a href="take_action.php#take_action">Take Action</a>
                             <ul class="dropdown">
-                                <li><a href="#">Become A Donor</a>
-                                <li><a href="#">Get Involved</a></li>
-                                <li><a href="#">Speak out</a></li>
+                                <li><a href="take_action.php#become_donor">Become A Donor</a>
+                                <li><a href="take_action.php#get_involved">Get Involved</a></li>
+                                <li><a href="take_action.php#speak_out">Speak out</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Career</a>
-                                <ul class="dropdown">
+                            <ul class="dropdown">
                                 <li><a href="#">Job Opportunities</a>
                                 <li><a href="#">Internships</a></li>
                                 <li><a href="#">Training</a></li>

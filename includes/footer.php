@@ -8,11 +8,11 @@
                         <li class="m-0 pl-10 pr-10"><i class="fa fa-phone text-theme-colored2 mr-5"></i>
                             <a class="text-white" href="#">0700816885</a>
                         </li>
-                         <li class="m-0 pl-10 pr-10"><i class="fa fa-phone text-theme-colored2 mr-5"></i>
+                        <li class="m-0 pl-10 pr-10"><i class="fa fa-phone text-theme-colored2 mr-5"></i>
                             <a class="text-white" href="#">0797530300</a>
                         </li>
 
-                            <li class="m-0 pl-10 pr-10"><i class="fa fa-map-marker text-theme-colored2 mr-5"></i>
+                        <li class="m-0 pl-10 pr-10"><i class="fa fa-map-marker text-theme-colored2 mr-5"></i>
                             <a class="text-white" href="#"> P.O Box 1218-00600 Nairobi, Kenya.
 
                             </a>
@@ -31,7 +31,7 @@
                 <div class="widget dark">
                     <h4 class="widget-title text-black">Useful Links</h4>
                     <ul class="list angle-double-right list-border text-black">
-                        <li><a href="about.php"class="text-white">About Us</a></li>
+                        <li><a href="about.php" class="text-white">About Us</a></li>
                         <li><a href="index.php#services" class="text-white">Our Service</a></li>
                         <li><a href="index.php#reports" class="text-white">Reports</a></li>
                         <li><a href="index.php#features" class="text-white">Our Pillars</a></li>
@@ -39,21 +39,18 @@
                 </div>
             </div>
             <div class="col-sm-6 col-md-3">
-                 <div class="widget dark text-white">
-                <div class="widget dark">
+                <div class="widget dark text-white">
+                    <div class="widget dark">
 
-                    <h4 class="widget-title text-black">Updates</h4>
-                    <div class="opening-hours">
-                        <ul class="list-border">
-                            
-                        </ul>
+                        <h4 class="widget-title text-black">Updates</h4>
+                        <div class="opening-hours">
+                            <ul class="list-border">
 
-                    
-                    
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-        </div>
             <div class="col-sm-6 col-md-3">
                 <div class="widget dark text-white">
                     <h4 class="widget-title line-bottom-theme-colored-2 text-black">Opening Hours</h4>
@@ -76,6 +73,8 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="container">
         <div class="row mt-10">
             <div class="col-md-2">
                 <div class="widget dark">
@@ -87,7 +86,8 @@
                 <div class="widget dark">
                     <h5 class="widget-title mb-10">Connect With Us</h5>
                     <ul class="styled-icons icon-md m-4">
-                        <li><a href="https://www.facebook.com/The-Future-Generation-2202185196721754/" target="_blank"><img src="images/social_media/facebook.png" alt=""></a></li>
+                        <li><a href="https://www.facebook.com/The-Future-Generation-2202185196721754/"
+                               target="_blank"><img src="images/social_media/facebook.png" alt=""></a></li>
                         <li><a href="#"><img src="images/social_media/twitter.png" alt=""></a></li>
                         <li><a href="#"><img src="images/social_media/instagram.png" alt=""></a></li>
                         <li><a href="#"><img src="images/social_media/youtube.png" alt=""></i></a></li>

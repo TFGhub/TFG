@@ -18,15 +18,29 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) &&
                 if (!empty($subject)) {
                     if (!empty($message)) {
 
-                        //send data to database
-                        $query = mysqli_query($conn, "INSERT INTO `customers` (`name`, `email`, `phone`, `subject`, `message`) VALUES ('$name', '$email', '$phone', '$subject', '$message')");
+                        //send to mail
+                        $to = 'fwatilah@gmail.com';
+                        $sub = $subject;
+                        $mes = $message;
+                        $headers = "From: " . $name . " <" . $email . ">\r\n";
+                        /*$headers = "Reply-To: " . $email . "\r\n";
+                        $headers = "Content-type: text/html; charset=iso-8859-1\r\n";*/
+                        'X-Mailer: PHP/' . phpversion();
 
-                        if ($query == true) {
+                        //echo json_encode("Thank you " . $name . " for contacting us. We'll respond as soon as possible.");
 
-                            //send to mail
-                            
+                        if (mail($to, $subject, $message, $headers)) {
 
-                            echo json_encode("Thank you " . $name . " for contacting us. We'll respond as soon as possible.");
+                            //send data to database
+                            $query = mysqli_query($conn, "INSERT INTO `customers` (`name`, `email`, `phone`, `subject`, `message`) VALUES ('$name', '$email', '$phone', '$subject', '$message')");
+
+                            if ($query == true) {
+                                echo json_encode("Thank you " . $name . " for contacting us. We'll respond as soon as possible.");
+                            } else {
+                                $error = mysqli_error($conn);
+                                echo json_encode($error);
+                            }
+
                         } else {
                             $error = mysqli_error($conn);
                             echo json_encode($error);
