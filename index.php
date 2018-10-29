@@ -843,34 +843,42 @@
                 <div class="row mt-30 text-center">
                     <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
                         <div class="funfact">
-                            <i class="pe-7s-smile mb-20 text-white"></i>
+                            <!--<i class="pe-7s-smile mb-20 text-white"></i>-->
+                            <img src="images/economic.png" width="150px" height="150px" alt="Economic Empowerment"
+                                 class="img-thumbnail mb-20">
                             <h2 data-animation-duration="2000" data-value="754"
                                 class="animate-number text-white font-42 font-weight-600 mt-0 mb-15">0</h2>
-                            <h5 class="text-white text-uppercase">Happy Clients</h5>
+                            <h5 class="text-white text-uppercase">Economic Empowerment</h5>
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
                         <div class="funfact">
-                            <i class="pe-7s-notebook mb-20 text-white"></i>
-                            <h2 data-animation-duration="2000" data-value="4"
+                            <!--<i class="pe-7s-notebook mb-20 text-white"></i>-->
+                            <img src="images/health.png" width="150px" height="150px" alt="Health"
+                                 class="img-thumbnail mb-20">
+                            <h2 data-animation-duration="2000" data-value="61"
                                 class="animate-number text-white font-42 font-weight-600 mt-0 mb-15">0</h2>
-                            <h5 class="text-white text-uppercase">Years of Experience</h5>
+                            <h5 class="text-white text-uppercase">Health</h5>
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
                         <div class="funfact">
-                            <i class="pe-7s-users mb-20 text-white"></i>
-                            <h2 data-animation-duration="2000" data-value="675"
+                            <!--<i class="fa fa-user mb-20 text-white"></i>-->
+                            <img src="images/icon-leadership.png" width="150px" height="150px" alt="Leadership"
+                                 class="img-thumbnail mb-20">
+                            <h2 data-animation-duration="2000" data-value="51"
                                 class="animate-number text-white font-42 font-weight-600 mt-0 mb-15">0</h2>
-                            <h5 class="text-white text-uppercase">Cases completed</h5>
+                            <h5 class="text-white text-uppercase">Leadership and Governance</h5>
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
                         <div class="funfact">
-                            <i class="pe-7s-study mb-20 text-white"></i>
+                            <!--<i class="fa fa-4x fa-wheelchair mb-20 text-white"></i>-->
+                            <img src="images/wheelchair.png" width="150px" height="150px" alt="Wheelchair"
+                                 class="img-thumbnail mb-20">
                             <h2 data-animation-duration="2000" data-value="48"
                                 class="animate-number text-white font-42 font-weight-600 mt-0 mb-15">0</h2>
-                            <h5 class="text-white text-uppercase">Awards winning</h5>
+                            <h5 class="text-white text-uppercase">Wheelchairs</h5>
                         </div>
                     </div>
                 </div>
