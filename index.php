@@ -150,7 +150,9 @@
                                      data-height="none"
                                      data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
                                      data-responsive_offset="on"
-                                     style="z-index: 5; white-space: nowrap;">  To ensure disadvantaged youth and women acquire   <br> life skills, relevant market skills, savings education and small business development.
+                                     style="z-index: 5; white-space: nowrap;"> To ensure disadvantaged youth and women
+                                    acquire <br> life skills, relevant market skills, savings education and small
+                                    business development.
                                 </div>
                                 <!-- LAYER NR. 4 -->
                                 <div class="tp-caption rs-parallaxlevel-0"
@@ -544,81 +546,6 @@
             </div>
         </section>
 
-        <!-- Section: Services -->
-        <section id="services" class="services layer-overlay overlay-theme-colored-9"
-                 data-bg-img="images/services/1.jpg">
-            <div class="container pb-30">
-                <div class="section-title wow fadeInLeft animated">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <h2 class="text-uppercase title text-white">Popular <span
-                                        class="text-theme-colored2">Services</span>
-                            </h2>
-                            <div class="diamond-line-left-theme-colored2"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="section-content">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInDown animated">
-                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
-                                            class="fa fa-bar-chart-o text-theme-colored2"></i></a>
-                                <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Financial Analysis</h4>
-                                    <p class="text-gray-darkgray">Our finacial anlysis</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInDown animated">
-                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
-                                            class="fa fa-area-chart text-theme-colored2"></i></a>
-                                <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Business Growth</h4>
-                                    <p class="text-gray-lightgray">TFG bussiness </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInDown animated">
-                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
-                                            class="fa fa-pie-chart text-theme-colored2"></i></a>
-                                <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Success Report</h4>
-                                    <p class="text-gray-lightgray">TFG Success Report</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInDown animated">
-                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
-                                            class="fa fa-cubes text-theme-colored2"></i></a>
-                                <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Marketing Plan</h4>
-                                    <p class="text-gray-lightgray">TFG Marketing Plan </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInDown animated">
-                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
-                                            class="fa fa-globe text-theme-colored2"></i></a>
-                                <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Global Business</h4>
-                                    <p class="text-gray-lightgray">TFG Global Business</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInDown animated">
-                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
-                                            class="fa fa-bug text-theme-colored2"></i></a>
-                                <div class="media-body">
-                                    <h4 class="media-heading heading text-white">Risk Management</h4>
-                                    <p class="text-gray-lightgray">TFG Risk Management</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
         <!-- Section: Reports -->
         <section id="reports" class="services">
             <div class="container pb-30">
@@ -903,11 +830,12 @@
         </section>
 
         <!-- Divider: Funfact -->
-        <section class="layer-overlay overlay-theme-colored-9 wow fadeIn animated" data-bg-img="images/bg/1.png">
+        <section id="achievements" class="layer-overlay overlay-theme-colored-9 wow fadeIn animated"
+                 data-bg-img="images/bg/1.png">
             <div class="container pt-40 pb-sm-30">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <h2 class="text-white">See Our Awesome Funfacts</h2>
+                        <h2 class="text-white">See Our Awesome Achievements</h2>
                         <div class="diamond-line-centered-theme-colored2"></div>
                         <p class="font-16 text-white mt-0 mb-30">TFG Awesome Funfacts</p>
                     </div>
@@ -1126,7 +1054,8 @@
 
                         </div>
                         <!-- Contact Form -->
-                        <form id="contact_form" name="contact_form" class=""><!--action="php/sendmail.php" method="post"-->
+                        <form id="contact_form" name="contact_form" class="">
+                            <!--action="php/sendmail.php" method="post"-->
 
                             <div class="row">
                                 <div class="col-sm-6">
@@ -1165,7 +1094,8 @@
                             <div class="form-group">
                                 <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden"
                                        value=""/>
-                                <button type="submit" id="submit" class="btn btn-flat btn-default bg-hover-theme-colored mr-5"
+                                <button type="submit" id="submit"
+                                        class="btn btn-flat btn-default bg-hover-theme-colored mr-5"
                                         data-loading-text="Please wait...">Send your message
                                 </button>
                                 <button type="reset" class="btn btn-flat btn-theme-colored2 bg-hover-theme-colored">
@@ -1235,7 +1165,8 @@
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.actions.min.js"></script>
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.carousel.min.js"></script>
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script type="text/javascript"
+        src="js/revolution-slider/js/extensions/revolution.extension.layeranimation.min.js"></script>
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.migration.min.js"></script>
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.navigation.min.js"></script>
 <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.parallax.min.js"></script>
