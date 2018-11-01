@@ -83,40 +83,67 @@
 
         <!-- Section: inner-header -->
         <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg4.jpg">
+                  
+        <section>
+            <div class="container">
+               
+                    
+                         <div class="col-sm-12 col-md-12 wow bounceInLeft animated">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                
+                                <h4 class="text-uppercase font-weight-600 mt-0">TAKE ACTION</h4>
 
-            <section>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-11 col-xs-offset-1 border-4px p-20">
-                            <h4 class="pt-50 pb-10" id="take_action">TAKE ACTION</h4>
-                            <p>TFG has led the fight for children’s right. Join us to make a direct impact in the lives
-                                of the world’s most vulnerable children
-                                TFG has led the fight for children’s rights. Join us to make a direct impact in the
-                                lives of the world’s most vulnerable children.</p>
-                            <hr>
-                            <h5 class="pt-50 pb-10" id="become_donor">Become a donor </h5>
-                            <p>Every child deserves a fair chance in life .your donation helps TFG make a difference for
-                                children around the world </p>
-                            <hr>
+ <p>TFG has led the fight for children’s right. Join us to make a direct impact in the lives of the world’s most vulnerable children 
+TFG has led the fight for children’s rights. Join us to make a direct impact in the lives of the world’s most vulnerable children. </p>
+                                                              
+                            </div>
+                        </div>
+<hr>
+                        <div class="col-sm-12 col-md-12 wow slideInRight animated">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                
+                                <h4 class="text-uppercase font-weight-600 mt-0"><a href="donation-form.php">Become a donor</a> </h4>
 
-                            <h5 class="pt-50 pb-10" id="get_involved">Get Involved</h5>
-                            <h6>Volunteer with us</h6>
-                            <p>People all over volunteer with TFG to help us reach the women, children and youth/young
-                                people in greatest need. Join us, and you can help change the world of children lets
-                                secure the future. </p>
-                            <hr>
-                            <h5 class="pt-50 pb-10" id="speak_out">Speak Out</h5>
-                            <p>Your voice, join with us can make a difference. Find a story on TFG website, Facebook,
-                                Instagram YouTube or twitter channels and share with your friends and networks.</p>
+ <p>Every child deserves a fair chance in life .your donation helps TFG make a difference for children around the world. </p>
 
-                            <hr>
-
+                                
+                                
+                            </div>
                         </div>
 
-                    </div>
-                </div>
-            </section>
+                       
+<hr>
+            <div class="col-sm-12 col-md-12 wow bounceInUp animated">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                
+                                <h4 class="text-uppercase font-weight-600 mt-0">Volunteer with us </h4>
+
+ <p>People all over volunteer with TFG to help us reach the women, children and youth/young people in greatest need. Join us, and you can help change the world of children lets secure the future.  </p>
+
+                                
+                                
+                            </div>
+                        </div>
+           <hr>
+         <div class="col-sm-12 col-md-12 wow slideInRight animated">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                
+                                <h4 class="text-uppercase font-weight-600 mt-0">SPEAK OUT </h4>
+
+ <p>Your voice, join with us can make a difference. Find a story on TFG website, Facebook, Instagram YouTube or twitter channels and share with your friends and networks. </p>
+
+                                
+                                
+                            </div>
+                        </div>
+<hr>
+
+ 
+                   
+                
+            </div>
         </section>
+    </section>
     </div>
     <!-- end main-content -->
 
@@ -133,4 +160,4 @@
 
 </body>
 
-</html>
+</html> 

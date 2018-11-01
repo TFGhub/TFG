@@ -82,31 +82,48 @@
     <div class="main-content">
 
         <!-- Section: inner-header -->
-        <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg4.jpg">
-                  
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-11 col-xs-offset-1 border-4px p-20">
-                        <h4>Leadership and Governance </h4>
-<p>This program is primarily concerned with strengthening meaningful participation of youth and women leaders in decision making spaces at National and County levels . The program focuses on.</p>
+        <section class="inner-header divider parallax " data-bg-img="images/bg/leadership.jpg">
+            
+            <div style="height: 300px; background-color: rgba(255,0,0,0.1);">
+            </div>
+            <div class="col-sm-12 col-md-12 wow rollIn animated">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                
+                                <h4 class="text-uppercase font-weight-600 mt-0">Leadership and Governance</h4>
+
+ <p>This program is primarily concerned with strengthening meaningful participation of youth and women leaders in decision making spaces at National and County levels . The program focuses on.</p>
 <hr>
-                        
-            <h4 class="mt-0 pt-9">The program focuses on </h4>
-                       <ul class="list-icon theme-colored">
+                                                              
+                            </div>
+                        </div>
+        </section>
+ <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg4.jpg">
+        <section>
+            <div class="container" >
+                <div class="row">
+                    
+                        <div class="col-sm-12 col-md-12 rollIn animated">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                
+                                <h4 class="text-uppercase font-weight-600 mt-0">The program focuses on</h4>
+
+ <p><ul class="list-icon theme-colored">
   
           <li><i class="fa fa-arrow-right"></i> Strengthening and expanding the pipeline of women leaders to enter political and non-political decision making spaces. </li>
           <li><i class="fa fa-arrow-right"></i>Supporting women leaders already in political and non-political decision making spaces to better articulate and champion women’s needs and priorities. Specifically in the formulation of gender responsive policies, legislation, budgets and projects.</li>
           <li><i class="fa fa-arrow-right"></i> Strengthening capacity of youth and women led groups to carry out advocacy and engage with duty bearers around issues that are priority for women.</li>
 
                    
-</ul>
-<hr>
-
-<hr>
-
-
-                    </div>
+</ul></p>
+                                                              
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        
+                        </div>
+                      
+               
                    
                 </div>
             </div>
@@ -128,4 +145,4 @@
 
 </body>
 
-</html> 
+</html>
