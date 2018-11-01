@@ -82,22 +82,41 @@
     <div class="main-content">
 
         <!-- Section: inner-header -->
-        <section class="inner-header divider parallax " data-bg-img="images/bg/child.jpg">
+        <section class="inner-header divider parallax " data-bg-img="images/bg/toto.png">
             
-            <div style="height: 400px; background-color: rgba(255,0,0,0.1);">
+            <div style="height: 300px; background-color: rgba(255,0,0,0.1);">
             </div>
+            <div class="col-sm-12 col-md-12 wow rollIn animated">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                
+                                <h4 class="text-uppercase font-weight-600 mt-0">TAKE ACTION</h4>
+
+ <p>TFG has led the fight for children’s right. Join us to make a direct impact in the lives of the world’s most vulnerable children 
+TFG has led the fight for children’s rights. Join us to make a direct impact in the lives of the world’s most vulnerable children. </p>
+                                                              
+                            </div>
+                        </div>
         </section>
  <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg4.jpg">
         <section>
             <div class="container" >
                 <div class="row">
-                    <div class="col-xs-10 col-xs-offset-2 border-4px p-20">
-                        <h4 class="mt-0 pt-9">Child protection and inclusion</h4>
-                        <p><h5>Every child has the right to grow and thrive up in a safe and inclusive environment </h5></p>
-                        <hr>
+                    
+                        <div class="col-sm-12 col-md-12 fadeInRight flip animated">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                
+                                <h4 class="text-uppercase font-weight-600 mt-0">Child protection and inclusion</h4>
 
-                       <h4 class="mt-0 pt-9"> Explore our child protection and inclusion initiatives</h4>
-                       <ul class="list-icon theme-colored">
+ <p>Every child has the right to grow and thrive up in a safe and inclusive environment.</p>
+                                                              
+                            </div>
+                        </div>
+                         <div class="col-sm-12 col-md-12 wow rollIn animated">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                
+                                <h4 class="text-uppercase font-weight-600 mt-0">Explore our child protection and inclusion initiatives </h4>
+
+ <p><ul class="list-icon theme-colored">
   
           <li><i class="fa fa-arrow-right"></i> Child protection </li>
           <li><i class="fa fa-arrow-right"></i>Social Inclusion</li>
@@ -106,12 +125,44 @@
 
           <li><i class="fa fa-arrow-right"></i>adolescent development</li> 
           
-</ul>
-            <h4>EVERY CHILD HAS THE RIGHT TO LEARN</h4>
-            <p>The future generation works to support quality learning for every girl and boy, especially those in greatest danger of vulnerability. </p>
-            <h4>Explore our education initiative</h4>
+</ul></p>
+                                                              
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="col-sm-12 col-md-12 wow rollIn animated">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                
+                                <h4 class="text-uppercase font-weight-600 mt-0">EVERY CHILD HAS THE RIGHT TO LEARN</h4>
 
-<ul class="list-icon theme-colored">
+ <p><ul class="list-icon theme-colored">
+  
+          <li><i class="fa fa-arrow-right"></i> Child protection </li>
+          <li><i class="fa fa-arrow-right"></i>Social Inclusion</li>
+          <li><i class="fa fa-arrow-right"></i>Gender Equality</li>
+          <li><i class="fa fa-arrow-right"></i>Education</li>
+
+          <li><i class="fa fa-arrow-right"></i>adolescent development</li> 
+          
+</ul></p>
+                                                              
+                            </div>
+                        </div>
+                      <div class="col-sm-12 col-md-12 wow rollIn animated">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                
+                                <h4 class="text-uppercase font-weight-600 mt-0">EVERY CHILD HAS THE RIGHT TO LEARN</h4>
+
+ <p>The future generation works to support quality learning for every girl and boy, especially those in greatest danger of vulnerability. </p>
+                                                              
+                            </div>
+                        </div>
+            <div class="col-sm-12 col-md-12 wow rollIn animated">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                
+                                <h4 class="text-uppercase font-weight-600 mt-0">Explore our education initiative</h4>
+
+ <p><ul class="list-icon theme-colored">
   
           <li><i class="fa fa-arrow-right"></i> Child living with disability  </li>
           <li><i class="fa fa-arrow-right"></i>Early child development     </li>
@@ -120,20 +171,37 @@
 
           <li><i class="fa fa-arrow-right"></i>innovation in education </li> 
           
-</ul>
-<h4>GENDER </h4>
-<h5>Every girl has the right to fulfil her potential</h5>
+</ul></p>
+                                                              
+                            </div>
+                        </div>
+            
+<div class="col-sm-12 col-md-12 wow rollIn animated">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                
+                                <h4 class="text-uppercase font-weight-600 mt-0">GENDER</h4>
+
+ <h5>Every girl has the right to fulfil her potential</h5>
 <p>The future generation works to empower women and girls, and to ensure their full participation in political social and economic systems.
 Explore our work to advance gender equality
 </p>
-<h4>Innovation for children</h4>
-<h5>Innovation to drive results for every child</h5>
+                                                              
+                            </div>
+                        </div>
+            <div class="col-sm-12 col-md-12 wow rollIn animated">
+                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                                
+                                <h4 class="text-uppercase font-weight-600 mt-0">Innovation for children</h4>
+
+ <h5>Innovation to drive results for every child</h5>
 <p>The future generation works with partners in every sector to co-create innovative solutions that accelerate progress for children and young people.
 Explore how our innovative solution changes 
 lives 
 </p>
 
-                    </div>
+                                                              
+                            </div>
+                        </div>     
                    
                 </div>
             </div>
