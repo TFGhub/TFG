@@ -11,10 +11,10 @@
     <meta name="author" content="TheFutureGeneration"/>
 
     <!-- Page Title -->
-    <title>The Future Generation</title>
+    <title>TFG</title>
 
     <!-- Favicon and Touch Icons -->
-    <link href="images/favicon.png" rel="shortcut icon" type="image/png">
+    <link href="images/logo.jpg" rel="shortcut icon" type="image/png">
     <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
     <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
     <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
@@ -36,8 +36,6 @@
     <link href="css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
     <!-- CSS | Responsive media queries -->
     <link href="css/responsive.css" rel="stylesheet" type="text/css">
-    <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
-    <link href="css/style.css" rel="stylesheet" type="text/css">
 
     <!-- Revolution Slider 5.x CSS settings -->
     <link href="js/revolution-slider/css/settings.css" rel="stylesheet" type="text/css"/>
@@ -46,6 +44,9 @@
 
     <!-- CSS | Theme Color -->
     <link href="css/colors/theme-skin-color-set4.css" rel="stylesheet" type="text/css">
+
+    <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
+    <link href="css/style.css" rel="stylesheet" type="text/css">
 
     <!-- external javascript -->
     <script src="js/jquery-2.2.4.min.js"></script>
@@ -450,7 +451,8 @@
                                     <img src="images/flaticon/1.png" alt="">
                                 </a>
                                 <h4 class="text-uppercase font-weight-600 mt-0">Mission</h4>
-                                <p>Empowering the society by impacting to them social, economic skill and commitment in
+                                <p>Empowering the society by impacting to them social, economic skill and
+                                    commitment in
                                     holistic and sustainable development among the poor and marginalized communities
                                     through advocacy, capacity building and promoting physical, social, economic, and
                                     spiritual well-being.</p>
@@ -502,22 +504,24 @@
                 </div>
                 <div class="section-content">
                     <div class="row">
-                        <div class="col-md-6 col-md-4 wow fadeInDown animated" id="health">
-                            <div class="mb-sm-30">
+                        <div class="col-md-4 wow fadeInDown animated text-center" id="health">
+                            <div class="mb-sm-30 thumbnail">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Health</h4>
 
                             </div>
                         </div>
-                        <div class="col-md-6 col-md-4 mt-sm-30 wow fadeInDown animated" id="environment">
-                            <div class="mb-sm-30">
+                        <div class="col-md-4 mt-sm-30 wow fadeInDown animated text-center"
+                             id="environment">
+                            <div class="mb-sm-30 thumbnail">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Environment and Livelihood</h4>
 
                             </div>
                         </div>
-                        <div class="col-md-6 col-md-4 mt-sm-30 wow fadeInDown animated" id="leadership">
-                            <div class="mb-sm-30">
+                        <div class="col-md-4 mt-sm-30 wow fadeInDown animated text-center"
+                             id="leadership">
+                            <div class="mb-sm-30 thumbnail">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Leadership and Governance</h4>
 
@@ -525,22 +529,25 @@
                         </div>
                     </div>
                     <div class="section-content">
-                        <div class="col-md-6 col-md-6 mt-sm-30 wow fadeInUp animated" id="economic">
-                            <div class="mb-sm-30">
+                        <div class="col-md-4 mt-sm-30 wow fadeInUp animated text-center"
+                             id="economic">
+                            <div class="mb-sm-30 thumbnail">
                                 <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                 <h4 class="font-weight-600 mt-20">Economic Empowerment</h4>
 
                             </div>
                         </div>
                         <a href="childprotection.php">
-                            <div class="col-md-6 col-md-6 mt-sm-30 wow fadeInUp animated" id="child">
-                                <div class="mb-sm-30">
+                            <div class="col-md-4 mt-sm-30 wow fadeInUp animated text-center"
+                                 id="child">
+                                <div class="mb-sm-30 thumbnail">
                                     <img class="img-fullwidth" src="images/about/1.jpg" alt="">
                                     <h4 class="font-weight-600 mt-20">Child Protection and Inclusion</h4>
 
                                 </div>
                             </div>
                         </a>
+                        <div class="col-md-4"></div>
                     </div>
                 </div>
             </div>
@@ -637,13 +644,13 @@
                     <div class="row">
                         <div class="col-md-12">
                             <!-- Works Filter -->
-                            <div class="portfolio-filter text-center mb-40 wow fadeInDown animated">
+                            <!--<div class="portfolio-filter text-center mb-40 wow fadeInDown animated">
                                 <a href="#" class="active" data-filter="*">All</a>
                                 <a href="#consulting" class="" data-filter=".consulting">Consulting</a>
                                 <a href="#business" class="" data-filter=".business">Business</a>
                                 <a href="#finance" class="" data-filter=".finance">Finance</a>
                                 <a href="#marketing" class="" data-filter=".marketing">Marketing</a>
-                            </div>
+                            </div>-->
                             <!-- End Works Filter -->
 
                             <!-- Portfolio Gallery Grid -->
@@ -757,7 +764,7 @@
                 <div class="section-content">
                     <div class="row">
                         <div class="col-sm-6 col-md-3 wow slideInLeft animated">
-                            <div class="single-member maxwidth400 mb-30">
+                            <div class="single-member maxwidth400 mb-30 thumbnail">
                                 <div class="team-thumb">
                                     <img src="images/team/t1.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
@@ -774,7 +781,7 @@
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-3 wow slideInUp animated">
-                            <div class="single-member maxwidth400 mb-30">
+                            <div class="single-member maxwidth400 mb-30 thumbnail">
                                 <div class="team-thumb">
                                     <img src="images/team/t2.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
@@ -791,7 +798,7 @@
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-3 wow slideInDown animated">
-                            <div class="single-member maxwidth400 mb-30">
+                            <div class="single-member maxwidth400 mb-30 thumbnail">
                                 <div class="team-thumb">
                                     <img src="images/team/t3.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">
@@ -808,7 +815,7 @@
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-3 wow slideInRight animated">
-                            <div class="single-member maxwidth400 mb-30">
+                            <div class="single-member maxwidth400 mb-30 thumbnail">
                                 <div class="team-thumb">
                                     <img src="images/team/t4.png" alt="" class="img-fullwidth">
                                     <h4 class="text-uppercase font-raleway text-white font-16 line-bottom-center m-0">

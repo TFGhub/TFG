@@ -51,7 +51,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-3">
                     <a class="menuzord-brand pull-left flip sm-pull-center mb-15" href="index.php"><img
-                                src="images/tfg-logo.png" alt=""></a>
+                                src="images/logo.jpg" alt=""></a>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-9">
                     <div class="header-widget-contact-info-box sm-text-center">
@@ -74,12 +74,14 @@
                         </div>
                         <div class="media element contact-info">
                             <div class="media-body">
-                                <a href="explore.php" class="btn btn-theme-colored btn-border" role="button">Explore TFG</a>
+                                <a href="explore.php" class="btn btn-theme-colored btn-border" role="button">Explore
+                                    TFG</a>
                             </div>
                         </div>
                         <div class="media element contact-info">
                             <div class="media-body">
-                                <a href="index.php#blog" class="btn btn-theme-colored btn-border" role="button">Press Center</a>
+                                <a href="index.php#blog" class="btn btn-theme-colored btn-border" role="button">Press
+                                    Center</a>
                             </div>
                         </div>
                         <div class="media element contact-info">
@@ -92,54 +94,47 @@
             </div>
         </div>
     </div>
-    <div class="header-nav" id="header-nav">
+    <div class="header-nav theme-colored" id="header-nav">
         <div class="header-nav-wrapper navbar-scrolltofixed"
              style="-webkit-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.75); -moz-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.75); box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.75);">
             <div class="container-fluid">
                 <nav id="menuzord" class="menuzord">
                     <ul class="menuzord-menu">
-                        <li class="active"><a href="index.php"
-                                              style="font-size: 1.2em; text-shadow: 2px 1px #777;">Home</a></li>
-                        <li><a href="about.php" style="font-size: 1.2em; text-shadow: 2px 1px #777;">About Us</a>
-
-                        </li>
-                        <li><a href="index.php#features" style="font-size: 1.2em; text-shadow: 2px 1px #777;"
-                               class="t-s">Our Pillars</a>
+                        <li class="active"><a href="index.php">Home</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="index.php#features">Our Pillars</a>
                             <ul class="dropdown">
 
                                 <li><a href="#features">Health</a>
                                 <li><a href="#features">Environment and Livelihood</a></li>
-                                <li><a href="Leadership.php">Leadership and Governance</a></li>
+                                <li><a href="leadership.php">Leadership and Governance</a></li>
                                 <li><a href="#features">Economic Empowerment</a></li>
-                                <li><a href="childprotection.php    ">Child Protection and Inclusion</a></li>
+                                <li><a href="childprotection.php">Child Protection and Inclusion</a></li>
 
                             </ul>
                         </li>
-                        <li><a href="index.php#achievements" style="font-size: 1.2em; text-shadow: 2px 1px #777;">Achievements</a>
-                        </li>
-                        <li><a href="index.php#map" style="font-size: 1.2em; text-shadow: 2px 1px #777;">Where we
-                                work</a></li>
-                        <li><a href="index.php#reports" style="font-size: 1.2em; text-shadow: 2px 1px #777;">Reports</a>
-                        </li>
+                        <li><a href="index.php#achievements">Achievements</a></li>
+                        <li><a href="index.php#map">Where we work</a></li>
+                        <li><a href="index.php#reports">Reports</a></li>
+                        <li><a href="hub.php">Hub</a></li>
                     </ul>
                     <ul class="menuzord-menu pull-right sm-pull-none mb-sm-15">
-                        <li><a href="take_action.php#take_action" style="font-size: 1.2em; text-shadow: 2px 1px #777;">Take
+                        <li><a href="take_action.php#take_action">Take
                                 Action</a>
                             <ul class="dropdown">
-                  <li><a href="#">Become A Donor</a>
-                                <li><a href="#">Get Involved</a>
+                                <li><a href="#">Become A Donor</a>
+                                <li><a href="take_action.php#get_invloved">Get Involved</a>
                                     <ul class="dropdown">
-                                        <li><a href="#">Adopt a River</a></li>
-                        <li><a href="#">Adopt A Tree</a></li>
-                        <li><a href="#">Stand with an orphan child</a></li>
-
+                                        <li><a href="take_action.php#adopt_a_river">Adopt a River</a></li>
+                                        <li><a href="take_action.php#adopt_a_tree">Adopt A Tree</a></li>
+                                        <li><a href="take_action.php#orphan">Stand with an orphan child</a></li>
                                     </ul>
                                 </li>
-                               
+
                                 <li><a href="take_action.php#speak_out">Speak out</a></li>
                             </ul>
                         </li>
-                        <li><a href="#" style="font-size: 1.2em; text-shadow: 2px 1px #777;">Career</a>
+                        <li><a href="#">Career</a>
                             <ul class="dropdown">
                                 <li><a href="#">Job Opportunities</a>
                                 <li><a href="#">Internships</a></li>
@@ -147,9 +142,7 @@
                                 <li><a href="#">Volunteership</a></li>
                             </ul>
                         </li>
-
-                        <li><a href="index.php#contact" style="font-size: 1.2em; text-shadow: 2px 1px #777;">Contact</a>
-                        </li>
+                        <li><a href="index.php#contact">Contact</a></li>
                     </ul>
                 </nav>
             </div>

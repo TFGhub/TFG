@@ -11,7 +11,7 @@
     <meta name="author" content="TheFutureGeneration"/>
 
     <!-- Page Title -->
-    <title>Take Action</title>
+    <title>Hub</title>
 
     <!-- Favicon and Touch Icons -->
     <link href="images/logo.jpg" rel="shortcut icon" type="image/png">
@@ -36,8 +36,6 @@
     <link href="css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
     <!-- CSS | Responsive media queries -->
     <link href="css/responsive.css" rel="stylesheet" type="text/css">
-    <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
-    <!--<link href="css/style.css" rel="stylesheet" type="text/css">-->
 
     <!-- Revolution Slider 5.x CSS settings -->
     <link href="js/revolution-slider/css/settings.css" rel="stylesheet" type="text/css"/>
@@ -46,6 +44,9 @@
 
     <!-- CSS | Theme Color -->
     <link href="css/colors/theme-skin-color-set4.css" rel="stylesheet" type="text/css">
+
+    <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
+    <link href="css/style.css" rel="stylesheet" type="text/css">
 
     <!-- external javascripts -->
     <script src="js/jquery-2.2.4.min.js"></script>
@@ -88,69 +89,15 @@
                 <div class="container">
 
 
-                    <div class="col-sm-12 col-md-12 wow bounceInLeft animated">
+                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
                         <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
 
-                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">TAKE ACTION <i
-                                        class="fa fa-user"></i></h3>
+                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">TFG HUB</h3>
                             <div class="diamond-line-centered-theme-colored2"></div>
 
-
-                            <p>TFG has led the fight for children’s right. Join us to make a direct impact in the lives
-                                of the world’s most vulnerable children
-                                TFG has led the fight for children’s rights. Join us to make a direct impact in the
-                                lives of the world’s most vulnerable children. </p>
-
+                            <p>Coming Soon</p>
                         </div>
                     </div>
-                    <hr>
-                    <div class="col-sm-12 col-md-12 wow slideInRight animated">
-                        <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-
-                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">Become a
-                                donor <i class="fa fa-user"></i></h3>
-                            <div class="diamond-line-centered-theme-colored2"></div>
-
-                            <p>Every child deserves a fair chance in life .your donation helps TFG make a difference for
-                                children around the world. </p>
-
-
-                        </div>
-                    </div>
-
-
-                    <hr>
-                    <div class="col-sm-12 col-md-12 wow bounceInUp animated pb-50">
-                        <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-
-                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">Volunteer with us <i
-                                        class="fa fa-user"></i></h3>
-                            <div class="diamond-line-centered-theme-colored2"></div>
-
-                            <p>People all over volunteer with TFG to help us reach the women, children and youth/young
-                                people in greatest need. Join us, and you can help change the world of children lets
-                                secure the future. </p>
-
-
-                        </div>
-                    </div>
-                    <hr>
-                    <div id="speak_out" class="col-sm-12 col-md-12 wow slideInRight animated pb-50">
-                        <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-
-                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">SPEAK OUT <i
-                                        class="fa fa-user"></i></h3>
-                            <div class="diamond-line-centered-theme-colored2"></div>
-
-                            <p>Your voice, join with us can make a difference. Find a story on TFG website, Facebook,
-                                Instagram YouTube or twitter channels and share with your friends and networks. </p>
-
-
-                        </div>
-                    </div>
-                    <hr>
-
-
                 </div>
             </section>
         </section>
@@ -170,4 +117,4 @@
 
 </body>
 
-</html> 
+</html>

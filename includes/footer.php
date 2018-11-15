@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-sm-6 col-md-3">
                 <div class="widget dark">
-                    <img class="mt-5 mb-20" alt="" src="images/tfg-logo.png">
+                    <img class="mt-5 mb-20" alt="" src="images/logo.jpg">
                     <ul class="list-inline mt-15 text-white">
                         <li class="m-0 pl-10 pr-10"><i class="fa fa-phone text-theme-colored2 mr-5"></i>
                             <a class="text-white" href="#">0700816885</a>
@@ -90,7 +90,7 @@
                                target="_blank"><img src="images/social_media/facebook.png" alt=""></a></li>
                         <li><a href="#"><img src="images/social_media/twitter.png" alt=""></a></li>
                         <li><a href="#"><img src="images/social_media/instagram.png" alt=""></a></li>
-                        <li><a href="#"><img src="images/social_media/youtube.png" alt=""></i></a></li>
+                        <li><a href="#"><img src="images/social_media/youtube.png" alt=""></a></li>
                         <li><a href="#"><img src="images/social_media/linkedin.png" alt=""></a></li>
                     </ul>
                 </div>
@@ -110,7 +110,7 @@
                         </div>
                     </form>
                     <!-- Mailchimp Subscription Form Validation-->
-                    <script type="text/javascript">
+                    <script>
                         $('#mailchimp-subscription-form-footer').ajaxChimp({
                             callback: mailChimpCallBack,
                             url: '//thememascot.us9.list-manage.com/subscribe/post?u=a01f440178e35febc8cf4e51f&amp;id=49d6d30e1e'

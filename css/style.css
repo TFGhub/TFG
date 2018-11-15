@@ -7,16 +7,16 @@ footer .footer a{
     color: #FFFFFF;
 }
 
-#menuzord{
+/*#menuzord{
     -webkit-box-shadow: 0px 3px 20px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 3px 20px 0px rgba(0,0,0,0.75);
     box-shadow: 0px 3px 20px 0px rgba(0,0,0,0.75);
+}*/
+
+.menuzord-brand{
+    margin: 0;
 }
 
-.t-s{
-    text-shadow: 2px 1px #333;
-}
-
-#menuzord > a{
-    text-shadow: 2px 1px #333;
+.title-blue, h4{
+    color: #00BFFF;
 }

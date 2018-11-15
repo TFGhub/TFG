@@ -14,7 +14,7 @@
     <title>The Future Generation</title>
 
     <!-- Favicon and Touch Icons -->
-    <link href="images/favicon.png" rel="shortcut icon" type="image/png">
+    <link href="images/logo.jpg" rel="shortcut icon" type="image/png">
     <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
     <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
     <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
@@ -36,8 +36,6 @@
     <link href="css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
     <!-- CSS | Responsive media queries -->
     <link href="css/responsive.css" rel="stylesheet" type="text/css">
-    <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
-    <!--<link href="css/style.css" rel="stylesheet" type="text/css">-->
 
     <!-- Revolution Slider 5.x CSS settings -->
     <link href="js/revolution-slider/css/settings.css" rel="stylesheet" type="text/css"/>
@@ -46,6 +44,9 @@
 
     <!-- CSS | Theme Color -->
     <link href="css/colors/theme-skin-color-set4.css" rel="stylesheet" type="text/css">
+
+    <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
+    <link href="css/style.css" rel="stylesheet" type="text/css">
 
     <!-- external javascripts -->
     <script src="js/jquery-2.2.4.min.js"></script>
@@ -83,109 +84,125 @@
 
         <!-- Section: inner-header -->
         <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg4.jpg">
-                  
-        <section>
-            <div class="container">
-               
-                    
-                         <div class="col-sm-12 col-md-12 wow rotateIn animated">
-                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-                                
-                                <h4 class="text-uppercase font-weight-600 mt-0">ABOUT US</h4>
 
- <p>The future generation is a national Christian humanitarian organization, dedicated to working with men, women children and youths to reach their full potential by addressing their root causes of poverty and injustice. </p>
-<p>We partner with communities, the Government, sponsors, donors and corporates to realize our strategy, our goal, of building and Developing An Empowered Generation 
-Through our strategy, we envision children living and enjoying life in all its fullness. Youth and women accessing opportunities stable and living just life. To this end we work with partners to improve livelihoods and resilience, education & child protection, health, nutrition and HIV/Aids, humanitarian emergency affairs  leadership and governance and access to water, sanitation and hygiene (WASH) for children and their families. 
-Through our advocacy work, we enable the voices of youth, women and children and their communities to reach decision-makers, who have power to change unjust policies and practices. 
-</p>
-<p>The Future Generation has program reach in Kenya, with Area Programs – long – term and short Term development strategic program with target group being men, youth women and children.
-The future generation serves all people regardless of religion, race, ethnicity or gender.</p>
-                                
-                                
-                            </div>
+            <section>
+                <div class="container">
+
+
+                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
+                        <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+
+                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">ABOUT US</h3>
+                            <div class="diamond-line-centered-theme-colored2"></div>
+
+                            <p>The future generation is a national Christian humanitarian organization, dedicated to
+                                working with men, women children and youths to reach their full potential by addressing
+                                their root causes of poverty and injustice. </p>
+                            <p>We partner with communities, the Government, sponsors, donors and corporates to realize
+                                our strategy, our goal, of building and Developing An Empowered Generation
+                                Through our strategy, we envision children living and enjoying life in all its fullness.
+                                Youth and women accessing opportunities stable and living just life. To this end we work
+                                with partners to improve livelihoods and resilience, education & child protection,
+                                health, nutrition and HIV/Aids, humanitarian emergency affairs leadership and governance
+                                and access to water, sanitation and hygiene (WASH) for children and their families.
+                                Through our advocacy work, we enable the voices of youth, women and children and their
+                                communities to reach decision-makers, who have power to change unjust policies and
+                                practices.
+                            </p>
+                            <p>The Future Generation has program reach in Kenya, with Area Programs – long – term and
+                                short Term development strategic program with target group being men, youth women and
+                                children.
+                                The future generation serves all people regardless of religion, race, ethnicity or
+                                gender.</p>
+
+
                         </div>
-<hr>
-                        <div class="col-sm-12 col-md-12 wow slideInRight animated">
-                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-                                
-                                <h4 class="text-uppercase font-weight-600 mt-0">Who We Are</h4>
+                    </div>
 
- <p>The Future Generation is a non-governmental organization founded in 2018 committed, to eradicate poverty through empowering the youth, women and children to be self-reliance capable of building resilience of coping with the current situation within their locality. </p>
+                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
+                        <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
 
-                                
-                                
-                            </div>
+                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">Who We Are</h3>
+                            <div class="diamond-line-centered-theme-colored2"></div>
+
+                            <p>The Future Generation is a non-governmental organization founded in 2018 committed, to
+                                eradicate poverty through empowering the youth, women and children to be self-reliance
+                                capable of building resilience of coping with the current situation within their
+                                locality. </p>
+
+
                         </div>
+                    </div>
 
-                       
-<hr>
-            <div class="col-sm-12 col-md-12 wow bounceInUp animated">
-                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-                                
-                                <h4 class="text-uppercase font-weight-600 mt-0">OUR VISION</h4>
+                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
+                        <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
 
- <p>Empowered communities capable of uplifting their living standards holistically through the transforming. </p>
+                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">OUR VISION</h3>
+                            <div class="diamond-line-centered-theme-colored2"></div>
 
-                                
-                                
-                            </div>
+                            <p>Empowered communities capable of uplifting their living standards holistically through
+                                the transforming. </p>
+
                         </div>
-           <hr>
-         <div class="col-sm-12 col-md-12 wow slideInRight animated">
-                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-                                
-                                <h4 class="text-uppercase font-weight-600 mt-0">OUR MISSION</h4>
+                    </div>
 
- <p>Empowering the society by impacting to them social, economic skill  and commitment in holistic and sustainable development among the poor and marginalized communities through advocacy, capacity building and promoting physical, social, economic, and Spiritual well-being.. </p>
+                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
+                        <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
 
-                                
-                                
-                            </div>
+                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">OUR MISSION</h3>
+                            <div class="diamond-line-centered-theme-colored2"></div>
+
+                            <p>Empowering the society by impacting to them social, economic skill and commitment in
+                                holistic and sustainable development among the poor and marginalized communities through
+                                advocacy, capacity building and promoting physical, social, economic, and Spiritual
+                                well-being.. </p>
+
                         </div>
-<hr>
- <div class="col-sm-12 col-md-12 wow slideInRight animated">
-                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-                                
-                                <h4 class="text-uppercase font-weight-600 mt-0">OUR OBJECTIVES</h4>
+                    </div>
+                    <hr>
+                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
+                        <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
 
- <ul class="list-icon theme-colored">
-  
-          <li><i class="fa fa-arrow-right"></i> To ensure disadvantaged youth and women acquire life skills, relevant market skills, savings education and small business development. </li>
-          <li><i class="fa fa-arrow-right"></i>To ensure that women are empowered to achieve their life goals and have stable sustainable life through skilled training.</li>
-          
+                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">OUR OBJECTIVES</h3>
+                            <div class="diamond-line-centered-theme-colored2"></div>
 
-                   
-</ul>
- 
-                                
-                            </div>
+                            <ul class="list-icon theme-colored">
+
+                                <li><i class="fa fa-arrow-right"></i> To ensure disadvantaged youth and women acquire
+                                    life skills, relevant market skills, savings education and small business
+                                    development.
+                                </li>
+                                <li><i class="fa fa-arrow-right"></i>To ensure that women are empowered to achieve their
+                                    life goals and have stable sustainable life through skilled training.
+                                </li>
+
+                            </ul>
+
                         </div>
-<div class="col-sm-12 col-md-12 wow slideInRight animated">
-                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-                                
-                                <h4 class="text-uppercase font-weight-600 mt-0">OUR CORE VALUE</h4>
+                    </div>
+                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
+                        <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
 
- <ul class="list-icon theme-colored">
-  
-           <li><i class="fa fa-arrow-right"></i> Integrity </li>
-           <li><i class="fa fa-arrow-right"></i> Honesty  </li>
-          <li><i class="fa fa-arrow-right"></i> Accountability  </li>
-          <li><i class="fa fa-arrow-right"></i> Compassion </li>
-          <li><i class="fa fa-arrow-right"></i> Innovation </li>
-          <li><i class="fa fa-arrow-right"></i> Sustainability </li>
-          
+                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">OUR CORE VALUE</h3>
+                            <div class="diamond-line-centered-theme-colored2"></div>
 
-                   
-</ul>
- 
-                                
-                            </div>
-                        </div> 
-                   
-                
-            </div>
+                            <ul class="list-icon theme-colored">
+
+                                <li><i class="fa fa-arrow-right"></i> Integrity</li>
+                                <li><i class="fa fa-arrow-right"></i> Honesty</li>
+                                <li><i class="fa fa-arrow-right"></i> Accountability</li>
+                                <li><i class="fa fa-arrow-right"></i> Compassion</li>
+                                <li><i class="fa fa-arrow-right"></i> Innovation</li>
+                                <li><i class="fa fa-arrow-right"></i> Sustainability</li>
+
+                            </ul>
+
+                        </div>
+                    </div>
+
+                </div>
+            </section>
         </section>
-    </section>
     </div>
     <!-- end main-content -->
 

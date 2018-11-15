@@ -14,7 +14,7 @@
     <title>The Future Generation</title>
 
     <!-- Favicon and Touch Icons -->
-    <link href="images/favicon.png" rel="shortcut icon" type="image/png">
+    <link href="images/logo.jpg" rel="shortcut icon" type="image/png">
     <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
     <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
     <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
@@ -36,8 +36,6 @@
     <link href="css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
     <!-- CSS | Responsive media queries -->
     <link href="css/responsive.css" rel="stylesheet" type="text/css">
-    <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
-    <!--<link href="css/style.css" rel="stylesheet" type="text/css">-->
 
     <!-- Revolution Slider 5.x CSS settings -->
     <link href="js/revolution-slider/css/settings.css" rel="stylesheet" type="text/css"/>
@@ -46,6 +44,9 @@
 
     <!-- CSS | Theme Color -->
     <link href="css/colors/theme-skin-color-set4.css" rel="stylesheet" type="text/css">
+
+    <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
+    <link href="css/style.css" rel="stylesheet" type="text/css">
 
     <!-- external javascripts -->
     <script src="js/jquery-2.2.4.min.js"></script>
@@ -83,52 +84,69 @@
 
         <!-- Section: inner-header -->
         <section class="inner-header divider parallax " data-bg-img="images/bg/leadership.jpg">
-            
-            <div style="height: 300px; background-color: rgba(255,0,0,0.1);">
+            <div style="height: 200px; background-color: rgba(255,0,0,0);">
             </div>
-            <div class="col-sm-12 col-md-12 wow rollIn animated">
-                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-                                
-                                <h4 class="text-uppercase font-weight-600 mt-0">Leadership and Governance</h4>
+            <div class="container">
+                <div class="col-sm-12 col-md-12 wow slideInUp animated">
+                    <div class="row">
+                        <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
 
- <p>This program is primarily concerned with strengthening meaningful participation of youth and women leaders in decision making spaces at National and County levels . The program focuses on.</p>
-<hr>
-                                                              
-                            </div>
-                        </div>
-        </section>
- <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg4.jpg">
-        <section>
-            <div class="container" >
-                <div class="row">
-                    
-                        <div class="col-sm-12 col-md-12 rollIn animated">
-                            <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-                                
-                                <h4 class="text-uppercase font-weight-600 mt-0">The program focuses on</h4>
+                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">Leadership and
+                                Governance</h3>
+                            <div class="diamond-line-centered-theme-colored2"></div>
 
- <p><ul class="list-icon theme-colored">
-  
-          <li><i class="fa fa-arrow-right"></i> Strengthening and expanding the pipeline of women leaders to enter political and non-political decision making spaces. </li>
-          <li><i class="fa fa-arrow-right"></i>Supporting women leaders already in political and non-political decision making spaces to better articulate and champion women’s needs and priorities. Specifically in the formulation of gender responsive policies, legislation, budgets and projects.</li>
-          <li><i class="fa fa-arrow-right"></i> Strengthening capacity of youth and women led groups to carry out advocacy and engage with duty bearers around issues that are priority for women.</li>
+                            <p>This program is primarily concerned with strengthening meaningful participation of youth
+                                and
+                                women leaders in decision making spaces at National and County levels . The program
+                                focuses
+                                on.</p>
 
-                   
-</ul></p>
-                                                              
-                            </div>
                         </div>
-                        
-                        <hr>
-                        
-                        </div>
-                      
-               
-                   
+                    </div>
                 </div>
             </div>
         </section>
-    </section>
+
+        <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg4.jpg">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-sm-12 col-md-12 slideInUp animated">
+                        <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+
+                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">The program focuses
+                                on</h3>
+                            <div class="diamond-line-centered-theme-colored2"></div>
+
+                            <ul class="list-icon theme-colored">
+
+                                <li><i class="fa fa-arrow-right"></i> Strengthening and expanding the pipeline of
+                                    women leaders to enter political and non-political decision making spaces.
+                                </li>
+
+                                <li><i class="fa fa-arrow-right"></i> Supporting women leaders already in political
+                                    and non-political decision making spaces to better articulate and champion
+                                    women’s needs and priorities. Specifically in the formulation of gender
+                                    responsive policies, legislation, budgets and projects.
+                                </li>
+
+                                <li><i class="fa fa-arrow-right"></i> Strengthening capacity of youth and women led
+                                    groups to carry out advocacy and engage with duty bearers around issues that are
+                                    priority for women.
+                                </li>
+
+                            </ul>
+
+                        </div>
+                    </div>
+
+                    <hr>
+
+                </div>
+
+
+            </div>
+        </section>
     </div>
     <!-- end main-content -->
 
