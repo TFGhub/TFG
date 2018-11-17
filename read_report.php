@@ -11,7 +11,7 @@
     <meta name="author" content="TheFutureGeneration"/>
 
     <!-- Page Title -->
-    <title>Hub</title>
+    <title>Reports</title>
 
     <!-- Favicon and Touch Icons -->
     <link href="images/logo.jpg" rel="shortcut icon" type="image/png">
@@ -69,7 +69,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
-<body class="">
+<body>
 <div id="wrapper" class="clearfix">
     <!-- preloader -->
     <!--<div id="preloader">
@@ -85,25 +85,84 @@
     <!-- Start main-content -->
     <div class="main-content">
 
-        <!-- Section: inner-header -->
-        <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg4.jpg">
+        <?php
 
-            <section>
-                <div class="container">
+        include "php/connect.php";
+
+        if (isset($_GET['id'])) {
+            $id = $_GET['id'];
+
+            $select = mysqli_query($conn, "SELECT * FROM `reports` WHERE `id` = $id");
+
+            if ($select) {
+                while ($row = mysqli_fetch_assoc($select)) {
+
+                    $title = $row['title'];
+                    $intro = $row['introduction'];
+                    $obj = $row['objective'];
+                    $impact = $row['impact'];
+                    $date = $row['date'];
 
 
-                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
-                        <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+                    ?>
 
-                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">TFG HUB</h3>
-                            <div class="diamond-line-centered-theme-colored2"></div>
+                    <!-- Section: inner-header -->
+                    <section class="inner-header divider parallax layer-overlay overlay-white-8"
+                             data-bg-img="images/bg/bg4.jpg">
 
-                            <p>Coming Soon</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </section>
+                        <section>
+                            <div class="container ">
+                                <div class="row bg-white pr-40 pl-40 pt-20 pb-20">
+                                    <div class="col-sm-12 col-md-3">
+                                        <img src="images/blog/w1.png" alt="Report">
+                                    </div>
+                                    <div class="col-sm-12 col-md-9 wow slideInUp animated">
+                                        <div class="icon-box features-icon-box ">
+
+                                            <h4 class="text-uppercase font-weight-600 mt-0 text-theme-colored"
+                                                id="title_report">
+                                                <?php echo $title; ?></h4>
+                                            <span class="text-muted"><?php echo $date; ?></span>
+
+                                            <div class="diamond-line-left-theme-colored2"></div>
+
+                                            <?php echo $intro; ?>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row bg-white pr-40 pl-40">
+
+                                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
+                                        <div class="icon-box features-icon-box">
+                                            <h4 class="font-weight-600 mt-0 text-theme-colored">Objectives of the
+                                                Visit</h4>
+
+                                            <?php echo $obj; ?>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row bg-white pr-40 pl-40">
+
+                                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
+                                        <div class="icon-box features-icon-box">
+                                            <h4 class="font-weight-600 mt-0 text-theme-colored">Impact of the Visit</h4>
+
+                                            <?php echo $impact; ?>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </section>
+                    <?php
+                }
+            }
+
+        }
+        ?>
     </div>
     <!-- end main-content -->
 

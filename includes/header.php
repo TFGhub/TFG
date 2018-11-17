@@ -95,8 +95,7 @@
         </div>
     </div>
     <div class="header-nav theme-colored" id="header-nav">
-        <div class="header-nav-wrapper navbar-scrolltofixed"
-             style="-webkit-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.75); -moz-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.75); box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.75);">
+        <div class="header-nav-wrapper navbar-scrolltofixed">
             <div class="container-fluid">
                 <nav id="menuzord" class="menuzord">
                     <ul class="menuzord-menu">

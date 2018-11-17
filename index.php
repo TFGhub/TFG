@@ -48,6 +48,9 @@
     <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
     <link href="css/style.css" rel="stylesheet" type="text/css">
 
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+          integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
     <!-- external javascript -->
     <script src="js/jquery-2.2.4.min.js"></script>
     <script src="js/jquery-ui.min.js"></script>
@@ -170,7 +173,7 @@
                                             class="btn btn-theme-colored2 btn-lg btn-flat text-white font-weight-600 pl-30 pr-30 mr-15"
                                             href="#features">Our Pillars</a><a
                                             class="btn btn-default btn-transparent btn-bordered btn-lg btn-flat font-weight-600 pl-30 pr-30"
-                                            href="#services">Services</a>
+                                            href="#achievements">Achievements</a>
                                 </div>
                             </li>
                             <!-- SLIDE 2 -->
@@ -559,69 +562,71 @@
                 <div class="section-title wow fadeInLeft animated">
                     <div class="row">
                         <div class="col-md-12">
-                            <h2 class="text-uppercase title text-black">Our <span
-                                        class="text-theme-colored2">Reports</span>
+                            <h2 class="text-uppercase title text-black">Progressive <span class="text-theme-colored2">Report</span>
                             </h2>
                             <div class="diamond-line-left-theme-colored2"></div>
                         </div>
                     </div>
                 </div>
+                <div class="section-content wow fadeInDown animated pb-20">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p>This report consists of the TFG's past events, our goals and the impacts
+                                made to the society involved. The report also incorporates the progressive steps taken
+                                by the organization in order to achieve our goals and objectives</p>
+                        </div>
+                    </div>
+                </div>
                 <div class="section-content">
                     <div class="row">
-                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInUp animated">
-                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
-                                            class="fa fa-bar-chart-o text-theme-colored2"></i></a>
-                                <div class="media-body">
-                                    <h4 class="media-heading heading text-black">Financial reports</h4>
-                                    <p class="text-gray-lightgray">TFG Financial Report</p>
+                        <?php
+
+                        include "php/connect.php";
+
+                        $select = mysqli_query($conn, "SELECT * FROM `reports`");
+
+                        if ($select) {
+                            while ($row = mysqli_fetch_assoc($select)) {
+
+                                $id = $row['id'];
+                                $title = $row['title'];
+                                $intro = $row['introduction'];
+                                $obj = $row['objective'];
+                                $impact = $row['impact'];
+                                $date = $row['date'];
+
+                                $intro_length = strlen($intro);
+                                $limit = 200;
+
+                                if ($intro_length <= $limit) {
+                                    $introduction = $intro;
+                                } else {
+                                    $introduction = substr($intro, 0, $limit) . "...";
+                                }
+
+                                ?>
+
+                                <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInUp animated">
+                                    <div class="left media p-0 mb-30">
+                                        <a href="read_report.php?id=<?php echo $id; ?>">
+                                            <div class="">
+                                                <h4 class="text-uppercase media-heading heading text-theme-colored text-left">
+                                                    <b><?php echo $title; ?></b></h4>
+                                                <p><?php echo $introduction; ?>
+                                                    <span>
+                                                    <a class="text-theme-colored"
+                                                       href="read_report.php?id=<?php echo $id; ?>">Read More</a>
+                                                </span>.
+                                                </p>
+                                            </div>
+                                        </a>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInUp animated">
-                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
-                                            class="fa fa-area-chart text-theme-colored2"></i></a>
-                                <div class="media-body">
-                                    <h4 class="media-heading heading text-black">Business Report</h4>
-                                    <p class="text-gray-lightgray">Business Report</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInUp animated">
-                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
-                                            class="fa fa-pie-chart text-theme-colored2"></i></a>
-                                <div class="media-body">
-                                    <h4 class="media-heading heading text-black">Success Report</h4>
-                                    <p class="text-gray-lightgray">TFG Success Report</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInUp animated">
-                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
-                                            class="fa fa-cubes text-theme-colored2"></i></a>
-                                <div class="media-body">
-                                    <h4 class="media-heading heading text-black">Marketing Report</h4>
-                                    <p class="text-gray-lightgray">TFG Marketing Report</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInUp animated">
-                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
-                                            class="fa fa-globe text-theme-colored2"></i></a>
-                                <div class="media-body">
-                                    <h4 class="media-heading heading text-black">Global Reports</h4>
-                                    <p class="text-gray-lightgray">TFG Global Reports .</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInUp animated">
-                            <div class="icon-box left media p-0 mb-40"><a class="media-left pull-left flip" href="#"><i
-                                            class="fa fa-bug text-theme-colored2"></i></a>
-                                <div class="media-body">
-                                    <h4 class="media-heading heading text-black">Risk Management Reports</h4>
-                                    <p class="text-gray-lightgray">TFG Risk Management Reports </p>
-                                </div>
-                            </div>
-                        </div>
+
+                                <?php
+                            }
+                        }
+                        ?>
                     </div>
                 </div>
             </div>
@@ -836,7 +841,7 @@
             </div>
         </section>
 
-        <!-- Divider: Funfact -->
+        <!-- Divider: Achievements -->
         <section id="achievements" class="layer-overlay overlay-theme-colored-9 wow fadeIn animated"
                  data-bg-img="images/bg/1.png">
             <div class="container pt-40 pb-sm-30">
@@ -853,7 +858,7 @@
                             <!--<i class="pe-7s-smile mb-20 text-white"></i>-->
                             <img src="images/economic.png" width="150px" height="150px" alt="Economic Empowerment"
                                  class="img-thumbnail mb-20">
-                            <h2 data-animation-duration="2000" data-value="754"
+                            <h2 data-animation-duration="2000" data-value="5"
                                 class="animate-number text-white font-42 font-weight-600 mt-0 mb-15">0</h2>
                             <h5 class="text-white text-uppercase">Economic Empowerment</h5>
                         </div>
@@ -883,7 +888,7 @@
                             <!--<i class="fa fa-4x fa-wheelchair mb-20 text-white"></i>-->
                             <img src="images/wheelchair.png" width="150px" height="150px" alt="Wheelchair"
                                  class="img-thumbnail mb-20">
-                            <h2 data-animation-duration="2000" data-value="48"
+                            <h2 data-animation-duration="2000" data-value="3"
                                 class="animate-number text-white font-42 font-weight-600 mt-0 mb-15">0</h2>
                             <h5 class="text-white text-uppercase">Wheelchairs</h5>
                         </div>

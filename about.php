@@ -11,7 +11,7 @@
     <meta name="author" content="TheFutureGeneration"/>
 
     <!-- Page Title -->
-    <title>The Future Generation</title>
+    <title>About Us</title>
 
     <!-- Favicon and Touch Icons -->
     <link href="images/logo.jpg" rel="shortcut icon" type="image/png">
@@ -48,6 +48,9 @@
     <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
     <link href="css/style.css" rel="stylesheet" type="text/css">
 
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+          integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
     <!-- external javascripts -->
     <script src="js/jquery-2.2.4.min.js"></script>
     <script src="js/jquery-ui.min.js"></script>
@@ -66,7 +69,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
-<body class="">
+<body>
 <div id="wrapper" class="clearfix">
     <!-- preloader -->
     <!--<div id="preloader">
