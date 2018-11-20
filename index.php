@@ -561,17 +561,17 @@
             <div class="container pb-30">
                 <div class="section-title wow fadeInLeft animated">
                     <div class="row">
-                        <div class="col-md-12">
+                        <div class="col-md-12 text-center">
                             <h2 class="text-uppercase title text-black">Progressive <span class="text-theme-colored2">Report</span>
                             </h2>
-                            <div class="diamond-line-left-theme-colored2"></div>
+                            <div class="diamond-line-centered-theme-colored2"></div>
                         </div>
                     </div>
                 </div>
                 <div class="section-content wow fadeInDown animated pb-20">
                     <div class="row">
-                        <div class="col-md-12">
-                            <p>This report consists of the TFG's past events, our goals and the impacts
+                        <div class="col-xs-12 col-sm-12 col-md-12 wow fadeInUp animated text-center">
+                            <p style="font-size: 1.2em">This report consists of the TFG's past events, our goals and the impacts
                                 made to the society involved. The report also incorporates the progressive steps taken
                                 by the organization in order to achieve our goals and objectives</p>
                         </div>

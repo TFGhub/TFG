@@ -122,7 +122,7 @@
                         </div>
                     </div>
 
-                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
+                    <div class="col-sm-12 col-md-12 wow slideInUp animated" id="who_we_are">
                         <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
 
                             <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">Who We Are</h3>
@@ -137,19 +137,7 @@
                         </div>
                     </div>
 
-                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
-                        <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
-
-                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">OUR VISION</h3>
-                            <div class="diamond-line-centered-theme-colored2"></div>
-
-                            <p>Empowered communities capable of uplifting their living standards holistically through
-                                the transforming. </p>
-
-                        </div>
-                    </div>
-
-                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
+                    <div class="col-sm-12 col-md-12 wow slideInUp animated" id="mission">
                         <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
 
                             <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">OUR MISSION</h3>
@@ -162,8 +150,20 @@
 
                         </div>
                     </div>
+
+                    <div class="col-sm-12 col-md-12 wow slideInUp animated" id="vision">
+                        <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
+
+                            <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">OUR VISION</h3>
+                            <div class="diamond-line-centered-theme-colored2"></div>
+
+                            <p>An empowered and sustainable world for the future generation. </p>
+
+                        </div>
+                    </div>
+
                     <hr>
-                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
+                    <div class="col-sm-12 col-md-12 wow slideInUp animated" id="objectives">
                         <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
 
                             <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">OUR OBJECTIVES</h3>
@@ -183,7 +183,7 @@
 
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-12 wow slideInUp animated">
+                    <div class="col-sm-12 col-md-12 wow slideInUp animated" id="core_values">
                         <div class="icon-box features-icon-box iconbox-theme-colored bg-white border-1px text-center p-40">
 
                             <h3 class="text-uppercase font-weight-600 mt-0 text-theme-colored">OUR CORE VALUE</h3>

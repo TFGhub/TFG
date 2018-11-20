@@ -50,8 +50,9 @@
         <div class="container-fluid pt-20 pb-20">
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-3">
-                    <a class="menuzord-brand pull-left flip sm-pull-center mb-15" href="index.php"><img
-                                src="images/logo.jpg" alt=""></a>
+                    <!-- <a class="menuzord-brand pull-left flip sm-pull-center mb-15" href="index.php"></a>-->
+                    <a class="pull-right flip mb-15" href="index.php"><img src="images/logo.jpg" height="50%"
+                                                                           width="50%" alt="" class="pull-right"></a>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-9">
                     <div class="header-widget-contact-info-box sm-text-center">
@@ -100,7 +101,17 @@
                 <nav id="menuzord" class="menuzord">
                     <ul class="menuzord-menu">
                         <li class="active"><a href="index.php">Home</a></li>
-                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="about.php">About Us</a>
+                            <ul class="dropdown">
+                                <li><a href="about.php#who_we_are">Who we are</a>
+                                <li><a href="about.php#mission">Mission</a></li>
+                                <li><a href="about.php#vision">Vision</a>
+                                <li><a href="about.php#objectives">Objectives</a></li>
+                                <li><a href="about.php#core_values">Core Values</a>
+                                <li><a href="index.php#gallery">Gallery</a></li>
+                                <li><a href="index.php#team">Team</a></li>
+                            </ul>
+                        </li>
                         <li><a href="index.php#features">Our Pillars</a>
                             <ul class="dropdown">
 
@@ -115,7 +126,83 @@
                         <li><a href="index.php#achievements">Achievements</a></li>
                         <li><a href="index.php#map">Where we work</a></li>
                         <li><a href="index.php#reports">Reports</a></li>
-                        <li><a href="hub.php">Hub</a></li>
+                        <li>
+                            <a href="hub.php">Hub</a>
+                            <div class="megamenu megamenu-bg-img">
+                                <div class="megamenu-row">
+                                    <div class="col3">
+                                        <h4 class="megamenu-col-title">Future Events:</h4>
+                                        <div class="widget">
+                                            <div class="latest-posts">
+                                                <article class="post media-post clearfix pb-0 mb-10">
+                                                    <a href="#" class="post-thumb"><img
+                                                                alt="" src="http://placehold.it/80x55"></a>
+                                                    <div class="post-right">
+                                                        <h5 class="post-title mt-0 mb-5">
+                                                            <a href="#">PHP Event</a>
+                                                        </h5>
+                                                        <p class="mb-0 text-muted">December 08, 2018</p>
+                                                    </div>
+                                                </article>
+                                                <article class="post media-post clearfix pb-0 mb-10">
+                                                    <a href="#" class="post-thumb"><img
+                                                                alt="" src="http://placehold.it/80x55"></a>
+                                                    <div class="post-right">
+                                                        <h5 class="post-title mt-0 mb-5">
+                                                            <a href="#">Python Challenge</a></h5>
+                                                        <p class="mb-0 text-muted">November 28, 2018</p>
+                                                    </div>
+                                                </article>
+                                                <article class="post media-post clearfix pb-0 mb-10">
+                                                    <a href="#" class="post-thumb"><img
+                                                                alt="" src="http://placehold.it/80x55"></a>
+                                                    <div class="post-right">
+                                                        <h5 class="post-title mt-0 mb-5">
+                                                            <a href="#">JavaScript Code</a></h5>
+                                                        <p class="mb-0 text-muted">January 08, 2019</p>
+                                                    </div>
+                                                </article>
+                                                <article class="post media-post clearfix pb-0 mb-10">
+                                                    <a href="#" class="post-thumb"><img
+                                                                alt="" src="http://placehold.it/80x55"></a>
+                                                    <div class="post-right">
+                                                        <h5 class="post-title mt-0 mb-5">
+                                                            <a href="#">Artificial Intelligence</a></h5>
+                                                        <small class="mb-0 text-muted">March 08, 2019</small>
+                                                    </div>
+                                                </article>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col3">
+                                        <h4 class="megamenu-col-title">Featured News:</h4>
+                                        <article class="post clearfix">
+                                            <div class="entry-header text-center">
+                                                <div class="post-thumb">
+                                                    <img class="img-responsive" src="images/bg/1.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="entry-content">
+                                                <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                                <a class="btn btn-dark btn-theme-colored" href="#">read more..</a></div>
+                                        </article>
+                                    </div>
+                                    <div class="col3">
+                                        <h4 class="megamenu-col-title">Promotional Offer:</h4>
+                                        <img src="images/megamenu/megamenu-sale-off.jpg" alt="">
+                                    </div>
+                                    <div class="col3">
+                                        <h4 class="megamenu-col-title">Quick Links:</h4>
+                                        <ul class="list-dashed list-icon">
+                                            <li><a href="#">Privacy Policy</a></li>
+                                            <li><a href="#">Disclaimer</a></li>
+                                            <li><a href="#">Terms of Use</a></li>
+                                            <li><a href="#">Copyright Notice</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
                     </ul>
                     <ul class="menuzord-menu pull-right sm-pull-none mb-sm-15">
                         <li><a href="take_action.php#take_action">Take
